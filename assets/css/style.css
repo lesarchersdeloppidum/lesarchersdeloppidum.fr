@@ -1,0 +1,224 @@
+/* =========================================================
+   Les Archers de l'Oppidum — design tokens
+   Palette dérivée du bleu du logo + accents cible/médaille
+   ========================================================= */
+:root {
+  --color-navy: #0E2841;
+  --color-navy-light: #1C3D5C;
+  --color-navy-deep: #081826;
+  --color-silver: #B8C4CC;
+  --color-silver-dim: #8A99A5;
+  --color-parchment: #F5F2EC;
+  --color-gold: #C9A24B;
+  --color-gold-dim: #A9863C;
+  --color-ink: #12181D;
+
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body: "Inter", "Segoe UI", sans-serif;
+
+  --radius: 4px;
+  --max-width: 1080px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--color-parchment);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  color: var(--color-navy);
+  margin: 0 0 0.5em;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+a { color: var(--color-navy); }
+a:hover { color: var(--color-gold-dim); }
+
+.wrap {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* ---------- Header ---------- */
+.site-header {
+  background: var(--color-navy);
+  border-bottom: 3px solid var(--color-gold);
+}
+.site-header .wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+.site-header .brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+}
+.site-header .brand img {
+  height: 44px;
+  width: auto;
+}
+.site-header .brand-name {
+  font-family: var(--font-display);
+  color: var(--color-parchment);
+  font-size: 1.15rem;
+  letter-spacing: 0.02em;
+}
+.site-nav {
+  display: flex;
+  gap: 22px;
+  flex-wrap: wrap;
+}
+.site-nav a {
+  color: var(--color-silver);
+  text-decoration: none;
+  font-size: 0.92rem;
+  font-weight: 500;
+  transition: color 0.15s ease;
+}
+.site-nav a:hover,
+.site-nav a.active {
+  color: var(--color-gold);
+}
+
+/* ---------- Hero — motif cible concentrique ---------- */
+.hero {
+  position: relative;
+  background: radial-gradient(circle at 82% 20%, var(--color-navy-light) 0%, var(--color-navy) 55%, var(--color-navy-deep) 100%);
+  color: var(--color-parchment);
+  overflow: hidden;
+  padding: 96px 0 88px;
+}
+.hero::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: -140px;
+  width: 520px;
+  height: 520px;
+  transform: translateY(-50%);
+  border-radius: 50%;
+  background:
+    radial-gradient(circle, transparent 0 30%, var(--color-gold) 30% 32%, transparent 32% 46%,
+    var(--color-silver-dim) 46% 48%, transparent 48% 62%, var(--color-gold) 62% 64%, transparent 64%);
+  opacity: 0.35;
+}
+.hero .wrap { position: relative; z-index: 1; }
+.hero .eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.78rem;
+  color: var(--color-gold);
+  margin-bottom: 14px;
+}
+.hero h1 {
+  color: var(--color-parchment);
+  font-size: clamp(2.1rem, 4.5vw, 3.4rem);
+  max-width: 14ch;
+}
+.hero p.lead {
+  color: var(--color-silver);
+  max-width: 46ch;
+  font-size: 1.08rem;
+  margin-top: 18px;
+}
+.hero .cta-row {
+  margin-top: 32px;
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+/* ---------- Buttons ---------- */
+.btn {
+  display: inline-block;
+  padding: 12px 26px;
+  border-radius: var(--radius);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  border: 1px solid transparent;
+  transition: all 0.15s ease;
+}
+.btn-primary {
+  background: var(--color-gold);
+  color: var(--color-navy-deep);
+}
+.btn-primary:hover { background: #d9b563; color: var(--color-navy-deep); }
+.btn-outline {
+  border-color: var(--color-silver-dim);
+  color: var(--color-parchment);
+}
+.btn-outline:hover { border-color: var(--color-gold); color: var(--color-gold); }
+
+/* ---------- Content sections ---------- */
+.section {
+  padding: 72px 0;
+}
+.section-alt {
+  background: #EDE8DD;
+}
+.section .kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.75rem;
+  color: var(--color-gold-dim);
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 24px;
+  margin-top: 36px;
+}
+.card {
+  background: #fff;
+  border: 1px solid #E1DACB;
+  border-radius: var(--radius);
+  padding: 26px;
+  border-top: 3px solid var(--color-navy);
+}
+.card h3 { font-size: 1.1rem; }
+.card p { color: #3c4650; font-size: 0.95rem; }
+
+/* ---------- Footer ---------- */
+.site-footer {
+  background: var(--color-navy-deep);
+  color: var(--color-silver-dim);
+  padding: 40px 0;
+  font-size: 0.85rem;
+}
+.site-footer a { color: var(--color-silver); }
+.site-footer .wrap {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+/* ---------- Mobile ---------- */
+@media (max-width: 720px) {
+  .site-header .wrap { flex-direction: column; align-items: flex-start; gap: 10px; }
+  .hero { padding: 64px 0 56px; }
+  .hero::before { width: 320px; height: 320px; right: -100px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  * { transition: none !important; }
+}

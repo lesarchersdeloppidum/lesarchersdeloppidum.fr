@@ -1,0 +1,31 @@
+title: Les Archers de l'Oppidum
+description: Club de tir à l'arc — Tir Nature & Tir 3D
+url: "https://lesarchersdeloppidum.fr"
+baseurl: ""
+
+markdown: kramdown
+theme: null
+
+navigation:
+  - title: Accueil
+    url: /
+  - title: Le club
+    url: /club/
+  - title: Tir Nature
+    url: /tir-nature/
+  - title: Tir 3D
+    url: /tir-3d/
+  - title: Carte des compétitions
+    url: /carte/
+  - title: Adhésion
+    url: /adhesion/
+  - title: Contact
+    url: /contact/
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

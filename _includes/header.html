@@ -1,0 +1,14 @@
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="Logo Les Archers de l'Oppidum">
+      <span class="brand-name">Les Archers de l'Oppidum</span>
+    </a>
+    <nav class="site-nav">
+      {% for item in site.navigation %}
+        <a href="{{ item.url | relative_url }}"
+           {% if page.url == item.url %}class="active"{% endif %}>{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>
