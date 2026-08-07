@@ -1,24 +1,65 @@
----
-layout: default
-title: Accueil
-permalink: /
----
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Accueil — Les Archers de l'Oppidum</title>
+  <meta name="description" content="Club de tir à l'arc — Tir Nature & Tir 3D">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="icon" type="image/png" href="/assets/img/favicon.png">
+</head>
+<body>
+  <header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/">
+      <img src="/assets/img/logo.png" alt="Logo Les Archers de l'Oppidum">
+      <span class="brand-name">Les Archers de l'Oppidum</span>
+    </a>
+    <nav class="site-nav">
+      
+        <a href="/"
+           class="active">Accueil</a>
+      
+        <a href="/club/"
+           >Le club</a>
+      
+        <a href="/tir-nature/"
+           >Tir Nature</a>
+      
+        <a href="/tir-3d/"
+           >Tir 3D</a>
+      
+        <a href="/carte/"
+           >Carte des compétitions</a>
+      
+        <a href="/adhesion/"
+           >Adhésion</a>
+      
+        <a href="/contact/"
+           >Contact</a>
+      
+    </nav>
+  </div>
+</header>
 
-<section class="hero">
+  <main>
+    <section class="hero">
   <div class="wrap">
     <div class="hero-text">
       <div class="eyebrow">Club affilié FFTA — Gaujac, Gard</div>
-      <h1>Le tir à l'arc Nature & 3D à Gaujac, dans le Gard.</h1>
+      <h1>Le tir à l'arc Nature &amp; 3D à Gaujac, dans le Gard.</h1>
       <p class="lead">
         Les Archers de l'Oppidum, club de tir à l'arc situé à Gaujac, dans le Gard. Spécialisés dans les disciplines Nature et 3D, nous accueillons les archers de tous niveaux dans une ambiance conviviale, avec l'envie de partager une pratique sportive au plus près de la nature.
       </p>
       <div class="cta-row">
-        <a class="btn btn-primary" href="{{ '/adhesion/' | relative_url }}">Rejoindre le club</a>
-        <a class="btn btn-outline" href="{{ '/club/' | relative_url }}">Découvrir le club</a>
+        <a class="btn btn-primary" href="/adhesion/">Rejoindre le club</a>
+        <a class="btn btn-outline" href="/club/">Découvrir le club</a>
       </div>
     </div>
     <div class="hero-logo">
-      <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="Logo Les Archers de l'Oppidum">
+      <img src="/assets/img/logo.png" alt="Logo Les Archers de l'Oppidum" />
     </div>
   </div>
 </section>
@@ -31,17 +72,17 @@ permalink: /
       <div class="card">
         <h3>Tir Nature</h3>
         <p>Un parcours de 21 cibles représentant des animaux en pleine nature, où l'observation, l'estimation des distances et la gestion du temps sont essentielles.</p>
-        <a href="{{ '/tir-nature/' | relative_url }}">En savoir plus →</a>
+        <a href="/tir-nature/">En savoir plus →</a>
       </div>
       <div class="card">
         <h3>Tir 3D</h3>
         <p>Un parcours composé de cibles animalières en mousse haute densité reproduisant fidèlement la faune sauvage. Une discipline immersive qui allie précision, technique et maîtrise des distances.</p>
-        <a href="{{ '/tir-3d/' | relative_url }}">En savoir plus →</a>
+        <a href="/tir-3d/">En savoir plus →</a>
       </div>
       <div class="card">
         <h3>Carte de compétitions</h3>
         <p>Consultez notre carte interactive des compétitions FFTA partout en France, mise à jour régulièrement afin de préparer vos prochains déplacements.</p>
-        <a href="{{ '/carte/' | relative_url }}">Ouvrir la carte →</a>
+        <a href="/carte/">Ouvrir la carte →</a>
       </div>
     </div>
   </div>
@@ -62,3 +103,14 @@ permalink: /
     </ul>
   </div>
 </section>
+
+  </main>
+  <footer class="site-footer">
+  <div class="wrap">
+    <span>© 2026 Les Archers de l'Oppidum — Gaujac, Gard</span>
+    <span><a href="/contact/">Nous contacter</a></span>
+  </div>
+</footer>
+
+</body>
+</html>
