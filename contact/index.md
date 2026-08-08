@@ -8,6 +8,12 @@ permalink: /contact/
   <div class="wrap">
     <div class="kicker">Contact</div>
     <h1>Nous contacter</h1>
-    <p class="lead">À compléter : email du club, page ou groupe réseau social, adresse du terrain.</p>
+    <p class="lead">
+    Page en construction...
+    <br>
+    Facebook : https://www.facebook.com/profile.php?id=61591985237701
+    <br>
+    Email : contact@lesarchersdeloppidum.fr
+    </p>
   </div>
 </section>
