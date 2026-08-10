@@ -63,7 +63,9 @@ permalink: /tir-nature/
   </div>
   <div class="feature-text">
     <h3>Arc nu (Barebow ou BB)</h3>
-    <p>Le Barebow est un arc dépourvu de viseur et de stabilisateurs, permettant à l'archer de tirer sans dispositif de visée. Seul un repose-flèche et certains accessoires destinés à améliorer le confort et l'équilibre de l'arc sont autorisés, dans des limites précises. La corde ne peut pas comporter de repère destiné à aider à la visée, mais l'archer peut utiliser différentes techniques d'ancrage et de positionnement des doigts. L'ensemble du matériel doit respecter des dimensions et des caractéristiques définies par le règlement fédéral.</p>
+    <p>Le Barebow est un arc dépourvu de viseur et de stabilisateurs, permettant à l'archer de tirer sans dispositif de visée. Seul un repose-flèche et certains accessoires destinés à améliorer le confort et l'équilibre de l'arc sont autorisés, dans des limites précises. La corde ne peut pas comporter de repère destiné à aider à la visée, mais l'archer peut utiliser différentes techniques d'ancrage et de positionnement des doigts. L'ensemble du matériel doit respecter des dimensions et des caractéristiques définies par le règlement fédéral.
+    <br>
+    Photo : Valérie du club de Miramas</p>
   </div>
 </div>
 
@@ -75,7 +77,10 @@ permalink: /tir-nature/
   </div>
   <div class="feature-text">
     <h3>Arc droit (Longbow ou AD)</h3>
-    <p>Le Longbow est un arc traditionnel dont la corde, lorsque l'arc est bandé, ne touche que les poupées de l'arc. Il mesure au minimum 150 cm et est utilisé sans viseur, stabilisateur, masse ou amortisseur de vibrations. L'archer tire avec une prise de corde traditionnelle, soit « méditerranéenne », soit avec les trois doigts sous la flèche, et utilise un seul point d'ancrage. Les techniques de repérage sur la corde ou le visage permettant d'aider à la visée ne sont pas autorisées.</p>
+    <p>Le Longbow est un arc traditionnel dont la corde, lorsque l'arc est bandé, ne touche que les poupées de l'arc. Il mesure au minimum 150 cm et est utilisé sans viseur, stabilisateur, masse ou amortisseur de vibrations. L'archer tire avec une prise de corde traditionnelle, soit « méditerranéenne », soit avec les trois doigts sous la flèche, et utilise un seul point d'ancrage. Les techniques de repérage sur la corde ou le visage permettant d'aider à la visée ne sont pas autorisées.
+    <br>
+    Photo : Mélanie du club de Robion
+    </p>
   </div>
 </div>
 
@@ -87,7 +92,10 @@ permalink: /tir-nature/
   </div>
   <div class="feature-text">
     <h3>Arc chasse (AC)</h3>
-    <p>L'arc chasse est un arc classique de type recurve, utilisé nu et sans viseur. Pour la saison 2027, il répond à la définition de l'arc nu, avec un équipement limité et sans dispositif pouvant servir d'aide à la visée. L'archer utilise une prise de corde traditionnelle, soit méditerranéenne, soit avec les doigts sous l'encoche, et conserve un seul point d'ancrage pendant le concours. À partir de la saison 2029, une définition plus précise de l'arc chasse, notamment concernant la composition de la poignée, entrera en vigueur.</p>
+    <p>L'arc chasse est un arc classique de type recurve, utilisé nu et sans viseur. Pour la saison 2027, il répond à la définition de l'arc nu, avec un équipement limité et sans dispositif pouvant servir d'aide à la visée. L'archer utilise une prise de corde traditionnelle, soit méditerranéenne, soit avec les doigts sous l'encoche, et conserve un seul point d'ancrage pendant le concours. À partir de la saison 2029, une définition plus précise de l'arc chasse, notamment concernant la composition de la poignée, entrera en vigueur.
+    <br>
+    Photo : Patrick du club de Rochefort-du-Gard
+    </p>
   </div>
 </div>
 
@@ -99,19 +107,25 @@ permalink: /tir-nature/
   </div>
   <div class="feature-text">
     <h3>Arc à poulies nu (CO)</h3>
-    <p>L'arc à poulies nu est un arc compound dont l'allonge est réglée mécaniquement grâce à un système de poulies ou de cames. Sa puissance est limitée à 60 livres et il est utilisé sans viseur. Certains accessoires sont autorisés, notamment un repose-flèche réglable, un contrôleur d'allonge et un amortisseur ou contrepoids, dans les limites prévues par le règlement. La prise de corde et la technique d'ancrage sont entièrement libres.</p>
+    <p>L'arc à poulies nu est un arc compound dont l'allonge est réglée mécaniquement grâce à un système de poulies ou de cames. Sa puissance est limitée à 60 livres et il est utilisé sans viseur. Certains accessoires sont autorisés, notamment un repose-flèche réglable, un contrôleur d'allonge et un amortisseur ou contrepoids, dans les limites prévues par le règlement. La prise de corde et la technique d'ancrage sont entièrement libres.
+    <br>
+    Photo : Mélanie du club de Gaujac
+    </p>
   </div>
 </div>
 
 <div class="feature-row">
   <div class="feature-img">
-    <img src="{{ '/assets/img/tir-libre.jpg' | relative_url }}"
-    alt="Tir libre"
+    <img src="{{ '/assets/img/arc-tir-libre.jpg' | relative_url }}"
+    alt="Arc Tir libre"
     onerror="this.onerror=null; this.src='{{ '/assets/img/travaux.jpg' | relative_url }}';">
   </div>
   <div class="feature-text">
     <h3>Tir libre (TL)</h3>
-    <p>Le Tir libre utilise un arc à poulies dont l'allonge est réglée mécaniquement par un système de poulies ou de cames, avec une puissance maximale de 60 livres. Contrairement au poulie nu, le viseur est autorisé, tout comme les stabilisateurs et de nombreux accessoires destinés à améliorer la précision et le confort de tir. L'archer peut également utiliser un décocheur. L'équipement reste soumis aux règles de sécurité et aux limitations prévues pour le tir sur parcours.</p>
+    <p>Le Tir libre utilise un arc à poulies dont l'allonge est réglée mécaniquement par un système de poulies ou de cames, avec une puissance maximale de 60 livres. Contrairement au poulie nu, le viseur est autorisé, tout comme les stabilisateurs et de nombreux accessoires destinés à améliorer la précision et le confort de tir. L'archer peut également utiliser un décocheur. L'équipement reste soumis aux règles de sécurité et aux limitations prévues pour le tir sur parcours.
+    <br>
+    Photo : Frédéric du club de Gaujac
+    </p>
   </div>
 </div>
 
@@ -131,6 +145,8 @@ permalink: /tir-nature/
       En Tir Nature, les archers tirent sur des blasons représentant des animaux. Il existe quatre types de blasons, reconnaissables principalement à leur taille : le Birdie, le petit gibier, le moyen gibier et le grand gibier.
       <br>
       La taille du blason est liée à la distance de tir : plus le blason est petit, plus la distance est courte. Chaque type de blason possède également des zones de score qui permettent de déterminer les points obtenus par l’archer.
+      <br>
+      Les photos des blasons ci-dessous proviennent du site AI2M.
     </p>
 
 <div class="feature-row">

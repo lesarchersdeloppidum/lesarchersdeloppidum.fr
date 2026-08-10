@@ -7,8 +7,8 @@ permalink: /
 <section class="hero">
   <div class="wrap">
     <div class="hero-text">
-      <div class="eyebrow">Club affilié FFTA — Gaujac, Gard</div>
-      <h1>Le tir à l'arc Nature & 3D à Gaujac, dans le Gard.</h1>
+      <div class="eyebrow">Club en cours d'affiliation FFTA — Gaujac, Gard</div>
+      <h1>Le tir à l'arc<br>Nature & 3D<br>à Gaujac - Gard.</h1>
       <p class="lead">
         Les Archers de l'Oppidum, club de tir à l'arc situé à Gaujac, dans le Gard. Spécialisés dans les disciplines Nature et 3D, nous accueillons les archers de tous niveaux dans une ambiance conviviale, avec l'envie de partager une pratique sportive au plus près de la nature.
       </p>
