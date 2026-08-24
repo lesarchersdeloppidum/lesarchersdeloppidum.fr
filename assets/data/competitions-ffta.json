@@ -1,5 +1,5 @@
 {
-  "derniere_maj": "2026-08-16",
+  "derniere_maj": "2026-08-24",
   "competitions": [
     {
       "id": "23146",
@@ -535,7 +535,7 @@
     },
     {
       "id": "23187",
-      "url": "https://www.ffta.fr/index.php/epreuve/23187",
+      "url": "https://www.ffta.fr/epreuve/23187",
       "nom": "JEUX MÉDITERRANÉEN à TARANTO - ITALIE",
       "dates": {
         "texte": "Du 25 au 28 août 2026",
@@ -562,7 +562,7 @@
     },
     {
       "id": "24820",
-      "url": "https://www.ffta.fr/index.php/epreuve/24820",
+      "url": "https://www.ffta.fr/epreuve/24820",
       "nom": "BEURSAULT DANS UN JARDIN D'ARC à ARDIN",
       "dates": {
         "texte": "Du 28 au 30 août 2026",
@@ -589,7 +589,7 @@
     },
     {
       "id": "25006",
-      "url": "https://www.ffta.fr/index.php/epreuve/25006",
+      "url": "https://www.ffta.fr/epreuve/25006",
       "nom": "CHAMPIONNAT DE RONDE DU VERMANDOIS à NAUROY",
       "dates": {
         "texte": "Du 28 au 30 août 2026",
@@ -616,7 +616,7 @@
     },
     {
       "id": "24821",
-      "url": "https://www.ffta.fr/index.php/epreuve/24821",
+      "url": "https://www.ffta.fr/epreuve/24821",
       "nom": "BOUQUET BEURSAULT CHATEAUROUX à CHATEAUROUX",
       "dates": {
         "texte": "Du 29 au 30 août 2026",
@@ -643,7 +643,7 @@
     },
     {
       "id": "24822",
-      "url": "https://www.ffta.fr/index.php/epreuve/24822",
+      "url": "https://www.ffta.fr/epreuve/24822",
       "nom": "LA BRIARDE à CHAMPS SUR MARNE",
       "dates": {
         "texte": "Du 29 au 30 août 2026",
@@ -670,7 +670,7 @@
     },
     {
       "id": "24823",
-      "url": "https://www.ffta.fr/index.php/epreuve/24823",
+      "url": "https://www.ffta.fr/epreuve/24823",
       "nom": "CONCOURS BEURSAULT DE MORSANG à MORSANG SUR ORGE",
       "dates": {
         "texte": "Du 29 au 30 août 2026",
@@ -697,7 +697,7 @@
     },
     {
       "id": "24824",
-      "url": "https://www.ffta.fr/index.php/epreuve/24824",
+      "url": "https://www.ffta.fr/epreuve/24824",
       "nom": "JOURNÉE D'OUVERTURE à MARMANDE",
       "dates": {
         "texte": "Le 29 août 2026",
@@ -724,7 +724,7 @@
     },
     {
       "id": "25007",
-      "url": "https://www.ffta.fr/index.php/epreuve/25007",
+      "url": "https://www.ffta.fr/epreuve/25007",
       "nom": "TIR A LA GRENOUILLE à ESSOMES SUR MARNE",
       "dates": {
         "texte": "Du 29 au 30 août 2026",
@@ -751,7 +751,7 @@
     },
     {
       "id": "25008",
-      "url": "https://www.ffta.fr/index.php/epreuve/25008",
+      "url": "https://www.ffta.fr/epreuve/25008",
       "nom": "CHAMPIONNAT DE RONDE VALEE DE L'OISE à LE PLESSIS BRION",
       "dates": {
         "texte": "Du 29 au 30 août 2026",
@@ -778,7 +778,7 @@
     },
     {
       "id": "25084",
-      "url": "https://www.ffta.fr/index.php/epreuve/25084",
+      "url": "https://www.ffta.fr/epreuve/25084",
       "nom": "BEURSAULT à TREMBLAY EN FRANCE",
       "dates": {
         "texte": "Du 29 au 30 août 2026",
@@ -805,7 +805,7 @@
     },
     {
       "id": "25296",
-      "url": "https://www.ffta.fr/index.php/epreuve/25296",
+      "url": "https://www.ffta.fr/epreuve/25296",
       "nom": "CIRCUIT DES 5 NATIONS  à ESCH SUR ALZETTE - LUXEMBOURG",
       "dates": {
         "texte": "Du 29 au 30 août 2026",
@@ -832,7 +832,7 @@
     },
     {
       "id": "26720",
-      "url": "https://www.ffta.fr/index.php/epreuve/26720",
+      "url": "https://www.ffta.fr/epreuve/26720",
       "nom": "TIR A  18 M à RENNES",
       "dates": {
         "texte": "Le 29 août 2026",
@@ -855,11 +855,11 @@
       "discipline": "Tir à 18m",
       "championnat": "Individuel Tir à 18m 2026",
       "organisateur": "COMPAGNIE D'ARCHERS DE RENNES",
-      "statut_evenement": null
+      "statut_evenement": "reportée"
     },
     {
       "id": "26721",
-      "url": "https://www.ffta.fr/index.php/epreuve/26721",
+      "url": "https://www.ffta.fr/epreuve/26721",
       "nom": "TIR A  18 M à RENNES",
       "dates": {
         "texte": "Le 29 août 2026",
@@ -882,11 +882,11 @@
       "discipline": "Para-tir à l'arc à 18m",
       "championnat": "Individuel Para-tir à l'arc à 18m 2026",
       "organisateur": "COMPAGNIE D'ARCHERS DE RENNES",
-      "statut_evenement": null
+      "statut_evenement": "reportée"
     },
     {
       "id": "24825",
-      "url": "https://www.ffta.fr/index.php/epreuve/24825",
+      "url": "https://www.ffta.fr/epreuve/24825",
       "nom": "FORUM ASSOCIATION  à SAINT JEAN SUR VEYLE",
       "dates": {
         "texte": "Le 30 août 2026",
@@ -1156,7 +1156,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26334",
+      "url": "https://www.ffta.fr/epreuve/26334",
       "id": "26334",
       "nom": "PRIX GENERAL BEURSAULT 2026 à VILLEMOMBLE",
       "date": "Du 30 août au 06 septembre 2026",
@@ -1184,7 +1184,7 @@
       "statut_evenement": "annulée"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/24826",
+      "url": "https://www.ffta.fr/epreuve/24826",
       "id": "24826",
       "nom": "FORUM DES ASSOCIATIONS à LAGNIEU",
       "date": "Le 04 septembre 2026",
@@ -1212,7 +1212,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/24827",
+      "url": "https://www.ffta.fr/epreuve/24827",
       "id": "24827",
       "nom": "CHAMPIONNAT DU RHONE ET CHAMPIONNAT REGIONAL 2026 à 69",
       "date": "Du 04 au 06 septembre 2026",
@@ -1240,7 +1240,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25009",
+      "url": "https://www.ffta.fr/epreuve/25009",
       "id": "25009",
       "nom": "TIR AUX POMMES à NAUROY",
       "date": "Du 04 au 06 septembre 2026",
@@ -1268,7 +1268,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27161",
+      "url": "https://www.ffta.fr/epreuve/27161",
       "id": "27161",
       "nom": "TIR AUX POMMES à 02420 NAUROY",
       "date": "Du 04 au 06 septembre 2026",
@@ -1296,7 +1296,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/24828",
+      "url": "https://www.ffta.fr/epreuve/24828",
       "id": "24828",
       "nom": "FORUM DES ASSOCIATIONS à SAINTE JULIE",
       "date": "Le 05 septembre 2026",
@@ -1324,7 +1324,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/24829",
+      "url": "https://www.ffta.fr/epreuve/24829",
       "id": "24829",
       "nom": "JOURNEE DECOUVERTE à SAINTE JULIE",
       "date": "Le 05 septembre 2026",
@@ -1455,7 +1455,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/110af9848a436d.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir Beursault",
@@ -1657,7 +1657,7 @@
       "discipline": "Tir 3D",
       "championnat": "Individuel Tir sur cible 3D 2026",
       "organisateur": "M.J.C. SECTION TIR A L'ARC",
-      "statut_evenement": null
+      "statut_evenement": "annulée"
     },
     {
       "url": "https://www.ffta.fr/epreuve/25813",
@@ -1716,7 +1716,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27442",
+      "url": "https://www.ffta.fr/epreuve/27442",
       "id": "27442",
       "nom": "CHAMPIONNAT REGIONAL BEURSAULT à GUICHEN",
       "date": "Du 05 au 06 septembre 2026",
@@ -2015,7 +2015,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/110b88c1d9a209.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir Nature",
@@ -2696,7 +2696,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/23185",
+      "url": "https://www.ffta.fr/epreuve/23185",
       "id": "23185",
       "nom": "CHAMPIONNAT DE FRANCE PAR EQUIPE DE CLUBS à A VENIR",
       "date": "Du 12 au 13 septembre 2026",
@@ -2724,7 +2724,7 @@
       "statut_evenement": "annulée"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/23186",
+      "url": "https://www.ffta.fr/epreuve/23186",
       "id": "23186",
       "nom": "CHAMPIONNAT DE FRANCE DOUBLE MIXTE ADULTES à A VENIR",
       "date": "Du 12 au 13 septembre 2026",
@@ -2833,7 +2833,7 @@
       "discipline": "Tir 3D",
       "championnat": "Individuel Tir sur cible 3D 2026",
       "organisateur": "ARCHER CLUB ARTHONNAIS",
-      "statut_evenement": null
+      "statut_evenement": "annulée"
     },
     {
       "url": "https://www.ffta.fr/epreuve/24862",
@@ -3004,7 +3004,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25111",
+      "url": "https://www.ffta.fr/epreuve/25111",
       "id": "25111",
       "nom": "FINALE DE LA COUPE DU MONDE à SALTILLO - MEXIQUE",
       "date": "Du 12 au 13 septembre 2026",
@@ -3079,7 +3079,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/110c3912a74022.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir Beursault",
@@ -3536,7 +3536,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25020",
+      "url": "https://www.ffta.fr/epreuve/25020",
       "id": "25020",
       "nom": "PARCOURS 3D à RECQUIGNIES",
       "date": "Le 13 septembre 2026",
@@ -3676,7 +3676,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/23170",
+      "url": "https://www.ffta.fr/epreuve/23170",
       "id": "23170",
       "nom": "CHAMPIONNAT DE FRANCE PAR EQUIPE DE CLUBS à AMILLY",
       "date": "Du 19 au 20 septembre 2026",
@@ -3704,7 +3704,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/23171",
+      "url": "https://www.ffta.fr/epreuve/23171",
       "id": "23171",
       "nom": "CHAMPIONNAT DE FRANCE DOUBLE MIXTE ADULTES à AMILLY",
       "date": "Du 19 au 20 septembre 2026",
@@ -3844,7 +3844,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27163",
+      "url": "https://www.ffta.fr/epreuve/27163",
       "id": "27163",
       "nom": "TIR 3D à ISBERGUES",
       "date": "Du 19 au 20 septembre 2026",
@@ -3891,7 +3891,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/110b3043365501.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir Nature",
@@ -4059,7 +4059,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/110b95c453e6ba.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir Nature",
@@ -4227,7 +4227,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/11097a03509771.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir Nature",
@@ -4236,7 +4236,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/23193",
+      "url": "https://www.ffta.fr/epreuve/23193",
       "id": "23193",
       "nom": "CHAMPIONNAT DU MONDE  à YANKTON - USA",
       "date": "Du 24 septembre au 04 octobre 2026",
@@ -4264,7 +4264,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/23194",
+      "url": "https://www.ffta.fr/epreuve/23194",
       "id": "23194",
       "nom": "CHAMPIONNAT DU MONDE  à YANKTON - USA",
       "date": "Du 24 septembre au 04 octobre 2026",
@@ -4294,7 +4294,7 @@
     {
       "url": "https://www.ffta.fr/epreuve/24890",
       "id": "24890",
-      "nom": "3D AUTOMNE à PUY DE PRODELLES",
+      "nom": "3D AUTOMNE à PONT DE VERNEJOUX",
       "date": "Du 26 au 27 septembre 2026",
       "dates": {
         "texte": "Du 26 au 27 septembre 2026",
@@ -4320,7 +4320,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/24891",
+      "url": "https://www.ffta.fr/epreuve/24891",
       "id": "24891",
       "nom": "CONCOURS NATURE à NOGENT LE ROTROU",
       "date": "Le 26 septembre 2026",
@@ -4348,7 +4348,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/24892",
+      "url": "https://www.ffta.fr/epreuve/24892",
       "id": "24892",
       "nom": "FINALE RUN ARCHERY TOUR  à MONTIGNY LES CORMEILLES",
       "date": "Du 26 au 27 septembre 2026",
@@ -4768,7 +4768,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/24900",
+      "url": "https://www.ffta.fr/epreuve/24900",
       "id": "24900",
       "nom": "CONCOURS NATURE à NOGENT LE ROTROU",
       "date": "Le 27 septembre 2026",
@@ -4992,7 +4992,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/24908",
+      "url": "https://www.ffta.fr/epreuve/24908",
       "id": "24908",
       "nom": "TIR 3D DES ARCHERS DU VERDLAI à GARDANNE",
       "date": "Le 27 septembre 2026",
@@ -5076,7 +5076,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/23221",
+      "url": "https://www.ffta.fr/epreuve/23221",
       "id": "23221",
       "nom": "COUPE D'EUROPE DES CLUBS à RUSE - BULGARIE",
       "date": "Du 03 au 04 octobre 2026",
@@ -5185,7 +5185,7 @@
       "discipline": "Loisirs Confirmé",
       "championnat": "Individuel Loisirs confirmé 2027",
       "organisateur": "ARCHERS CLUB MARMANDAIS",
-      "statut_evenement": null
+      "statut_evenement": "reportée"
     },
     {
       "url": "https://www.ffta.fr/epreuve/25932",
@@ -5636,7 +5636,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/23229",
+      "url": "https://www.ffta.fr/epreuve/23229",
       "id": "23229",
       "nom": "CHAMPIONNAT DE FRANCE  à ST GENEVIEVE DES BOIS",
       "date": "Le 04 octobre 2026",
@@ -5692,7 +5692,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26070",
+      "url": "https://www.ffta.fr/epreuve/26070",
       "id": "26070",
       "nom": "TIR 3D à THEILLAY",
       "date": "Le 04 octobre 2026",
@@ -5944,7 +5944,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26470",
+      "url": "https://www.ffta.fr/epreuve/26470",
       "id": "26470",
       "nom": "TIR NATURE - SAMEDI APRES MIDI AUX SINGEONS CHANTECOQ à LES SINGEONS - CHANTECOQ",
       "date": "Le 07 octobre 2026",
@@ -6000,7 +6000,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/23242",
+      "url": "https://www.ffta.fr/epreuve/23242",
       "id": "23242",
       "nom": "COUPE D'EUROPE RUN ARCHERIE à WROCLAW - POLOGNE",
       "date": "Du 09 au 11 octobre 2026",
@@ -6280,7 +6280,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26338",
+      "url": "https://www.ffta.fr/epreuve/26338",
       "id": "26338",
       "nom": "NATURE D'AUTOMNE à BOIS D'ARCY",
       "date": "Le 10 octobre 2026",
@@ -6868,7 +6868,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26339",
+      "url": "https://www.ffta.fr/epreuve/26339",
       "id": "26339",
       "nom": "NATURE OCTORE ROSE à VILLIERS LE MORHIER",
       "date": "Le 11 octobre 2026",
@@ -7120,7 +7120,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27017",
+      "url": "https://www.ffta.fr/epreuve/27017",
       "id": "27017",
       "nom": "TIR NATURE à AGDE",
       "date": "Le 11 octobre 2026",
@@ -8576,7 +8576,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26626",
+      "url": "https://www.ffta.fr/epreuve/26626",
       "id": "26626",
       "nom": "TIR NATURE APRES MIDI à LIEU DIT LES SINGEONS - CHANTECOQ",
       "date": "Le 17 octobre 2026",
@@ -8604,7 +8604,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26634",
+      "url": "https://www.ffta.fr/epreuve/26634",
       "id": "26634",
       "nom": "TIR NATURE AUX SINGEONS SAMEDI APRÉS MIDI à LES SINGEONS - CHANTECOQ",
       "date": "Le 17 octobre 2026",
@@ -10589,7 +10589,7 @@
       "discipline": "Tir à 18m",
       "championnat": "Individuel Tir à 18m 2027",
       "organisateur": "U.S. TOURS",
-      "statut_evenement": null
+      "statut_evenement": "annulée"
     },
     {
       "url": "https://www.ffta.fr/epreuve/26074",
@@ -10648,7 +10648,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26172",
+      "url": "https://www.ffta.fr/epreuve/26172",
       "id": "26172",
       "nom": "TIR AMICAL EQUIPE OCTOBRE ROSE à BRIENON",
       "date": "Le 24 octobre 2026",
@@ -11348,7 +11348,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27032",
+      "url": "https://www.ffta.fr/epreuve/27032",
       "id": "27032",
       "nom": "COMPETITION 2X18M SELECTIF FRANCE à FRONTIGNAN",
       "date": "Du 24 au 25 octobre 2026",
@@ -11376,7 +11376,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27033",
+      "url": "https://www.ffta.fr/epreuve/27033",
       "id": "27033",
       "nom": "COMPETITION 2X18M SELECTIF FRANCE à FRONTIGNAN",
       "date": "Du 24 au 25 octobre 2026",
@@ -12916,7 +12916,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25854",
+      "url": "https://www.ffta.fr/epreuve/25854",
       "id": "25854",
       "nom": "TIR À L'ARC AU FEMININ - MONTPELLIER à MONTPELLIER",
       "date": "Le 31 octobre 2026",
@@ -14400,7 +14400,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27048",
+      "url": "https://www.ffta.fr/epreuve/27048",
       "id": "27048",
       "nom": "TIR À 18M - MONTPELLIER à MONTPELLIER",
       "date": "Le 01 novembre 2026",
@@ -14428,7 +14428,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27049",
+      "url": "https://www.ffta.fr/epreuve/27049",
       "id": "27049",
       "nom": "TIR À 18M - MONTPELLIER à MONTPELLIER",
       "date": "Le 01 novembre 2026",
@@ -17396,7 +17396,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26764",
+      "url": "https://www.ffta.fr/epreuve/26764",
       "id": "26764",
       "nom": "3D PLOEUC L'HERMITAGE  à PLOEUC-L'HERMITAGE",
       "date": "Le 08 novembre 2026",
@@ -19020,7 +19020,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26773",
+      "url": "https://www.ffta.fr/epreuve/26773",
       "id": "26773",
       "nom": "TIR À 18 M à PLOUMILLIAU PLOULEC'H",
       "date": "Le 15 novembre 2026",
@@ -19608,7 +19608,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27496",
+      "url": "https://www.ffta.fr/epreuve/27496",
       "id": "27496",
       "nom": "COMPÉTITION TIR A 18M + CRJ à RIOM",
       "date": "Le 18 novembre 2026",
@@ -20644,7 +20644,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27000",
+      "url": "https://www.ffta.fr/epreuve/27000",
       "id": "27000",
       "nom": "TIR A 18 M à RENNES",
       "date": "Le 21 novembre 2026",
@@ -21372,7 +21372,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26033",
+      "url": "https://www.ffta.fr/epreuve/26033",
       "id": "26033",
       "nom": "CONCOURS 3D à MONTIGNY LE GANNELON",
       "date": "Le 22 novembre 2026",
@@ -21512,7 +21512,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26781",
+      "url": "https://www.ffta.fr/epreuve/26781",
       "id": "26781",
       "nom": "TIR À 18 METRES - 4 DEPARTS - 8 CIBLES - RYTHME AB à TINTENIAC",
       "date": "Le 22 novembre 2026",
@@ -21708,7 +21708,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27073",
+      "url": "https://www.ffta.fr/epreuve/27073",
       "id": "27073",
       "nom": "CONCOURS DOMINICAL à VIAS",
       "date": "Le 22 novembre 2026",
@@ -22464,7 +22464,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26037",
+      "url": "https://www.ffta.fr/epreuve/26037",
       "id": "26037",
       "nom": "CONCOURS NATURE à BONNEVAL",
       "date": "Le 28 novembre 2026",
@@ -22492,7 +22492,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26038",
+      "url": "https://www.ffta.fr/epreuve/26038",
       "id": "26038",
       "nom": "CONCOURS NATURE à BONNEVAL",
       "date": "Le 28 novembre 2026",
@@ -23497,7 +23497,7 @@
         "debut": "2026-11-28",
         "fin": "2026-11-29"
       },
-      "statut_evenement": null
+      "statut_evenement": "reportée"
     },
     {
       "url": "https://www.ffta.fr/epreuve/26675",
@@ -23525,7 +23525,7 @@
         "debut": "2026-11-28",
         "fin": "2026-11-29"
       },
-      "statut_evenement": null
+      "statut_evenement": "reportée"
     },
     {
       "url": "https://www.ffta.fr/epreuve/26784",
@@ -23556,7 +23556,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26785",
+      "url": "https://www.ffta.fr/epreuve/26785",
       "id": "26785",
       "nom": "2X18M PAIMPOL à PAIMPOL",
       "date": "Du 28 au 29 novembre 2026",
@@ -23780,7 +23780,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27076",
+      "url": "https://www.ffta.fr/epreuve/27076",
       "id": "27076",
       "nom": "TIR EN SALLE 2X18M SELECTIF FRANCE à FRONTIGNAN",
       "date": "Du 28 au 29 novembre 2026",
@@ -23836,7 +23836,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27078",
+      "url": "https://www.ffta.fr/epreuve/27078",
       "id": "27078",
       "nom": "TIR EN SALLE 2X18M SELECTIF FRANCE à FRONTIGNAN",
       "date": "Du 28 au 29 novembre 2026",
@@ -24760,7 +24760,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26039",
+      "url": "https://www.ffta.fr/epreuve/26039",
       "id": "26039",
       "nom": "NATURE BONNEVAL à BONNEVAL",
       "date": "Le 29 novembre 2026",
@@ -24788,7 +24788,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26040",
+      "url": "https://www.ffta.fr/epreuve/26040",
       "id": "26040",
       "nom": "CONCOURS NATURE à BONNEVAL",
       "date": "Le 29 novembre 2026",
@@ -27812,7 +27812,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26794",
+      "url": "https://www.ffta.fr/epreuve/26794",
       "id": "26794",
       "nom": "TIR À 18 METRES - 4 DEPARTS - 8 CIBLES - RYTHME AB à TINTENIAC",
       "date": "Le 06 décembre 2026",
@@ -27924,7 +27924,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27090",
+      "url": "https://www.ffta.fr/epreuve/27090",
       "id": "27090",
       "nom": "TIR À 18M - MONTPELLIER à MONTPELLIER",
       "date": "Le 06 décembre 2026",
@@ -27952,7 +27952,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27091",
+      "url": "https://www.ffta.fr/epreuve/27091",
       "id": "27091",
       "nom": "TIR À 18M - MONTPELLIER à MONTPELLIER",
       "date": "Le 06 décembre 2026",
@@ -29240,7 +29240,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26127",
+      "url": "https://www.ffta.fr/epreuve/26127",
       "id": "26127",
       "nom": "TIR DE NOEL SAINT QUAY PORTRIEUX à SAINT QUAY PORTRIEUX",
       "date": "Le 12 décembre 2026",
@@ -30360,7 +30360,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26806",
+      "url": "https://www.ffta.fr/epreuve/26806",
       "id": "26806",
       "nom": "COMPETITION 18 M à PORDIC",
       "date": "Du 12 au 13 décembre 2026",
@@ -30388,7 +30388,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26807",
+      "url": "https://www.ffta.fr/epreuve/26807",
       "id": "26807",
       "nom": "COMPETITION 18 M à PORDIC",
       "date": "Du 12 au 13 décembre 2026",
@@ -31844,7 +31844,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27098",
+      "url": "https://www.ffta.fr/epreuve/27098",
       "id": "27098",
       "nom": "TIR A 18 M à BEZIERS",
       "date": "Le 13 décembre 2026",
@@ -31872,7 +31872,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27099",
+      "url": "https://www.ffta.fr/epreuve/27099",
       "id": "27099",
       "nom": "TIR A 18 M à BEZIERS",
       "date": "Le 13 décembre 2026",
@@ -32180,7 +32180,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27549",
+      "url": "https://www.ffta.fr/epreuve/27549",
       "id": "27549",
       "nom": "COMPETITION TIR A 18M + CRJ à RIOM",
       "date": "Le 16 décembre 2026",
@@ -33412,7 +33412,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26817",
+      "url": "https://www.ffta.fr/epreuve/26817",
       "id": "26817",
       "nom": "TIR A 18M à DINAN",
       "date": "Du 19 au 20 décembre 2026",
@@ -33720,7 +33720,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27104",
+      "url": "https://www.ffta.fr/epreuve/27104",
       "id": "27104",
       "nom": "CONCOURS EN SALLE ALV3M  à LATTES",
       "date": "Du 19 au 20 décembre 2026",
@@ -36464,7 +36464,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26834",
+      "url": "https://www.ffta.fr/epreuve/26834",
       "id": "26834",
       "nom": "TIR 18 M à LAMBALLE",
       "date": "Du 09 au 10 janvier 2027",
@@ -36688,7 +36688,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26842",
+      "url": "https://www.ffta.fr/epreuve/26842",
       "id": "26842",
       "nom": "TIR À 18 M à PLOUMILLIAU PLOULEC'H",
       "date": "Du 09 au 10 janvier 2027",
@@ -36996,7 +36996,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27108",
+      "url": "https://www.ffta.fr/epreuve/27108",
       "id": "27108",
       "nom": "CONCOURS SALLE 18M BESSAN à BESSAN",
       "date": "Du 09 au 10 janvier 2027",
@@ -37024,7 +37024,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27109",
+      "url": "https://www.ffta.fr/epreuve/27109",
       "id": "27109",
       "nom": "CONCOURS SALLE 18M BESSAN à BESSAN",
       "date": "Du 09 au 10 janvier 2027",
@@ -37780,7 +37780,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27569",
+      "url": "https://www.ffta.fr/epreuve/27569",
       "id": "27569",
       "nom": "COMPETITION TIR A 18M + CRJ à RIOM",
       "date": "Le 13 janvier 2027",
@@ -39628,7 +39628,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26851",
+      "url": "https://www.ffta.fr/epreuve/26851",
       "id": "26851",
       "nom": "TIR À 18M SAINT QUAY PORTRIEUX à SAINT QUAY PORTRIEUX",
       "date": "Du 16 au 17 janvier 2027",
@@ -39656,7 +39656,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26852",
+      "url": "https://www.ffta.fr/epreuve/26852",
       "id": "26852",
       "nom": "TIR À 18M SAINT QUAY PORTRIEUX à SAINT QUAY PORTRIEUX",
       "date": "Du 16 au 17 janvier 2027",
@@ -42085,9 +42085,9 @@
       "championnat": "Individuel Tir à 18m 2027",
       "organisateur": "ETOILE DE BROU",
       "dates": {
-        "texte": "Le 23 janvier 2027",
+        "texte": "Du 23 au 24 janvier 2027",
         "debut": "2027-01-23",
-        "fin": "2027-01-23"
+        "fin": "2027-01-24"
       },
       "statut_evenement": null
     },
@@ -42204,7 +42204,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26129",
+      "url": "https://www.ffta.fr/epreuve/26129",
       "id": "26129",
       "nom": "TIR DE LA ST SEBASTIEN SAINT QUAY PORTRIEUX à SAINT QUAY PORTRIEUX",
       "date": "Le 23 janvier 2027",
@@ -43184,7 +43184,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27122",
+      "url": "https://www.ffta.fr/epreuve/27122",
       "id": "27122",
       "nom": "CHAMPIONNAT DÉPARTEMENTAL à LUNEL",
       "date": "Du 23 au 24 janvier 2027",
@@ -43212,7 +43212,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27123",
+      "url": "https://www.ffta.fr/epreuve/27123",
       "id": "27123",
       "nom": "CHAMPIONNAT DÉPARTEMENTAL à LUNEL",
       "date": "Du 23 au 24 janvier 2027",
@@ -45564,7 +45564,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26865",
+      "url": "https://www.ffta.fr/epreuve/26865",
       "id": "26865",
       "nom": "CHAMPIONNATDEPARTEMENTAL TIR A 18M JEUNES à DINAN",
       "date": "Le 30 janvier 2027",
@@ -46936,7 +46936,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27140",
+      "url": "https://www.ffta.fr/epreuve/27140",
       "id": "27140",
       "nom": "COMPETITTION SALLE à PEROLS",
       "date": "Le 31 janvier 2027",
@@ -46964,7 +46964,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27141",
+      "url": "https://www.ffta.fr/epreuve/27141",
       "id": "27141",
       "nom": "COMPETITTION SALLE à PEROLS",
       "date": "Le 31 janvier 2027",
@@ -47748,7 +47748,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26871",
+      "url": "https://www.ffta.fr/epreuve/26871",
       "id": "26871",
       "nom": "CHAMPIONNAT DE BRETAGNE JEUNES à QUIMPER",
       "date": "Du 06 au 07 février 2027",
@@ -48644,7 +48644,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26061",
+      "url": "https://www.ffta.fr/epreuve/26061",
       "id": "26061",
       "nom": "CONCOURS 3D à BONNEVAL",
       "date": "Le 13 février 2027",
@@ -49120,7 +49120,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26062",
+      "url": "https://www.ffta.fr/epreuve/26062",
       "id": "26062",
       "nom": "NATURE BONNEVAL à BONNEVAL",
       "date": "Le 14 février 2027",
@@ -49148,7 +49148,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26063",
+      "url": "https://www.ffta.fr/epreuve/26063",
       "id": "26063",
       "nom": "CONCOURS NATURE à BONNEVAL",
       "date": "Le 14 février 2027",
@@ -49456,7 +49456,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26874",
+      "url": "https://www.ffta.fr/epreuve/26874",
       "id": "26874",
       "nom": "CHAMPIONNAT DE BRETAGNE ADULTES DE TIR À 18 M à ACIGNÉ",
       "date": "Du 20 au 21 février 2027",
@@ -50380,7 +50380,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26442",
+      "url": "https://www.ffta.fr/epreuve/26442",
       "id": "26442",
       "nom": "NATURE MARS SAMEDI à DRAVEIL",
       "date": "Le 06 mars 2027",
@@ -50492,7 +50492,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27264",
+      "url": "https://www.ffta.fr/epreuve/27264",
       "id": "27264",
       "nom": "CONCOURS INDIVIDUEL QUALIFICATIF à QUEND PLAGE",
       "date": "Du 06 au 07 mars 2027",
@@ -51108,7 +51108,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26065",
+      "url": "https://www.ffta.fr/epreuve/26065",
       "id": "26065",
       "nom": "NATURE PITHIVIERS à Montberneaume",
       "date": "Le 07 mars 2027",
@@ -51192,7 +51192,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26443",
+      "url": "https://www.ffta.fr/epreuve/26443",
       "id": "26443",
       "nom": "NATURE MARS DIMANCHE à DRAVEIL",
       "date": "Le 07 mars 2027",
@@ -52144,7 +52144,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27012",
+      "url": "https://www.ffta.fr/epreuve/27012",
       "id": "27012",
       "nom": "TIR 3D MARS à LA CROIX EN TOURAINE",
       "date": "Du 13 au 14 mars 2027",
@@ -52816,7 +52816,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26445",
+      "url": "https://www.ffta.fr/epreuve/26445",
       "id": "26445",
       "nom": "NATURE à VIARMES",
       "date": "Le 14 mars 2027",
@@ -52928,7 +52928,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27149",
+      "url": "https://www.ffta.fr/epreuve/27149",
       "id": "27149",
       "nom": "TROPHHÉ DÉPARTEMENTAL DES MIXTES à LUNEL",
       "date": "Le 14 mars 2027",
@@ -53628,7 +53628,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26066",
+      "url": "https://www.ffta.fr/epreuve/26066",
       "id": "26066",
       "nom": "CAMPING 3D BLEU à BEAUGENCY",
       "date": "Le 20 mars 2027",
@@ -53656,7 +53656,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26067",
+      "url": "https://www.ffta.fr/epreuve/26067",
       "id": "26067",
       "nom": "CAMPING 3D JAUNE à BEAUGENCY",
       "date": "Le 20 mars 2027",
@@ -54580,7 +54580,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26637",
+      "url": "https://www.ffta.fr/epreuve/26637",
       "id": "26637",
       "nom": "TNJ 3 à OFFRANVILLE",
       "date": "Du 12 au 13 juin 2027",
@@ -54636,7 +54636,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26631",
+      "url": "https://www.ffta.fr/epreuve/26631",
       "id": "26631",
       "nom": "TROPHÉE NATIONAL DES MIXTES à A VENIR",
       "date": "Le 19 juin 2027",
@@ -54720,7 +54720,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27280",
+      "url": "https://www.ffta.fr/epreuve/27280",
       "id": "27280",
       "nom": "FINALE DR ARC A POULIES à COUTANCES",
       "date": "Du 09 au 10 juillet 2027",
@@ -54776,7 +54776,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27282",
+      "url": "https://www.ffta.fr/epreuve/27282",
       "id": "27282",
       "nom": "FINALE DR ARC CLASSIQUE à COUTANCES",
       "date": "Du 10 au 11 juillet 2027",
@@ -54832,7 +54832,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27624",
+      "url": "https://www.ffta.fr/epreuve/27624",
       "id": "27624",
       "nom": "FINALE DU CHAMPIONNAT DE FRANCE D2 à A VENIR",
       "date": "Du 17 au 18 juillet 2027",
@@ -54860,7 +54860,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27628",
+      "url": "https://www.ffta.fr/epreuve/27628",
       "id": "27628",
       "nom": "CHAMPIONNAT DE FRANCE JEUNE à RIOM",
       "date": "Le 21 juillet 2027",
@@ -54881,16 +54881,16 @@
       "championnat": "Individuel Tir TAE 2027",
       "organisateur": "LES ARCHERS RIOMOIS",
       "dates": {
-        "texte": "Le 21 juillet 2027",
+        "texte": "Du 21 au 22 juillet 2027",
         "debut": "2027-07-21",
-        "fin": "2027-07-21"
+        "fin": "2027-07-22"
       },
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27629",
+      "url": "https://www.ffta.fr/epreuve/27629",
       "id": "27629",
-      "nom": "CHAMPIONNAT DE FRANCE DOUBLE MIXTE JEUNE à RIOM",
+      "nom": "CHAMPIONNAT DE FRANCE DOUBLES MIXTES JEUNES à RIOM",
       "date": "Du 21 au 22 juillet 2027",
       "localisation": {
         "lieu": "RIOM",
@@ -56617,7 +56617,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26030",
+      "url": "https://www.ffta.fr/epreuve/26030",
       "id": "26030",
       "nom": "TIR NATURE à MONTIGNY LE GANNELON",
       "dates": {
@@ -57832,7 +57832,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25856",
+      "url": "https://www.ffta.fr/epreuve/25856",
       "id": "25856",
       "nom": "RENCONTRE JEUNES - MONTPELLIER à MONTPELLIER",
       "dates": {
@@ -59101,7 +59101,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27276",
+      "url": "https://www.ffta.fr/epreuve/27276",
       "id": "27276",
       "nom": "NATURE MARS - VILLERS BTX à GENTELLES",
       "dates": {
@@ -59425,7 +59425,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26880",
+      "url": "https://www.ffta.fr/epreuve/26880",
       "id": "26880",
       "nom": "CHAMP. REGIONAL U11-U13 à RENNES",
       "dates": {
@@ -59641,7 +59641,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25956",
+      "url": "https://www.ffta.fr/epreuve/25956",
       "id": "25956",
       "nom": "CHAMP. REGIONAL DES ECOLES D'ARC à RENNES",
       "dates": {
@@ -59722,7 +59722,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26465",
+      "url": "https://www.ffta.fr/epreuve/26465",
       "id": "26465",
       "nom": "PARCOURS NATURE MAGNY à MAGNY LES HAMEAUX (PORT-ROYAL)",
       "dates": {
@@ -60046,7 +60046,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26635",
+      "url": "https://www.ffta.fr/epreuve/26635",
       "id": "26635",
       "nom": "TNJ 1 à A VENIR",
       "dates": {
@@ -60235,7 +60235,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26636",
+      "url": "https://www.ffta.fr/epreuve/26636",
       "id": "26636",
       "nom": "TNJ 2 à A VENIR",
       "dates": {
@@ -60424,7 +60424,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27637",
+      "url": "https://www.ffta.fr/epreuve/27637",
       "id": "27637",
       "nom": "TIR 18 M LANNION à LANNION",
       "dates": {
@@ -60829,7 +60829,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26844",
+      "url": "https://www.ffta.fr/epreuve/26844",
       "id": "26844",
       "nom": "CHAMPIONNAT REGIONAL TIR À 18M PARA à TINTENIAC",
       "dates": {
@@ -61099,7 +61099,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27115",
+      "url": "https://www.ffta.fr/epreuve/27115",
       "id": "27115",
       "nom": "COMPÉTITION SALLE à PEROLS",
       "dates": {
@@ -61126,7 +61126,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27116",
+      "url": "https://www.ffta.fr/epreuve/27116",
       "id": "27116",
       "nom": "COMPÉTITION SALLE à PEROLS",
       "dates": {
@@ -61342,7 +61342,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26068",
+      "url": "https://www.ffta.fr/epreuve/26068",
       "id": "26068",
       "nom": "NATURE à BEAUGENCY",
       "dates": {
@@ -61477,7 +61477,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27638",
+      "url": "https://www.ffta.fr/epreuve/27638",
       "id": "27638",
       "nom": "CHAMPIONNAT DE FRANCE JEUNES PAR EQUIPE DE CLUBS à RIOM",
       "dates": {
@@ -61558,7 +61558,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27641",
+      "url": "https://www.ffta.fr/epreuve/27641",
       "id": "27641",
       "nom": "TIR 3D à ISBERGUES",
       "dates": {
@@ -61612,7 +61612,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27642",
+      "url": "https://www.ffta.fr/epreuve/27642",
       "id": "27642",
       "nom": "NATURE OCTOBRE VILLERS BTX à GENTELLES",
       "dates": {
@@ -62014,7 +62014,7 @@
       "discipline": "Para-tir à l'arc à 18m",
       "championnat": "Individuel Para-tir à l'arc à 18m 2027",
       "organisateur": "COMPAGNIE D'ARC DU VAL DE LOIRE",
-      "statut_evenement": null
+      "statut_evenement": "annulée"
     },
     {
       "url": "https://www.ffta.fr/epreuve/27653",
@@ -62341,7 +62341,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27639",
+      "url": "https://www.ffta.fr/epreuve/27639",
       "id": "27639",
       "nom": "CHAMPIONNAT DE FRANCE ELITE à RIOM",
       "dates": {
@@ -62368,7 +62368,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27640",
+      "url": "https://www.ffta.fr/epreuve/27640",
       "id": "27640",
       "nom": "CHAMPIONNAT DE FRANCE DOUBLE MIXTE ADULTE à RIOM",
       "dates": {
@@ -62395,7 +62395,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27662",
+      "url": "https://www.ffta.fr/epreuve/27662",
       "id": "27662",
       "nom": "CHAMPIONNAT DE FRANCE PAR CATEGORIES à SAINT AVERTIN",
       "dates": {
@@ -62530,7 +62530,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27678",
+      "url": "https://www.ffta.fr/epreuve/27678",
       "id": "27678",
       "nom": "CHAMPIONNAT DE FRANCE PAR CATEGORIE à A VENIR",
       "dates": {
@@ -62663,6 +62663,1194 @@
       "discipline": "Loisirs Débutant",
       "championnat": "Individuel Loisirs débutants 2027",
       "organisateur": "CIE DES ARCHERS DU RAIL D AURAY"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27683",
+      "id": "27683",
+      "nom": "TAE - PRÉPARATION SELECTIONS à RENNES",
+      "dates": {
+        "texte": "Du 27 au 28 août 2026",
+        "debut": "2026-08-27",
+        "fin": "2026-08-28"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "RENNES",
+        "comite_regional": "COMITE REGIONAL DE BRETAGNE",
+        "comite_departemental": "COMITE DEPARTEMENTAL ILLE ET VILAINE",
+        "latitude": "48.1321",
+        "longitude": "-1.64793",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2026",
+      "organisateur": "COMPAGNIE D'ARCHERS DE RENNES"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27686",
+      "id": "27686",
+      "nom": "TIR A  18 M à RENNES",
+      "dates": {
+        "texte": "Le 29 août 2026",
+        "debut": "2026-08-29",
+        "fin": "2026-08-29"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "RENNES",
+        "comite_regional": "COMITE REGIONAL DE BRETAGNE",
+        "comite_departemental": "COMITE DEPARTEMENTAL ILLE ET VILAINE",
+        "latitude": "48.1113387",
+        "longitude": "-1.6800198",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Para-tir à l'arc à 18m",
+      "championnat": "Individuel Para-tir à l'arc à 18m 2026",
+      "organisateur": "COMPAGNIE D'ARCHERS DE RENNES"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27728",
+      "id": "27728",
+      "nom": "PRIX GÉNÉRAL ET PARTICULIER DE CHAMPS SUR MARNE à CHAMPS SUR MARNE",
+      "dates": {
+        "texte": "Du 26 septembre au 11 novembre 2026",
+        "debut": "2026-09-26",
+        "fin": "2026-11-11"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "CHAMPS SUR MARNE",
+        "comite_regional": "COMITE REGIONAL ILE DE FRANCE",
+        "comite_departemental": "COMITE DEPARTEMENTAL SEINE ET MARNE",
+        "latitude": "48.85066",
+        "longitude": "2.60395",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir Beursault",
+      "championnat": "Individuel Tir Beursault 2027",
+      "organisateur": "CIE D'ARC CHAMPS SUR MARNE"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27716",
+      "id": "27716",
+      "nom": "CHALENGE CLEMENTINE à BASTIA",
+      "dates": {
+        "texte": "Du 10 au 11 octobre 2026",
+        "debut": "2026-10-10",
+        "fin": "2026-10-11"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "BASTIA",
+        "comite_regional": "COMITE REGIONAL DE CORSE",
+        "comite_departemental": "COMITE DEPARTEMENTAL DE HTE CORSE",
+        "latitude": "42.67065",
+        "longitude": "9.44243",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "COMPAGNIE D'ARC BASTIA"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27715",
+      "id": "27715",
+      "nom": "LANCAS'TOURS à TOURS",
+      "dates": {
+        "texte": "Du 23 au 25 octobre 2026",
+        "debut": "2026-10-23",
+        "fin": "2026-10-25"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "TOURS",
+        "comite_regional": "COMITE REGIONAL DU CENTRE VAL DE LOIRE",
+        "comite_departemental": "COMITE DEPARTEMENTAL INDRE ET LOIRE",
+        "latitude": "47.43617",
+        "longitude": "0.68156",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Confirmé",
+      "championnat": "Individuel Loisirs confirmé 2027",
+      "organisateur": "U.S. TOURS"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27689",
+      "id": "27689",
+      "nom": "IWS - SWISS OPEN à SUISSE",
+      "dates": {
+        "texte": "Du 30 octobre au 01 novembre 2026",
+        "debut": "2026-10-30",
+        "fin": "2026-11-01"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "SUISSE",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "46.7985624",
+        "longitude": "8.2319736",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27725",
+      "id": "27725",
+      "nom": "TIR A L'ARC EN SALLE 18M à NICE",
+      "dates": {
+        "texte": "Du 07 au 08 novembre 2026",
+        "debut": "2026-11-07",
+        "fin": "2026-11-08"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "NICE",
+        "comite_regional": "COMITE REGIONAL PROVENCE ALPES COTE D'AZUR",
+        "comite_departemental": "COMITE DEPARTEMENTAL ALPES-MARITIMES",
+        "latitude": "43.7009358",
+        "longitude": "7.2683912",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Para-tir à l'arc à 18m",
+      "championnat": "Individuel Para-tir à l'arc à 18m 2027",
+      "organisateur": "LES FRANCS ARCHERS DE NICE COTE D'AZUR"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27726",
+      "id": "27726",
+      "nom": "TIR A L'ARC EN SALLE 18M à NICE",
+      "dates": {
+        "texte": "Du 07 au 08 novembre 2026",
+        "debut": "2026-11-07",
+        "fin": "2026-11-08"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "NICE",
+        "comite_regional": "COMITE REGIONAL PROVENCE ALPES COTE D'AZUR",
+        "comite_departemental": "COMITE DEPARTEMENTAL ALPES-MARITIMES",
+        "latitude": "43.6915",
+        "longitude": "7.19433",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "LES FRANCS ARCHERS DE NICE COTE D'AZUR"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27724",
+      "id": "27724",
+      "nom": "CHALLENGE COMPOUND à MARMANDE",
+      "dates": {
+        "texte": "Le 14 novembre 2026",
+        "debut": "2026-11-14",
+        "fin": "2026-11-14"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "MARMANDE",
+        "comite_regional": "COMITE REGIONAL DE NOUVELLE AQUITAINE",
+        "comite_departemental": "COMITE DEPARTEMENTAL LOT ET GARONNE",
+        "latitude": "44.50101",
+        "longitude": "0.17586",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Confirmé",
+      "championnat": "Individuel Loisirs confirmé 2027",
+      "organisateur": "ARCHERS CLUB MARMANDAIS"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27690",
+      "id": "27690",
+      "nom": "IWS - GT OPEN à STRASSEN - LUXEMBOURG",
+      "dates": {
+        "texte": "Du 20 au 22 novembre 2026",
+        "debut": "2026-11-20",
+        "fin": "2026-11-22"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "STRASSEN - LUXEMBOURG",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "49.6196726",
+        "longitude": "6.0721393",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27687",
+      "id": "27687",
+      "nom": "TIR A  18 M à RENNES",
+      "dates": {
+        "texte": "Le 21 novembre 2026",
+        "debut": "2026-11-21",
+        "fin": "2026-11-21"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "RENNES",
+        "comite_regional": "COMITE REGIONAL DE BRETAGNE",
+        "comite_departemental": "COMITE DEPARTEMENTAL ILLE ET VILAINE",
+        "latitude": "48.13322",
+        "longitude": "-1.6506",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2026",
+      "organisateur": "COMPAGNIE D'ARCHERS DE RENNES"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27688",
+      "id": "27688",
+      "nom": "TIR A  18 M à RENNES",
+      "dates": {
+        "texte": "Le 21 novembre 2026",
+        "debut": "2026-11-21",
+        "fin": "2026-11-21"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "RENNES",
+        "comite_regional": "COMITE REGIONAL DE BRETAGNE",
+        "comite_departemental": "COMITE DEPARTEMENTAL ILLE ET VILAINE",
+        "latitude": "48.1113387",
+        "longitude": "-1.6800198",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Para-tir à l'arc à 18m",
+      "championnat": "Individuel Para-tir à l'arc à 18m 2026",
+      "organisateur": "COMPAGNIE D'ARCHERS DE RENNES"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27727",
+      "id": "27727",
+      "nom": "TIR A L'ARC EN SALLE 18M à NICE",
+      "dates": {
+        "texte": "Du 28 au 29 novembre 2026",
+        "debut": "2026-11-28",
+        "fin": "2026-11-29"
+      },
+      "statut_evenement": "reportée",
+      "localisation": {
+        "lieu": "NICE",
+        "comite_regional": "COMITE REGIONAL PROVENCE ALPES COTE D'AZUR",
+        "comite_departemental": "COMITE DEPARTEMENTAL ALPES-MARITIMES",
+        "latitude": "43.7009358",
+        "longitude": "7.2683912",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Para-tir à l'arc à 18m",
+      "championnat": "Individuel Para-tir à l'arc à 18m 2027",
+      "organisateur": "LES FRANCS ARCHERS DE NICE COTE D'AZUR"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27698",
+      "id": "27698",
+      "nom": "IWS - RIO INDOOR 250 à RIO DE JANEIRO - BRESIL",
+      "dates": {
+        "texte": "Du 04 au 05 décembre 2026",
+        "debut": "2026-12-04",
+        "fin": "2026-12-05"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "RIO DE JANEIRO - BRESIL",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "-22.9110137",
+        "longitude": "-43.2093727",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27722",
+      "id": "27722",
+      "nom": "TIR 18 METRES à GROSBREUIL",
+      "dates": {
+        "texte": "Du 12 au 13 décembre 2026",
+        "debut": "2026-12-12",
+        "fin": "2026-12-13"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "GROSBREUIL",
+        "comite_regional": "COMITE REGIONAL DES PAYS DE LA LOIRE",
+        "comite_departemental": "COMITE DEPARTEMENTAL DE VENDEE",
+        "latitude": "46.54064",
+        "longitude": "-1.61482",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "ARCHERS DE GROSBREUIL"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27723",
+      "id": "27723",
+      "nom": "TIR 18 METRES à GROSBREUIL",
+      "dates": {
+        "texte": "Du 12 au 13 décembre 2026",
+        "debut": "2026-12-12",
+        "fin": "2026-12-13"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "GROSBREUIL",
+        "comite_regional": "COMITE REGIONAL DES PAYS DE LA LOIRE",
+        "comite_departemental": "COMITE DEPARTEMENTAL DE VENDEE",
+        "latitude": "46.5397222",
+        "longitude": "-1.6169444",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Para-tir à l'arc à 18m",
+      "championnat": "Individuel Para-tir à l'arc à 18m 2027",
+      "organisateur": "ARCHERS DE GROSBREUIL"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27717",
+      "id": "27717",
+      "nom": "GR DE NOEL à CNSD FONTAINEBLEAU",
+      "dates": {
+        "texte": "Le 20 décembre 2026",
+        "debut": "2026-12-20",
+        "fin": "2026-12-20"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "CNSD FONTAINEBLEAU",
+        "comite_regional": "COMITE REGIONAL ILE DE FRANCE",
+        "comite_departemental": null,
+        "latitude": "48.39732",
+        "longitude": "2.72614",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "COMITE REGIONAL ILE DE FRANCE"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27699",
+      "id": "27699",
+      "nom": "IWS - SINGAPOUR à SINGAPOUR - REP DE SINGAPOUR",
+      "dates": {
+        "texte": "Le 31 décembre 2026",
+        "debut": "2026-12-31",
+        "fin": "2026-12-31"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "SINGAPOUR - REP DE SINGAPOUR",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": null,
+        "longitude": null,
+        "gps_statut": "echec",
+        "gps_source": null
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27691",
+      "id": "27691",
+      "nom": "IWS - OCCITANIE NÎMES ARCHERY à NÎMES - FRANCE",
+      "dates": {
+        "texte": "Du 15 au 17 janvier 2027",
+        "debut": "2027-01-15",
+        "fin": "2027-01-17"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "NÎMES - FRANCE",
+        "comite_regional": "COMITE REGIONAL OCCITANIE",
+        "comite_departemental": "COMITE DEPARTEMENTAL GARD",
+        "latitude": "43.8326735",
+        "longitude": "4.3577688",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "ARC CLUB DE NIMES"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27718",
+      "id": "27718",
+      "nom": "CHALLENGE FICATELLU à BASTIA",
+      "dates": {
+        "texte": "Du 16 au 17 janvier 2027",
+        "debut": "2027-01-16",
+        "fin": "2027-01-17"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "BASTIA",
+        "comite_regional": "COMITE REGIONAL DE CORSE",
+        "comite_departemental": "COMITE DEPARTEMENTAL DE HTE CORSE",
+        "latitude": "42.67059",
+        "longitude": "9.44238",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "COMPAGNIE D'ARC BASTIA"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27684",
+      "id": "27684",
+      "nom": "SALLE 2X18 SELECTIF à BROU (28160)",
+      "dates": {
+        "texte": "Du 23 au 24 janvier 2027",
+        "debut": "2027-01-23",
+        "fin": "2027-01-24"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "BROU (28160)",
+        "comite_regional": "COMITE REGIONAL DU CENTRE VAL DE LOIRE",
+        "comite_departemental": "COMITE DEPARTEMENTAL EURE ET LOIR",
+        "latitude": "48.2110511",
+        "longitude": "1.1662579",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Para-tir à l'arc à 18m",
+      "championnat": "Individuel Para-tir à l'arc à 18m 2027",
+      "organisateur": "ETOILE DE BROU"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27700",
+      "id": "27700",
+      "nom": "IWS - MERIDA 500 à MERIDA - MEXIQUE",
+      "dates": {
+        "texte": "Du 12 au 14 février 2027",
+        "debut": "2027-02-12",
+        "fin": "2027-02-14"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "MERIDA - MEXIQUE",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "20.9670759",
+        "longitude": "-89.6237402",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27701",
+      "id": "27701",
+      "nom": "CHAMPIONNAT D'EUROPE à SAMSUM - TURQUIE",
+      "dates": {
+        "texte": "Du 22 au 27 février 2027",
+        "debut": "2027-02-22",
+        "fin": "2027-02-27"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "SAMSUM - TURQUIE",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": null,
+        "longitude": null,
+        "gps_statut": "echec",
+        "gps_source": null
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27702",
+      "id": "27702",
+      "nom": "IWS - THE VEGAS SHOOT à LAS VEGAS - USA",
+      "dates": {
+        "texte": "Du 11 au 14 mars 2027",
+        "debut": "2027-03-11",
+        "fin": "2027-03-14"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "LAS VEGAS - USA",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "36.1674263",
+        "longitude": "-115.1484131",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27719",
+      "id": "27719",
+      "nom": "TIR 3D SUD CORSE à ALERIA",
+      "dates": {
+        "texte": "Le 21 mars 2027",
+        "debut": "2027-03-21",
+        "fin": "2027-03-21"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "ALERIA",
+        "comite_regional": "COMITE REGIONAL DE CORSE",
+        "comite_departemental": "COMITE DEPARTEMENTAL CORSE DU SUD",
+        "latitude": "42.11389",
+        "longitude": "9.45163",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir 3D",
+      "championnat": "Individuel Tir sur cible 3D 2027",
+      "organisateur": "ARCHERS SUD CORSE"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27703",
+      "id": "27703",
+      "nom": "1ER GRAND PRIX EUROPEEN  à ANTALYA - TURQUIE",
+      "dates": {
+        "texte": "Du 22 au 27 mars 2027",
+        "debut": "2027-03-22",
+        "fin": "2027-03-27"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "ANTALYA - TURQUIE",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "36.8865728",
+        "longitude": "30.7030242",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27704",
+      "id": "27704",
+      "nom": "1ERE ETAPE COUPE DU MONDE à SHANGHAI - CHINE",
+      "dates": {
+        "texte": "Du 13 au 18 avril 2027",
+        "debut": "2027-04-13",
+        "fin": "2027-04-18"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "SHANGHAI - CHINE",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "31.2312707",
+        "longitude": "121.4700152",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27692",
+      "id": "27692",
+      "nom": "1ERE MANCHE CHAMPIONNAT DE FRANCE DE D1 à A VENIR",
+      "dates": {
+        "texte": "Du 24 au 25 avril 2027",
+        "debut": "2027-04-24",
+        "fin": "2027-04-25"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "A VENIR",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": null,
+        "longitude": null,
+        "gps_statut": "lieu_indetermine",
+        "gps_source": null
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Uniquement equipe TAE Dep 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27693",
+      "id": "27693",
+      "nom": "1ÈRE ÉTAPE WIAWIS FRENCH TOUR à A VENIR",
+      "dates": {
+        "texte": "Le 24 avril 2027",
+        "debut": "2027-04-24",
+        "fin": "2027-04-24"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "A VENIR",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": null,
+        "longitude": null,
+        "gps_statut": "lieu_indetermine",
+        "gps_source": null
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27705",
+      "id": "27705",
+      "nom": "2EME ETAPE COUPE DU MONDE à ANTALYA - TURQUIE",
+      "dates": {
+        "texte": "Du 04 au 09 mai 2027",
+        "debut": "2027-05-04",
+        "fin": "2027-05-09"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "ANTALYA - TURQUIE",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "36.8865728",
+        "longitude": "30.7030242",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27706",
+      "id": "27706",
+      "nom": "JUNIOR CUP 1 à SOFIA - BULGARIE",
+      "dates": {
+        "texte": "Du 17 au 22 mai 2027",
+        "debut": "2027-05-17",
+        "fin": "2027-05-22"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "SOFIA - BULGARIE",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "42.6977028",
+        "longitude": "23.3217359",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27694",
+      "id": "27694",
+      "nom": "2EME MANCHE CHAMPIONNAT DE FRANCE DE D1 à A VENIR",
+      "dates": {
+        "texte": "Du 29 au 30 mai 2027",
+        "debut": "2027-05-29",
+        "fin": "2027-05-30"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "A VENIR",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": null,
+        "longitude": null,
+        "gps_statut": "lieu_indetermine",
+        "gps_source": null
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Uniquement equipe TAE Dep 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27695",
+      "id": "27695",
+      "nom": "2ÈME ÉTAPE WIAWIS FRENCH TOUR à A VENIR",
+      "dates": {
+        "texte": "Le 29 mai 2027",
+        "debut": "2027-05-29",
+        "fin": "2027-05-29"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "A VENIR",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": null,
+        "longitude": null,
+        "gps_statut": "lieu_indetermine",
+        "gps_source": null
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27707",
+      "id": "27707",
+      "nom": "3EME ETAPE DE COUPE DU MONDE à TIJUANA - MEXIQUE",
+      "dates": {
+        "texte": "Du 08 au 13 juin 2027",
+        "debut": "2027-06-08",
+        "fin": "2027-06-13"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "TIJUANA - MEXIQUE",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "32.5317397",
+        "longitude": "-117.0195290",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27708",
+      "id": "27708",
+      "nom": "JEUX EUROPEÉN à ISTANBUL - TURQUIE",
+      "dates": {
+        "texte": "Du 16 au 27 juin 2027",
+        "debut": "2027-06-16",
+        "fin": "2027-06-27"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "ISTANBUL - TURQUIE",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "41.0063810",
+        "longitude": "28.9758715",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27696",
+      "id": "27696",
+      "nom": "3EME MANCHE - FINALE DU CHAMPIONNAT DE FRANCE DE D1 à A VENIR",
+      "dates": {
+        "texte": "Du 03 au 04 juillet 2027",
+        "debut": "2027-07-03",
+        "fin": "2027-07-04"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "A VENIR",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": null,
+        "longitude": null,
+        "gps_statut": "lieu_indetermine",
+        "gps_source": null
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Uniquement equipe TAE Dep 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27697",
+      "id": "27697",
+      "nom": "3ÈME ÉTAPE WIAWIS FRENCH TOUR  à A VENIR",
+      "dates": {
+        "texte": "Le 03 juillet 2027",
+        "debut": "2027-07-03",
+        "fin": "2027-07-03"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "A VENIR",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": null,
+        "longitude": null,
+        "gps_statut": "lieu_indetermine",
+        "gps_source": null
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27709",
+      "id": "27709",
+      "nom": "4EME ETAPE COUPE DU MONDE à MADRID - ESPAGNE",
+      "dates": {
+        "texte": "Du 06 au 11 juillet 2027",
+        "debut": "2027-07-06",
+        "fin": "2027-07-11"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "MADRID - ESPAGNE",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "40.4167820",
+        "longitude": "-3.7035070",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27710",
+      "id": "27710",
+      "nom": "2EME GRAND PRIX EUROPEEN à CATEZ - SLOVÉNIE",
+      "dates": {
+        "texte": "Du 19 au 24 juillet 2027",
+        "debut": "2027-07-19",
+        "fin": "2027-07-24"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "CATEZ - SLOVÉNIE",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "45.9705365",
+        "longitude": "14.9588038",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27711",
+      "id": "27711",
+      "nom": "JUNIOR CUP 2 à CATEZ - SLOVÉNIE",
+      "dates": {
+        "texte": "Du 26 au 31 juillet 2027",
+        "debut": "2027-07-26",
+        "fin": "2027-07-31"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "CATEZ - SLOVÉNIE",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "45.9705365",
+        "longitude": "14.9588038",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27712",
+      "id": "27712",
+      "nom": "FINALE DE LA COUPE DU MONDE à A VENIR",
+      "dates": {
+        "texte": "Du 29 juillet au 01 août 2027",
+        "debut": "2027-07-29",
+        "fin": "2027-08-01"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "A VENIR",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": null,
+        "longitude": null,
+        "gps_statut": "lieu_indetermine",
+        "gps_source": null
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27713",
+      "id": "27713",
+      "nom": "CHAMPIONNAT D'EUROPE PARA ARCHERIE à GENÈVE - SUISSE",
+      "dates": {
+        "texte": "Du 08 au 15 août 2027",
+        "debut": "2027-08-08",
+        "fin": "2027-08-15"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "GENÈVE - SUISSE",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "46.2017559",
+        "longitude": "6.1466014",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27714",
+      "id": "27714",
+      "nom": "CHAMPIONNAT D'EUROPE PARA ARCHERIE à GENÈVE - SUISSE",
+      "dates": {
+        "texte": "Du 08 au 15 août 2027",
+        "debut": "2027-08-08",
+        "fin": "2027-08-15"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "GENÈVE - SUISSE",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "46.2017559",
+        "longitude": "6.1466014",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Para-tir à l'arc en extérieur",
+      "championnat": "Individuel Para-tir à l'arc TAE 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/27685",
+      "id": "27685",
+      "nom": "CHAMPIONNAT DE FRANCE PAR CATEGORIE à  A VENIR",
+      "dates": {
+        "texte": "Du 12 au 15 août 2027",
+        "debut": "2027-08-12",
+        "fin": "2027-08-15"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "A VENIR",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": null,
+        "longitude": null,
+        "gps_statut": "lieu_indetermine",
+        "gps_source": null
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir 3D",
+      "championnat": "Individuel Tir sur cible 3D 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
     }
   ]
 }
