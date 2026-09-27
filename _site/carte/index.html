@@ -95,17 +95,26 @@
 
         <b>Dates</b>
         <label>
-          <input type="radio" name="dates" value="30jours" checked="" />
-          30 prochains jours
+          <input type="radio" name="dates" value="7jours" checked="" />
+          7 prochains jours
         </label>
         <label>
-          <input type="radio" name="dates" value="saison" />
-          Jusqu'en fin de saison
+          <input type="radio" name="dates" value="30jours" />
+          30 prochains jours
         </label>
         <label>
           <input type="radio" name="dates" value="tout" />
           Toutes les compétitions à venir
         </label>
+        <label>
+          <input type="radio" name="dates" value="personnalise" />
+          Période personnalisée
+        </label>
+
+        <div id="plage-personnalisee" class="masque">
+          <label>Du <input type="date" id="date-debut-perso" /></label>
+          <label>au <input type="date" id="date-fin-perso" /></label>
+        </div>
 
         <br />
 

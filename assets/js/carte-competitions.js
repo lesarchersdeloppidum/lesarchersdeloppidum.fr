@@ -14,7 +14,9 @@ let marqueurs = [];
 let competitionsChargees = [];
 let disciplinesDisponibles = new Set();
 let filtresActifs = new Set();
-let filtreDateActif = "30jours";
+let filtreDateActif = "7jours";
+let dateDebutPersonnalisee = null;
+let dateFinPersonnalisee = null;
 const OPACITE_MARQUEUR = 0.85;
 let pointRecherche = null;
 let rayonKm = 100;
@@ -57,26 +59,6 @@ function choisirIcone(discipline) {
         popupAnchor: [0, -20],
         className: "icone-carte",
     });
-}
-
-
-function obtenirSaisonActuelle() {
-    const aujourdHui = new Date();
-    const annee = aujourdHui.getFullYear();
-    const mois = aujourdHui.getMonth() + 1;
-
-    let debut;
-    let fin;
-
-    if (mois >= 9) {
-        debut = new Date(annee, 8, 1);
-        fin = new Date(annee + 1, 7, 31);
-    } else {
-        debut = new Date(annee - 1, 8, 1);
-        fin = new Date(annee, 7, 31);
-    }
-
-    return { debut, fin };
 }
 
 
@@ -142,18 +124,29 @@ function concoursDansPeriode(concours) {
     const aujourdHui = new Date();
     aujourdHui.setHours(0, 0, 0, 0);
 
-    if (filtreDateActif === "30jours") {
+    if (filtreDateActif === "7jours") {
         const limite = new Date();
-        limite.setDate(limite.getDate() + 30);
-
+        limite.setDate(limite.getDate() + 7);
         return dateConcours >= aujourdHui && dateConcours <= limite;
     }
 
-    if (filtreDateActif === "saison") {
-        const saison = obtenirSaisonActuelle();
-        return dateConcours >= aujourdHui && dateConcours <= saison.fin;
+    if (filtreDateActif === "30jours") {
+        const limite = new Date();
+        limite.setDate(limite.getDate() + 30);
+        return dateConcours >= aujourdHui && dateConcours <= limite;
     }
 
+    if (filtreDateActif === "personnalise") {
+        if (!dateDebutPersonnalisee || !dateFinPersonnalisee) {
+            return false;
+        }
+        return (
+            dateConcours >= dateDebutPersonnalisee &&
+            dateConcours <= dateFinPersonnalisee
+        );
+    }
+
+    // "tout"
     return estAVenir(concours);
 }
 
@@ -349,8 +342,13 @@ function initRechercheVille() {
                 checkbox.checked = false;
             });
 
-        document.querySelector('input[name="dates"][value="30jours"]').checked = true;
-        filtreDateActif = "30jours";
+        document.querySelector('input[name="dates"][value="7jours"]').checked = true;
+        filtreDateActif = "7jours";
+        dateDebutPersonnalisee = null;
+        dateFinPersonnalisee = null;
+        document.getElementById("date-debut-perso").value = "";
+        document.getElementById("date-fin-perso").value = "";
+        document.getElementById("plage-personnalisee").classList.add("masque");
 
         afficherCarte();
     });
@@ -362,6 +360,33 @@ function initRechercheVille() {
         this.textContent = filtres.classList.contains("ouvert")
             ? "✕ Fermer"
             : "☰ Filtres";
+    });
+
+    document.querySelectorAll('input[name="dates"]').forEach((bouton) => {
+        bouton.onchange = function () {
+            filtreDateActif = this.value;
+
+            document.getElementById("plage-personnalisee").classList.toggle(
+                "masque",
+                filtreDateActif !== "personnalise"
+            );
+
+            afficherCarte();
+        };
+    });
+
+    document.getElementById("date-debut-perso").addEventListener("change", function () {
+        dateDebutPersonnalisee = this.value ? new Date(this.value) : null;
+        if (filtreDateActif === "personnalise") {
+            afficherCarte();
+        }
+    });
+
+    document.getElementById("date-fin-perso").addEventListener("change", function () {
+        dateFinPersonnalisee = this.value ? new Date(this.value) : null;
+        if (filtreDateActif === "personnalise") {
+            afficherCarte();
+        }
     });
 }
 
@@ -389,13 +414,6 @@ function creerFiltres() {
         label.appendChild(checkbox);
         label.appendChild(document.createTextNode(" " + discipline));
         zone.appendChild(label);
-    });
-
-    document.querySelectorAll('input[name="dates"]').forEach((bouton) => {
-        bouton.onchange = function () {
-            filtreDateActif = this.value;
-            afficherCarte();
-        };
     });
 }
 
