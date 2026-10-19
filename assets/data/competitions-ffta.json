@@ -63137,10 +63137,10 @@
         "lieu": "SINGAPOUR - REP DE SINGAPOUR",
         "comite_regional": null,
         "comite_departemental": null,
-        "latitude": null,
-        "longitude": null,
-        "gps_statut": "echec",
-        "gps_source": null
+        "latitude": "1.357107",
+        "longitude": "103.8194992",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
       },
       "documents": {
         "mandat": null
@@ -63272,10 +63272,10 @@
         "lieu": "SAMSUM - TURQUIE",
         "comite_regional": null,
         "comite_departemental": null,
-        "latitude": null,
-        "longitude": null,
-        "gps_statut": "echec",
-        "gps_source": null
+        "latitude": "41.29051861969006",
+        "longitude": "36.33562412978336",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
       },
       "documents": {
         "mandat": null
@@ -66512,10 +66512,10 @@
         "lieu": "VILLEURBANNE",
         "comite_regional": "COMITE REGIONAL AUVERGNE-RHONE ALPES",
         "comite_departemental": "COMITE DE TIR A L'ARC RHONE-METROPOLE DE LYON",
-        "latitude": null,
-        "longitude": null,
-        "gps_statut": "echec",
-        "gps_source": null
+        "latitude": "45.7793376",
+        "longitude": "4.8868017",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
       },
       "documents": {
         "mandat": null
@@ -68753,10 +68753,10 @@
         "lieu": "MERY-SUR-OIRE",
         "comite_regional": "COMITE REGIONAL ILE DE FRANCE",
         "comite_departemental": "COMITE DEPARTEMENTAL VAL D'OISE",
-        "latitude": null,
-        "longitude": null,
-        "gps_statut": "echec",
-        "gps_source": null
+        "latitude": "49.0634561",
+        "longitude": "2.1836324",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
       },
       "documents": {
         "mandat": null
@@ -68996,10 +68996,10 @@
         "lieu": "BASTIA",
         "comite_regional": "COMITE REGIONAL DE CORSE",
         "comite_departemental": "COMITE DEPARTEMENTAL DE HTE CORSE",
-        "latitude": null,
-        "longitude": null,
-        "gps_statut": "echec",
-        "gps_source": null
+        "latitude": "42.7025929",
+        "longitude": "9.4454907",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
       },
       "documents": {
         "mandat": null
@@ -69293,10 +69293,10 @@
         "lieu": "BASTIA",
         "comite_regional": "COMITE REGIONAL DE CORSE",
         "comite_departemental": "COMITE DEPARTEMENTAL DE HTE CORSE",
-        "latitude": null,
-        "longitude": null,
-        "gps_statut": "echec",
-        "gps_source": null
+        "latitude": "42.7025929",
+        "longitude": "9.4454907",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
       },
       "documents": {
         "mandat": null
@@ -69320,10 +69320,10 @@
         "lieu": "CALVI",
         "comite_regional": "COMITE REGIONAL DE CORSE",
         "comite_departemental": "COMITE DEPARTEMENTAL DE HTE CORSE",
-        "latitude": null,
-        "longitude": null,
-        "gps_statut": "echec",
-        "gps_source": null
+        "latitude": "42.6301837",
+        "longitude": "8.9326728",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
       },
       "documents": {
         "mandat": null
