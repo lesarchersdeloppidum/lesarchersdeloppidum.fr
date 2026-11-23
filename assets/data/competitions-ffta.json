@@ -1,5 +1,5 @@
 {
-  "derniere_maj": "2026-11-16",
+  "derniere_maj": "2026-11-23",
   "competitions": [
     {
       "id": "23146",
@@ -21988,7 +21988,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25670",
+      "url": "https://www.ffta.fr/index.php/epreuve/25670",
       "id": "25670",
       "nom": "CHALLENGE INTERNE à SAINT ANDRÉ",
       "date": "Le 27 novembre 2026",
@@ -22016,7 +22016,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26782",
+      "url": "https://www.ffta.fr/index.php/epreuve/26782",
       "id": "26782",
       "nom": "TIR A 18 M à RENNES",
       "date": "Le 27 novembre 2026",
@@ -22044,7 +22044,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26783",
+      "url": "https://www.ffta.fr/index.php/epreuve/26783",
       "id": "26783",
       "nom": "TIR A 18 M à RENNES",
       "date": "Le 27 novembre 2026",
@@ -22072,7 +22072,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25519",
+      "url": "https://www.ffta.fr/index.php/epreuve/25519",
       "id": "25519",
       "nom": "PRIX DES GOURMETS - PRIX PARTICULIER à DAMPMART",
       "date": "Du 28 au 30 novembre 2026",
@@ -22100,7 +22100,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25555",
+      "url": "https://www.ffta.fr/index.php/epreuve/25555",
       "id": "25555",
       "nom": "TIR 18 OUVERT PARA  9 CIBLES à CESTAS",
       "date": "Du 28 au 29 novembre 2026",
@@ -22128,7 +22128,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25635",
+      "url": "https://www.ffta.fr/index.php/epreuve/25635",
       "id": "25635",
       "nom": "QUALIFICATIF FRANCE  à SAINT PIERRE DU MONT",
       "date": "Le 28 novembre 2026",
@@ -22156,7 +22156,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25840",
+      "url": "https://www.ffta.fr/index.php/epreuve/25840",
       "id": "25840",
       "nom": "TOURNOI POUSSINS DE LORGUES à LORGUES",
       "date": "Le 28 novembre 2026",
@@ -22184,7 +22184,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25844",
+      "url": "https://www.ffta.fr/index.php/epreuve/25844",
       "id": "25844",
       "nom": "CONCOURS SALLE NOVEMBRE 2026 à LESCAR",
       "date": "Du 28 au 29 novembre 2026",
@@ -22212,7 +22212,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25861",
+      "url": "https://www.ffta.fr/index.php/epreuve/25861",
       "id": "25861",
       "nom": "TIR LOISIRS DEBUTANTS à BOURGES",
       "date": "Le 28 novembre 2026",
@@ -22268,7 +22268,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25941",
+      "url": "https://www.ffta.fr/index.php/epreuve/25941",
       "id": "25941",
       "nom": "CONCOURS SALLE CHAUVIGNY à CHAUVIGNY",
       "date": "Du 28 au 29 novembre 2026",
@@ -22282,7 +22282,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111df261c8bcdc.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -22296,7 +22296,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25958",
+      "url": "https://www.ffta.fr/index.php/epreuve/25958",
       "id": "25958",
       "nom": "JOURNEE JEUNES  à LE PLESSIS BOUCHARD",
       "date": "Le 28 novembre 2026",
@@ -22324,7 +22324,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25993",
+      "url": "https://www.ffta.fr/index.php/epreuve/25993",
       "id": "25993",
       "nom": "RENCONTRE JEUNE à AULNAY DE SAINTONGE",
       "date": "Le 28 novembre 2026",
@@ -22352,7 +22352,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25994",
+      "url": "https://www.ffta.fr/index.php/epreuve/25994",
       "id": "25994",
       "nom": "TIR À 18M à AULNAY DE SAINTONGE",
       "date": "Du 28 au 29 novembre 2026",
@@ -22380,7 +22380,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26034",
+      "url": "https://www.ffta.fr/index.php/epreuve/26034",
       "id": "26034",
       "nom": "CONCOURS SALLE à SALLE DES SPORTS",
       "date": "Du 28 au 29 novembre 2026",
@@ -22408,7 +22408,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26035",
+      "url": "https://www.ffta.fr/index.php/epreuve/26035",
       "id": "26035",
       "nom": "CONCOURS TIR EN SALLE À 18M à FLEURY LES AUBRAIS",
       "date": "Du 28 au 29 novembre 2026",
@@ -22436,7 +22436,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26036",
+      "url": "https://www.ffta.fr/index.php/epreuve/26036",
       "id": "26036",
       "nom": "CONCOURS TIR EN SALLE À 18M à FLEURY LES AUBRAIS",
       "date": "Du 28 au 29 novembre 2026",
@@ -22464,7 +22464,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26037",
+      "url": "https://www.ffta.fr/index.php/epreuve/26037",
       "id": "26037",
       "nom": "CONCOURS NATURE à BONNEVAL",
       "date": "Le 28 novembre 2026",
@@ -22492,7 +22492,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26038",
+      "url": "https://www.ffta.fr/index.php/epreuve/26038",
       "id": "26038",
       "nom": "CONCOURS NATURE à BONNEVAL",
       "date": "Le 28 novembre 2026",
@@ -22520,7 +22520,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26144",
+      "url": "https://www.ffta.fr/index.php/epreuve/26144",
       "id": "26144",
       "nom": "CONTRES A.C.  SALLE 2 X 18M  à CONTRES",
       "date": "Du 28 au 29 novembre 2026",
@@ -22548,7 +22548,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26236",
+      "url": "https://www.ffta.fr/index.php/epreuve/26236",
       "id": "26236",
       "nom": "2X18M - EVREUX SAINT MICHEL à EVREUX",
       "date": "Du 28 au 29 novembre 2026",
@@ -22576,7 +22576,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26237",
+      "url": "https://www.ffta.fr/index.php/epreuve/26237",
       "id": "26237",
       "nom": "2X18M PARA - EVREUX SAINT MICHEL à EVREUX",
       "date": "Du 28 au 29 novembre 2026",
@@ -22604,7 +22604,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26238",
+      "url": "https://www.ffta.fr/index.php/epreuve/26238",
       "id": "26238",
       "nom": "DÉBUTANT SALLE - EVREUX SAINT MICHEL à EVREUX",
       "date": "Le 28 novembre 2026",
@@ -22632,7 +22632,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26239",
+      "url": "https://www.ffta.fr/index.php/epreuve/26239",
       "id": "26239",
       "nom": "TIR EN SALLE 18M à GRAND COURONNE",
       "date": "Du 28 au 29 novembre 2026",
@@ -22660,7 +22660,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26240",
+      "url": "https://www.ffta.fr/index.php/epreuve/26240",
       "id": "26240",
       "nom": "TIR EN SALLE 18M à GRAND COURONNE",
       "date": "Du 28 au 29 novembre 2026",
@@ -22688,7 +22688,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26241",
+      "url": "https://www.ffta.fr/index.php/epreuve/26241",
       "id": "26241",
       "nom": "CONCOURS 18M  à MONTEBOURG",
       "date": "Du 28 au 29 novembre 2026",
@@ -22716,7 +22716,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26242",
+      "url": "https://www.ffta.fr/index.php/epreuve/26242",
       "id": "26242",
       "nom": "CONCOURS 18M  à MONTEBOURG",
       "date": "Du 28 au 29 novembre 2026",
@@ -22744,7 +22744,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26243",
+      "url": "https://www.ffta.fr/index.php/epreuve/26243",
       "id": "26243",
       "nom": "SALLE HEROUVILLE 2026 à HEROUVILLE ST CLAIR",
       "date": "Du 28 au 29 novembre 2026",
@@ -22772,7 +22772,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26244",
+      "url": "https://www.ffta.fr/index.php/epreuve/26244",
       "id": "26244",
       "nom": "SALLE HEROUVILLE 2026 à HEROUVILLE ST CLAIR",
       "date": "Du 28 au 29 novembre 2026",
@@ -22800,7 +22800,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26245",
+      "url": "https://www.ffta.fr/index.php/epreuve/26245",
       "id": "26245",
       "nom": "CONCOURS JEUNES à VAL DE SCIE",
       "date": "Le 28 novembre 2026",
@@ -22828,7 +22828,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26246",
+      "url": "https://www.ffta.fr/index.php/epreuve/26246",
       "id": "26246",
       "nom": "CONCOURS DES NOVICES à VAL DE SCIE",
       "date": "Le 28 novembre 2026",
@@ -22856,7 +22856,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26374",
+      "url": "https://www.ffta.fr/index.php/epreuve/26374",
       "id": "26374",
       "nom": "TIR EN SALLE  à SAINT GERMAIN SUR MORIN",
       "date": "Du 28 au 29 novembre 2026",
@@ -22884,7 +22884,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26375",
+      "url": "https://www.ffta.fr/index.php/epreuve/26375",
       "id": "26375",
       "nom": "TIR EN SALLE PARA à SAINT GERMAIN SUR MORIN",
       "date": "Du 28 au 29 novembre 2026",
@@ -22912,7 +22912,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26376",
+      "url": "https://www.ffta.fr/index.php/epreuve/26376",
       "id": "26376",
       "nom": "TIR A 18M à TRAPPES",
       "date": "Du 28 au 29 novembre 2026",
@@ -22940,7 +22940,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26377",
+      "url": "https://www.ffta.fr/index.php/epreuve/26377",
       "id": "26377",
       "nom": "TIR 18 M SALLE à FONTENAY AUX ROSES",
       "date": "Du 28 au 29 novembre 2026",
@@ -22968,7 +22968,7 @@
       "statut_evenement": "reportée"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26378",
+      "url": "https://www.ffta.fr/index.php/epreuve/26378",
       "id": "26378",
       "nom": "TIR EN SALLE 2 X 18 M à MONTLHERY",
       "date": "Du 28 au 29 novembre 2026",
@@ -22996,7 +22996,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26379",
+      "url": "https://www.ffta.fr/index.php/epreuve/26379",
       "id": "26379",
       "nom": "CONCOURS PARA TIR A L'ARC 18 M SALLE à MONTLHERY",
       "date": "Du 28 au 29 novembre 2026",
@@ -23024,7 +23024,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26380",
+      "url": "https://www.ffta.fr/index.php/epreuve/26380",
       "id": "26380",
       "nom": "CONCOURS SALLE  à  PONTOISE",
       "date": "Du 28 au 29 novembre 2026",
@@ -23052,7 +23052,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26468",
+      "url": "https://www.ffta.fr/index.php/epreuve/26468",
       "id": "26468",
       "nom": "3D INDOOR VERN SUR SEICHE à VERN SUR SEICHE",
       "date": "Du 28 au 29 novembre 2026",
@@ -23108,7 +23108,7 @@
       "statut_evenement": "reportée"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26542",
+      "url": "https://www.ffta.fr/index.php/epreuve/26542",
       "id": "26542",
       "nom": "TIR EN SALLE 18 M à ORVAULT",
       "date": "Du 28 au 29 novembre 2026",
@@ -23192,7 +23192,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26545",
+      "url": "https://www.ffta.fr/index.php/epreuve/26545",
       "id": "26545",
       "nom": "CHAMPIONNAT DÉPARTEMENTAL JEUNES à LE MANS",
       "date": "Le 28 novembre 2026",
@@ -23220,7 +23220,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26546",
+      "url": "https://www.ffta.fr/index.php/epreuve/26546",
       "id": "26546",
       "nom": "CHAMPIONNAT DEPARTEMENTAL à LE MANS",
       "date": "Le 28 novembre 2026",
@@ -23248,7 +23248,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26547",
+      "url": "https://www.ffta.fr/index.php/epreuve/26547",
       "id": "26547",
       "nom": "TIR À 18M à LE MANS",
       "date": "Du 28 au 29 novembre 2026",
@@ -23276,7 +23276,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26548",
+      "url": "https://www.ffta.fr/index.php/epreuve/26548",
       "id": "26548",
       "nom": "CONCOURS SALLE à SAINT AUBIN DES ORMEAUX",
       "date": "Du 28 au 29 novembre 2026",
@@ -23304,7 +23304,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26549",
+      "url": "https://www.ffta.fr/index.php/epreuve/26549",
       "id": "26549",
       "nom": "CONCOURS SALLE CHALLANS à CHALLANS",
       "date": "Du 28 au 29 novembre 2026",
@@ -23332,7 +23332,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26550",
+      "url": "https://www.ffta.fr/index.php/epreuve/26550",
       "id": "26550",
       "nom": "CONCOURS SALLE CHALLANS à CHALLANS",
       "date": "Du 28 au 29 novembre 2026",
@@ -23360,7 +23360,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26622",
+      "url": "https://www.ffta.fr/index.php/epreuve/26622",
       "id": "26622",
       "nom": "TIR EN SALLE 18M à GRAND COURONNE",
       "date": "Du 28 au 29 novembre 2026",
@@ -23388,7 +23388,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26671",
+      "url": "https://www.ffta.fr/index.php/epreuve/26671",
       "id": "26671",
       "nom": "TIR EN SALLE GAP 2026 à GAP",
       "date": "Du 28 au 29 novembre 2026",
@@ -23416,7 +23416,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26672",
+      "url": "https://www.ffta.fr/index.php/epreuve/26672",
       "id": "26672",
       "nom": "CONCOURS 2X18M à LE MUY",
       "date": "Du 28 au 29 novembre 2026",
@@ -23444,7 +23444,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26673",
+      "url": "https://www.ffta.fr/index.php/epreuve/26673",
       "id": "26673",
       "nom": "CONCOURS 2X18M à LE MUY",
       "date": "Du 28 au 29 novembre 2026",
@@ -23472,7 +23472,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26674",
+      "url": "https://www.ffta.fr/index.php/epreuve/26674",
       "id": "26674",
       "nom": "TIR A L'ARC EN SALLE 18M à NICE",
       "date": "Du 28 au 29 novembre 2026",
@@ -23500,7 +23500,7 @@
       "statut_evenement": "reportée"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26675",
+      "url": "https://www.ffta.fr/index.php/epreuve/26675",
       "id": "26675",
       "nom": "TIR A L'ARC EN SALLE 18M à NICE",
       "date": "Du 28 au 29 novembre 2026",
@@ -23528,7 +23528,7 @@
       "statut_evenement": "reportée"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26784",
+      "url": "https://www.ffta.fr/index.php/epreuve/26784",
       "id": "26784",
       "nom": "TIR À 18 M à GUILERS",
       "date": "Du 28 au 29 novembre 2026",
@@ -23556,7 +23556,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26785",
+      "url": "https://www.ffta.fr/index.php/epreuve/26785",
       "id": "26785",
       "nom": "2X18M PAIMPOL à PAIMPOL",
       "date": "Du 28 au 29 novembre 2026",
@@ -23584,7 +23584,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26786",
+      "url": "https://www.ffta.fr/index.php/epreuve/26786",
       "id": "26786",
       "nom": "COMPÉTITION 18 M à KERVIGNAC",
       "date": "Du 28 au 29 novembre 2026",
@@ -23612,7 +23612,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26916",
+      "url": "https://www.ffta.fr/index.php/epreuve/26916",
       "id": "26916",
       "nom": "TIR A 18M à MEURSAULT",
       "date": "Le 28 novembre 2026",
@@ -23640,7 +23640,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26917",
+      "url": "https://www.ffta.fr/index.php/epreuve/26917",
       "id": "26917",
       "nom": "TIR A 18M à MEURSAULT",
       "date": "Le 28 novembre 2026",
@@ -23668,7 +23668,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26918",
+      "url": "https://www.ffta.fr/index.php/epreuve/26918",
       "id": "26918",
       "nom": "TIR A 18 METRES à CHATILLON SUR SEINE",
       "date": "Du 28 au 29 novembre 2026",
@@ -23696,7 +23696,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26919",
+      "url": "https://www.ffta.fr/index.php/epreuve/26919",
       "id": "26919",
       "nom": "TIR A 18 METRES à CHATILLON SUR SEINE",
       "date": "Du 28 au 29 novembre 2026",
@@ -23724,7 +23724,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27005",
+      "url": "https://www.ffta.fr/index.php/epreuve/27005",
       "id": "27005",
       "nom": "RENCONTRE JEUNES ET ADULTES DEBUTANTS à BLERE",
       "date": "Le 28 novembre 2026",
@@ -23752,7 +23752,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27010",
+      "url": "https://www.ffta.fr/index.php/epreuve/27010",
       "id": "27010",
       "nom": "TIR A 18M BLERE à BLERE",
       "date": "Du 28 au 29 novembre 2026",
@@ -23780,7 +23780,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27076",
+      "url": "https://www.ffta.fr/index.php/epreuve/27076",
       "id": "27076",
       "nom": "TIR EN SALLE 2X18M SELECTIF FRANCE à FRONTIGNAN",
       "date": "Du 28 au 29 novembre 2026",
@@ -23836,7 +23836,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27078",
+      "url": "https://www.ffta.fr/index.php/epreuve/27078",
       "id": "27078",
       "nom": "TIR EN SALLE 2X18M SELECTIF FRANCE à FRONTIGNAN",
       "date": "Du 28 au 29 novembre 2026",
@@ -24088,7 +24088,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27346",
+      "url": "https://www.ffta.fr/index.php/epreuve/27346",
       "id": "27346",
       "nom": "TIR SALLE  18 M à ERVY LE CHATEL",
       "date": "Du 28 au 29 novembre 2026",
@@ -24116,7 +24116,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27347",
+      "url": "https://www.ffta.fr/index.php/epreuve/27347",
       "id": "27347",
       "nom": "TIR SALLE  18 M à ERVY LE CHATEL",
       "date": "Du 28 au 29 novembre 2026",
@@ -24144,7 +24144,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27348",
+      "url": "https://www.ffta.fr/index.php/epreuve/27348",
       "id": "27348",
       "nom": "CONCOURS SALLE   à LUNEVILLE",
       "date": "Du 28 au 29 novembre 2026",
@@ -24200,7 +24200,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27350",
+      "url": "https://www.ffta.fr/index.php/epreuve/27350",
       "id": "27350",
       "nom": "TIR EN SALLE FISMES à FISMES",
       "date": "Du 28 au 29 novembre 2026",
@@ -24228,7 +24228,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27351",
+      "url": "https://www.ffta.fr/index.php/epreuve/27351",
       "id": "27351",
       "nom": "25M SALLE 2026 à HAYANGE",
       "date": "Le 28 novembre 2026",
@@ -24256,7 +24256,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27508",
+      "url": "https://www.ffta.fr/index.php/epreuve/27508",
       "id": "27508",
       "nom": "CONCOURS SALLE 2X18M + CRJ à SAINT-CHAMOND",
       "date": "Du 28 au 29 novembre 2026",
@@ -24284,7 +24284,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27509",
+      "url": "https://www.ffta.fr/index.php/epreuve/27509",
       "id": "27509",
       "nom": "CONCOURS SALLE 2X18M + CRJ à SAINT-CHAMOND",
       "date": "Du 28 au 29 novembre 2026",
@@ -24312,7 +24312,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27510",
+      "url": "https://www.ffta.fr/index.php/epreuve/27510",
       "id": "27510",
       "nom": "CHAMPIONNAT DE L AIN JEUNES ET CONCOURS TOUTES CATÉGORIES à OYONNAX",
       "date": "Du 28 au 29 novembre 2026",
@@ -24368,7 +24368,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27512",
+      "url": "https://www.ffta.fr/index.php/epreuve/27512",
       "id": "27512",
       "nom": "2X 18M+CRJ+CHALLENGE NÉO DEBUTANT   à LEMPDES",
       "date": "Du 28 au 29 novembre 2026",
@@ -24396,7 +24396,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27513",
+      "url": "https://www.ffta.fr/index.php/epreuve/27513",
       "id": "27513",
       "nom": "CONCOURS SALLE 2X18 à ANCÔNE",
       "date": "Du 28 au 29 novembre 2026",
@@ -24424,7 +24424,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27514",
+      "url": "https://www.ffta.fr/index.php/epreuve/27514",
       "id": "27514",
       "nom": "CONCOURS 2X18M INDIVIDUEL à RIVES",
       "date": "Du 28 au 29 novembre 2026",
@@ -24452,7 +24452,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27515",
+      "url": "https://www.ffta.fr/index.php/epreuve/27515",
       "id": "27515",
       "nom": "CONCOURS 2X18M INDIVIDUEL à RIVES",
       "date": "Du 28 au 29 novembre 2026",
@@ -24620,7 +24620,7 @@
       "statut_evenement": "annulée"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27521",
+      "url": "https://www.ffta.fr/epreuve/27521",
       "id": "27521",
       "nom": "CONCOURS SALLE 2X18  à LYON",
       "date": "Du 28 au 29 novembre 2026",
@@ -24648,7 +24648,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27522",
+      "url": "https://www.ffta.fr/epreuve/27522",
       "id": "27522",
       "nom": "CONCOURS SALLE 2X18  à LYON",
       "date": "Du 28 au 29 novembre 2026",
@@ -24900,7 +24900,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26787",
+      "url": "https://www.ffta.fr/index.php/epreuve/26787",
       "id": "26787",
       "nom": "TIR À 18 M à CONCARNEAU",
       "date": "Le 29 novembre 2026",
@@ -25068,7 +25068,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25470",
+      "url": "https://www.ffta.fr/epreuve/25470",
       "id": "25470",
       "nom": "PASSAGE DE FLECHES ADULTES à DAGNEUX",
       "date": "Le 04 décembre 2026",
@@ -25096,7 +25096,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25532",
+      "url": "https://www.ffta.fr/epreuve/25532",
       "id": "25532",
       "nom": "LA NUIT DU TIR A L'ARC - TELETHON 2026 à LYON",
       "date": "Du 04 au 05 décembre 2026",
@@ -25124,7 +25124,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25874",
+      "url": "https://www.ffta.fr/epreuve/25874",
       "id": "25874",
       "nom": "PRIX GÉNÉRAL 2/3 à ERMONT",
       "date": "Du 04 au 06 décembre 2026",
@@ -26034,7 +26034,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111e9654e02494.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -26104,7 +26104,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26790",
+      "url": "https://www.ffta.fr/index.php/epreuve/26790",
       "id": "26790",
       "nom": "TIR 18M à BREST",
       "date": "Du 05 au 06 décembre 2026",
@@ -27000,7 +27000,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27359",
+      "url": "https://www.ffta.fr/index.php/epreuve/27359",
       "id": "27359",
       "nom": "TIR SALLE 2 X 18M à ROMILLY SUR SEINE",
       "date": "Du 05 au 06 décembre 2026",
@@ -27028,7 +27028,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27360",
+      "url": "https://www.ffta.fr/index.php/epreuve/27360",
       "id": "27360",
       "nom": "TIR EN SALLE DIEUZE 2026 à DIEUZE",
       "date": "Du 05 au 06 décembre 2026",
@@ -27056,7 +27056,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27361",
+      "url": "https://www.ffta.fr/index.php/epreuve/27361",
       "id": "27361",
       "nom": "CONCOURS JEUNES TÉLÉTHON à CHARLEVILLE-MÉZIÈRES",
       "date": "Le 05 décembre 2026",
@@ -27084,7 +27084,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27362",
+      "url": "https://www.ffta.fr/index.php/epreuve/27362",
       "id": "27362",
       "nom": "TIR EN SALLE 18M à COLMAR",
       "date": "Le 05 décembre 2026",
@@ -27112,7 +27112,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27523",
+      "url": "https://www.ffta.fr/index.php/epreuve/27523",
       "id": "27523",
       "nom": "SALLE 2026 à BOURBON L ARCHAMBAULT",
       "date": "Du 05 au 06 décembre 2026",
@@ -27140,7 +27140,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27524",
+      "url": "https://www.ffta.fr/index.php/epreuve/27524",
       "id": "27524",
       "nom": "SALLE 2026 à BOURBON L ARCHAMBAULT",
       "date": "Du 05 au 06 décembre 2026",
@@ -27168,7 +27168,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27525",
+      "url": "https://www.ffta.fr/epreuve/27525",
       "id": "27525",
       "nom": "CONCOURS SALLE 2X18M à NEUVILLE SUR SAONE",
       "date": "Du 05 au 06 décembre 2026",
@@ -27196,7 +27196,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27526",
+      "url": "https://www.ffta.fr/epreuve/27526",
       "id": "27526",
       "nom": "CONCOURS MARCY L'ETOILE à MARCY L'ETOILE",
       "date": "Du 05 au 06 décembre 2026",
@@ -27224,7 +27224,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27527",
+      "url": "https://www.ffta.fr/index.php/epreuve/27527",
       "id": "27527",
       "nom": "CRJ 1 ANNONAY à ANNONAY",
       "date": "Le 05 décembre 2026",
@@ -27252,7 +27252,7 @@
       "statut_evenement": "reportée"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27528",
+      "url": "https://www.ffta.fr/index.php/epreuve/27528",
       "id": "27528",
       "nom": "TIR EN SALLE 2X18M à CHATEL-GUYON",
       "date": "Du 05 au 06 décembre 2026",
@@ -27280,7 +27280,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27529",
+      "url": "https://www.ffta.fr/index.php/epreuve/27529",
       "id": "27529",
       "nom": "TIR VEGAS 2X18M à CHATEL-GUYON",
       "date": "Le 05 décembre 2026",
@@ -27336,7 +27336,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27531",
+      "url": "https://www.ffta.fr/index.php/epreuve/27531",
       "id": "27531",
       "nom": "LAPTE à LAPTE",
       "date": "Du 05 au 06 décembre 2026",
@@ -27364,7 +27364,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27532",
+      "url": "https://www.ffta.fr/index.php/epreuve/27532",
       "id": "27532",
       "nom": "ANNEMASSE 2 X 18M INDOOR à ANNEMASSE",
       "date": "Du 05 au 06 décembre 2026",
@@ -27392,7 +27392,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27533",
+      "url": "https://www.ffta.fr/index.php/epreuve/27533",
       "id": "27533",
       "nom": "SALLE à ANDREZIEUX BOUTHEON",
       "date": "Du 05 au 06 décembre 2026",
@@ -27420,7 +27420,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27534",
+      "url": "https://www.ffta.fr/index.php/epreuve/27534",
       "id": "27534",
       "nom": "CONCOURS SALLE 2X18M à VOIRON",
       "date": "Du 05 au 06 décembre 2026",
@@ -27448,7 +27448,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27535",
+      "url": "https://www.ffta.fr/index.php/epreuve/27535",
       "id": "27535",
       "nom": "CONCOURS SALLE 2X18M à VOIRON",
       "date": "Du 05 au 06 décembre 2026",
@@ -27812,7 +27812,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26794",
+      "url": "https://www.ffta.fr/index.php/epreuve/26794",
       "id": "26794",
       "nom": "TIR À 18 METRES - 4 DEPARTS - 8 CIBLES - RYTHME AB à TINTENIAC",
       "date": "Le 06 décembre 2026",
@@ -27840,7 +27840,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26983",
+      "url": "https://www.ffta.fr/index.php/epreuve/26983",
       "id": "26983",
       "nom": "TIR EN SALLE N°3 à LE LAMENTIN",
       "date": "Le 06 décembre 2026",
@@ -28274,7 +28274,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111ef0d5433ad6.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -28316,7 +28316,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27536",
+      "url": "https://www.ffta.fr/epreuve/27536",
       "id": "27536",
       "nom": "TIR EN SALLE à LYON 8",
       "date": "Le 10 décembre 2026",
@@ -28344,7 +28344,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27537",
+      "url": "https://www.ffta.fr/epreuve/27537",
       "id": "27537",
       "nom": "TIR EN SALLE à LYON 8",
       "date": "Le 10 décembre 2026",
@@ -28414,7 +28414,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111e68c4cad411.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -28484,7 +28484,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26795",
+      "url": "https://www.ffta.fr/index.php/epreuve/26795",
       "id": "26795",
       "nom": "TIR À 18M  à PLOUEDERN",
       "date": "Du 11 au 13 décembre 2026",
@@ -28764,7 +28764,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25791",
+      "url": "https://www.ffta.fr/epreuve/25791",
       "id": "25791",
       "nom": "CONCOURS JEUNE à CHANGE",
       "date": "Le 12 décembre 2026",
@@ -28862,7 +28862,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111e49cae01ee.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Loisirs Débutant",
@@ -28904,7 +28904,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25955",
+      "url": "https://www.ffta.fr/index.php/epreuve/25955",
       "id": "25955",
       "nom": "CHALLENGE DES ECOLES D'ARC à GUILERS",
       "date": "Le 12 décembre 2026",
@@ -29142,7 +29142,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111e49e28ab4c5.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -29170,7 +29170,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111e49e461b531.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Para-tir à l'arc à 18m",
@@ -29198,7 +29198,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111e3001878deb.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -29226,7 +29226,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111e2ff4845758.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Para-tir à l'arc à 18m",
@@ -30248,7 +30248,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26802",
+      "url": "https://www.ffta.fr/index.php/epreuve/26802",
       "id": "26802",
       "nom": "TOURNOI U11-U13 à GUILERS",
       "date": "Le 12 décembre 2026",
@@ -30626,7 +30626,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111f2ec35ac8a4.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -31074,7 +31074,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111e312210defb.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -31102,7 +31102,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111e312951a61.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Para-tir à l'arc à 18m",
@@ -31186,7 +31186,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111e9461e7e9b6.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -31214,7 +31214,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111e9463866743.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Para-tir à l'arc à 18m",
@@ -31228,7 +31228,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27540",
+      "url": "https://www.ffta.fr/epreuve/27540",
       "id": "27540",
       "nom": "18M + CRJ à VILLEFRANCHE SUR SAONE",
       "date": "Du 12 au 13 décembre 2026",
@@ -31270,7 +31270,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111e2fd116bdc4.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -31284,7 +31284,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27542",
+      "url": "https://www.ffta.fr/index.php/epreuve/27542",
       "id": "27542",
       "nom": "SALLE  à SAINT ETIENNE",
       "date": "Du 12 au 13 décembre 2026",
@@ -31340,7 +31340,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27544",
+      "url": "https://www.ffta.fr/epreuve/27544",
       "id": "27544",
       "nom": "CONCOURS SELECTIF VILLEURBANNE +CRJ à VILLEURBANNE",
       "date": "Le 12 décembre 2026",
@@ -31452,7 +31452,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25590",
+      "url": "https://www.ffta.fr/index.php/epreuve/25590",
       "id": "25590",
       "nom": "TIR NOËL à ST MEME LES CARRIERES",
       "date": "Le 13 décembre 2026",
@@ -31480,7 +31480,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25688",
+      "url": "https://www.ffta.fr/index.php/epreuve/25688",
       "id": "25688",
       "nom": "TIR SALLE 04 à CAYENNE",
       "date": "Le 13 décembre 2026",
@@ -31508,7 +31508,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25722",
+      "url": "https://www.ffta.fr/index.php/epreuve/25722",
       "id": "25722",
       "nom": "TIR NATURE à ST MARTIN DE LAYE",
       "date": "Le 13 décembre 2026",
@@ -31536,7 +31536,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25750",
+      "url": "https://www.ffta.fr/index.php/epreuve/25750",
       "id": "25750",
       "nom": "CHALLENGE DES CHAMPIONS à KERVIGNAC",
       "date": "Le 13 décembre 2026",
@@ -31676,7 +31676,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26689",
+      "url": "https://www.ffta.fr/index.php/epreuve/26689",
       "id": "26689",
       "nom": "CONCOURS SÉLECTIF 2X18M à MORIÈRES-LÈS-AVIGNON",
       "date": "Le 13 décembre 2026",
@@ -31704,7 +31704,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26935",
+      "url": "https://www.ffta.fr/index.php/epreuve/26935",
       "id": "26935",
       "nom": "2X18M à LA CHARITÉ-SUR-LOIRE",
       "date": "Le 13 décembre 2026",
@@ -31732,7 +31732,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26936",
+      "url": "https://www.ffta.fr/index.php/epreuve/26936",
       "id": "26936",
       "nom": "2X18M à LA CHARITÉ-SUR-LOIRE",
       "date": "Le 13 décembre 2026",
@@ -31760,7 +31760,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26997",
+      "url": "https://www.ffta.fr/index.php/epreuve/26997",
       "id": "26997",
       "nom": "TOURNOI DES MIXTES à NARBONNE",
       "date": "Le 13 décembre 2026",
@@ -31788,7 +31788,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27096",
+      "url": "https://www.ffta.fr/index.php/epreuve/27096",
       "id": "27096",
       "nom": "TIR SALLE 18 M ARC CLASSIQUE TROPHEE DES CHAMPIONS à SOUILLAC",
       "date": "Le 13 décembre 2026",
@@ -31816,7 +31816,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27097",
+      "url": "https://www.ffta.fr/index.php/epreuve/27097",
       "id": "27097",
       "nom": "TIR SALLE 18 M ARC CLASSIQUE TROPHEE DES CHAMPIONS à SOUILLAC",
       "date": "Le 13 décembre 2026",
@@ -31830,7 +31830,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111f02c2ed578a.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Para-tir à l'arc à 18m",
@@ -31844,7 +31844,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27098",
+      "url": "https://www.ffta.fr/index.php/epreuve/27098",
       "id": "27098",
       "nom": "TIR A 18 M à BEZIERS",
       "date": "Le 13 décembre 2026",
@@ -31872,7 +31872,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27099",
+      "url": "https://www.ffta.fr/index.php/epreuve/27099",
       "id": "27099",
       "nom": "TIR A 18 M à BEZIERS",
       "date": "Le 13 décembre 2026",
@@ -31900,7 +31900,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27377",
+      "url": "https://www.ffta.fr/index.php/epreuve/27377",
       "id": "27377",
       "nom": "TIR EN SALLE 18M à MULHOUSE",
       "date": "Le 13 décembre 2026",
@@ -31956,7 +31956,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27548",
+      "url": "https://www.ffta.fr/index.php/epreuve/27548",
       "id": "27548",
       "nom": "CHALLENGE FEMININ+INDIV ET DEBUTANTS à ST-BEAUZIRE",
       "date": "Le 13 décembre 2026",
@@ -32068,7 +32068,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25475",
+      "url": "https://www.ffta.fr/epreuve/25475",
       "id": "25475",
       "nom": "PASSAGE DE PLUMES ET DE FLECHES DE PROGRESSION à CHASSIEU",
       "date": "Le 16 décembre 2026",
@@ -32166,7 +32166,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111e677549aa21.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -32208,7 +32208,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27550",
+      "url": "https://www.ffta.fr/epreuve/27550",
       "id": "27550",
       "nom": "TIR EN SALLE 2 X 18 M à LOZANNE",
       "date": "Le 16 décembre 2026",
@@ -32222,7 +32222,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111f2c82001a74.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -32264,7 +32264,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25478",
+      "url": "https://www.ffta.fr/epreuve/25478",
       "id": "25478",
       "nom": "TIR A LA PAPILLOTE à CHASSIEU",
       "date": "Le 18 décembre 2026",
@@ -32320,7 +32320,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25534",
+      "url": "https://www.ffta.fr/epreuve/25534",
       "id": "25534",
       "nom": "TIR DE NOEL à LYON",
       "date": "Le 18 décembre 2026",
@@ -32474,7 +32474,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111af4215fc344.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -32726,7 +32726,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111ba0f39b759.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -32838,7 +32838,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111dc7a1c66890.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -32894,7 +32894,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111dc7b12aed31.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Loisirs Débutant",
@@ -32922,7 +32922,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111976b3b4912d.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -32950,7 +32950,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111976b2a22474.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -32978,7 +32978,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111976b15cfb63.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -33062,7 +33062,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111b5f651b5ede.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -33090,7 +33090,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/11197d614b597f.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -33118,7 +33118,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111c997655334.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -33132,7 +33132,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26570",
+      "url": "https://www.ffta.fr/epreuve/26570",
       "id": "26570",
       "nom": "TIR  A 18M DE NOEL à LE GENEST SAINT ISLE",
       "date": "Du 19 au 20 décembre 2026",
@@ -33146,7 +33146,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111ce6d1a1ae87.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -33160,7 +33160,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26571",
+      "url": "https://www.ffta.fr/epreuve/26571",
       "id": "26571",
       "nom": "TIR  A 18M DE NOEL à LE GENEST SAINT ISLE",
       "date": "Du 19 au 20 décembre 2026",
@@ -33174,7 +33174,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111ce6d544c957.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Para-tir à l'arc à 18m",
@@ -33202,7 +33202,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111a5164d6422.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -33230,7 +33230,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111a51626effaa.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Para-tir à l'arc à 18m",
@@ -33314,7 +33314,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111c40b208d4df.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -33342,7 +33342,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111c40b9f15c8.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Para-tir à l'arc à 18m",
@@ -33370,7 +33370,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111d43a8a062b.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -33440,7 +33440,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26818",
+      "url": "https://www.ffta.fr/index.php/epreuve/26818",
       "id": "26818",
       "nom": "TIR A 18M 2027 à RIEC-SUR-BELON",
       "date": "Le 19 décembre 2026",
@@ -33468,7 +33468,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26819",
+      "url": "https://www.ffta.fr/index.php/epreuve/26819",
       "id": "26819",
       "nom": "TIR A 18M 2027 à RIEC-SUR-BELON",
       "date": "Le 19 décembre 2026",
@@ -33594,7 +33594,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111c39c1b15d5a.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -33622,7 +33622,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111ced85594e8d.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Para-tir à l'arc à 18m",
@@ -33678,7 +33678,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111d4b85f2415a.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -33706,7 +33706,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111d4b936776a4.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Para-tir à l'arc à 18m",
@@ -33734,7 +33734,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111de483b3a8de.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -33790,7 +33790,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111a65d5132d6c.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -33846,7 +33846,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111ecb72bf2939.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -33874,7 +33874,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111ecb81528cc6.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Para-tir à l'arc à 18m",
@@ -33958,7 +33958,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/1118dcb221b916.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -33986,7 +33986,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111ae7eb9ea4.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -34000,7 +34000,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27381",
+      "url": "https://www.ffta.fr/epreuve/27381",
       "id": "27381",
       "nom": "CONCOURS DE NOEL - 3 DÉPARTS à OBERNAI",
       "date": "Du 19 au 20 décembre 2026",
@@ -34014,7 +34014,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111ae7e2a868cb.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Para-tir à l'arc à 18m",
@@ -34028,7 +34028,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27382",
+      "url": "https://www.ffta.fr/epreuve/27382",
       "id": "27382",
       "nom": "TROPHEE DES LUTINS à OBERNAI",
       "date": "Le 19 décembre 2026",
@@ -34070,7 +34070,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111ca1ad009b.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -34098,7 +34098,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111ca1a284fd36.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Para-tir à l'arc à 18m",
@@ -34126,7 +34126,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111baa29b0fea.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -34168,7 +34168,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27555",
+      "url": "https://www.ffta.fr/epreuve/27555",
       "id": "27555",
       "nom": "SELECTIF CHAMPIONNAT DE FRANCE à GIVORS",
       "date": "Du 19 au 20 décembre 2026",
@@ -34182,7 +34182,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111ec5740fab67.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -34210,7 +34210,7 @@
         "gps_source": "geocodage"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/1119b44496e40a.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -34224,7 +34224,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25607",
+      "url": "https://www.ffta.fr/epreuve/25607",
       "id": "25607",
       "nom": "CHALLENGE ARC CLASSIQUE à GABARRET",
       "date": "Le 20 décembre 2026",
@@ -34420,7 +34420,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26822",
+      "url": "https://www.ffta.fr/epreuve/26822",
       "id": "26822",
       "nom": "TIR À 18 METRES - 4 DEPARTS - 8 CIBLES - RYTHME AB à TINTENIAC",
       "date": "Le 20 décembre 2026",
@@ -34448,7 +34448,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26823",
+      "url": "https://www.ffta.fr/epreuve/26823",
       "id": "26823",
       "nom": "TIR À 18 METRES - 4 DEPARTS - 8 CIBLES - RYTHME AB à TINTENIAC",
       "date": "Le 20 décembre 2026",
@@ -34462,7 +34462,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/1119a8e1be5e5f.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -34532,7 +34532,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26984",
+      "url": "https://www.ffta.fr/epreuve/26984",
       "id": "26984",
       "nom": "TIR EN SALLE N°4 à RIVIERE-PILOTE",
       "date": "Le 20 décembre 2026",
@@ -34868,7 +34868,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26826",
+      "url": "https://www.ffta.fr/index.php/epreuve/26826",
       "id": "26826",
       "nom": "TIR A 18 M à CHATEAUNEUF DU FAOU",
       "date": "Du 02 au 03 janvier 2027",
@@ -35148,7 +35148,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26581",
+      "url": "https://www.ffta.fr/epreuve/26581",
       "id": "26581",
       "nom": "TIR A 18 M à MESLAY DU MAINE",
       "date": "Le 03 janvier 2027",
@@ -35176,7 +35176,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26582",
+      "url": "https://www.ffta.fr/epreuve/26582",
       "id": "26582",
       "nom": "TIR A 18 M à MESLAY DU MAINE",
       "date": "Le 03 janvier 2027",
@@ -35232,7 +35232,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26054",
+      "url": "https://www.ffta.fr/index.php/epreuve/26054",
       "id": "26054",
       "nom": "TIR A 18M LA FERTE SAINT AUBIN à LA FERTE SAINT AUBIN",
       "date": "Du 09 au 10 janvier 2027",
@@ -35260,7 +35260,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26105",
+      "url": "https://www.ffta.fr/index.php/epreuve/26105",
       "id": "26105",
       "nom": "2X18M ARGENT SUR SAULDRE à ARGENT SUR SAULDRE",
       "date": "Du 09 au 10 janvier 2027",
@@ -35288,7 +35288,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26106",
+      "url": "https://www.ffta.fr/index.php/epreuve/26106",
       "id": "26106",
       "nom": "2X18M ARGENT SUR SAULDRE à ARGENT SUR SAULDRE",
       "date": "Du 09 au 10 janvier 2027",
@@ -35316,7 +35316,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26151",
+      "url": "https://www.ffta.fr/index.php/epreuve/26151",
       "id": "26151",
       "nom": "TIR SALLE JANVIER à CLUIS",
       "date": "Du 09 au 10 janvier 2027",
@@ -35344,7 +35344,7 @@
       "statut_evenement": "annulée"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26152",
+      "url": "https://www.ffta.fr/index.php/epreuve/26152",
       "id": "26152",
       "nom": "TIR SALLE CHATEAUROUX à CHATEAUROUX",
       "date": "Du 09 au 10 janvier 2027",
@@ -35372,7 +35372,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26153",
+      "url": "https://www.ffta.fr/index.php/epreuve/26153",
       "id": "26153",
       "nom": "TIR SALLE CHATEAUROUX à CHATEAUROUX",
       "date": "Du 09 au 10 janvier 2027",
@@ -35400,7 +35400,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26154",
+      "url": "https://www.ffta.fr/index.php/epreuve/26154",
       "id": "26154",
       "nom": "TIR SALLE JANVIER à CLUIS",
       "date": "Du 09 au 10 janvier 2027",
@@ -35428,7 +35428,7 @@
       "statut_evenement": "annulée"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26273",
+      "url": "https://www.ffta.fr/index.php/epreuve/26273",
       "id": "26273",
       "nom": "AAP TIR A 18M 2027 à LES PIEUX",
       "date": "Du 09 au 10 janvier 2027",
@@ -35456,7 +35456,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26274",
+      "url": "https://www.ffta.fr/index.php/epreuve/26274",
       "id": "26274",
       "nom": "AAP TIR A 18M 2027 à LES PIEUX",
       "date": "Du 09 au 10 janvier 2027",
@@ -35484,7 +35484,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26275",
+      "url": "https://www.ffta.fr/index.php/epreuve/26275",
       "id": "26275",
       "nom": "CONCOURS DE LA LEZARDE 2027 à EPOUVILLE",
       "date": "Du 09 au 10 janvier 2027",
@@ -35512,7 +35512,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26276",
+      "url": "https://www.ffta.fr/index.php/epreuve/26276",
       "id": "26276",
       "nom": "CONCOURS SALLE 2X18 BAYEUX à BAYEUX",
       "date": "Du 09 au 10 janvier 2027",
@@ -35540,7 +35540,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26277",
+      "url": "https://www.ffta.fr/index.php/epreuve/26277",
       "id": "26277",
       "nom": "ACC CONCOURS DEBUTANTS SALLE à GYMNASE PIERRE COUBERTIN CONCHES EN OUCHE",
       "date": "Le 09 janvier 2027",
@@ -35568,7 +35568,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26278",
+      "url": "https://www.ffta.fr/index.php/epreuve/26278",
       "id": "26278",
       "nom": "ACC CONCOURS SALLE 3 DEPARTS à GYMNASE PIERRE COUBERTIN CONCHES EN OUCHE",
       "date": "Du 09 au 10 janvier 2027",
@@ -35932,7 +35932,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26585",
+      "url": "https://www.ffta.fr/epreuve/26585",
       "id": "26585",
       "nom": "COMPAGNIE ST GEORGES DE LAVAL à LAVAL",
       "date": "Du 09 au 10 janvier 2027",
@@ -35960,7 +35960,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26586",
+      "url": "https://www.ffta.fr/epreuve/26586",
       "id": "26586",
       "nom": "COMPAGNIE ST GEORGES DE LAVAL à LAVAL",
       "date": "Du 09 au 10 janvier 2027",
@@ -36660,7 +36660,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26841",
+      "url": "https://www.ffta.fr/index.php/epreuve/26841",
       "id": "26841",
       "nom": "CONCOURS 18 M BOHARS - TROPHEE BEATRICE à BOHARS",
       "date": "Du 09 au 10 janvier 2027",
@@ -37612,7 +37612,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27558",
+      "url": "https://www.ffta.fr/epreuve/27558",
       "id": "27558",
       "nom": "SALLE 2027  + CRJ à ST PRIEST",
       "date": "Du 09 au 10 janvier 2027",
@@ -37640,7 +37640,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27559",
+      "url": "https://www.ffta.fr/epreuve/27559",
       "id": "27559",
       "nom": "SALLE 2027  + CRJ à ST PRIEST",
       "date": "Du 09 au 10 janvier 2027",
@@ -37808,7 +37808,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25479",
+      "url": "https://www.ffta.fr/epreuve/25479",
       "id": "25479",
       "nom": "SAINT SEBASTIEN à CHASSIEU",
       "date": "Le 15 janvier 2027",
@@ -38536,7 +38536,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26114",
+      "url": "https://www.ffta.fr/index.php/epreuve/26114",
       "id": "26114",
       "nom": "CHAMPIONNAT DÉPARTEMENTAL JEUNE à ST CREPIN ET CARLUCET",
       "date": "Le 16 janvier 2027",
@@ -38564,7 +38564,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26155",
+      "url": "https://www.ffta.fr/index.php/epreuve/26155",
       "id": "26155",
       "nom": "CONCOURS EN SALLE A 18M à ARGENTON SUR CREUSE",
       "date": "Du 16 au 17 janvier 2027",
@@ -38592,7 +38592,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26283",
+      "url": "https://www.ffta.fr/index.php/epreuve/26283",
       "id": "26283",
       "nom": "CONCOURS FRANCOIS BRAUN à OFFRANVILLE",
       "date": "Du 16 au 17 janvier 2027",
@@ -38620,7 +38620,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26284",
+      "url": "https://www.ffta.fr/index.php/epreuve/26284",
       "id": "26284",
       "nom": "CONCOURS FRANCOIS BRAUN à OFFRANVILLE",
       "date": "Du 16 au 17 janvier 2027",
@@ -38648,7 +38648,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26285",
+      "url": "https://www.ffta.fr/index.php/epreuve/26285",
       "id": "26285",
       "nom": "2X18M à GRANVILLE",
       "date": "Du 16 au 17 janvier 2027",
@@ -38704,7 +38704,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26287",
+      "url": "https://www.ffta.fr/index.php/epreuve/26287",
       "id": "26287",
       "nom": "2 X 18 M - SÉES - 2027 à SÉES",
       "date": "Du 16 au 17 janvier 2027",
@@ -38732,7 +38732,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26288",
+      "url": "https://www.ffta.fr/index.php/epreuve/26288",
       "id": "26288",
       "nom": "CD EQUIPE DE CLUB à THUIT SIGNOL",
       "date": "Du 16 au 17 janvier 2027",
@@ -38760,7 +38760,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26289",
+      "url": "https://www.ffta.fr/index.php/epreuve/26289",
       "id": "26289",
       "nom": "CD EQUIPE DE CLUB à THUIT SIGNOL",
       "date": "Du 16 au 17 janvier 2027",
@@ -38788,7 +38788,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26290",
+      "url": "https://www.ffta.fr/index.php/epreuve/26290",
       "id": "26290",
       "nom": "CONCOURS SALLE 18M à MERVILLE",
       "date": "Le 16 janvier 2027",
@@ -38816,7 +38816,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26291",
+      "url": "https://www.ffta.fr/index.php/epreuve/26291",
       "id": "26291",
       "nom": "CONCOURS SALLE 18M à MERVILLE",
       "date": "Le 16 janvier 2027",
@@ -38844,7 +38844,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26421",
+      "url": "https://www.ffta.fr/index.php/epreuve/26421",
       "id": "26421",
       "nom": "CHAMPIONNAT DEPARTEMENTAL 18M DU 94 à CHENNEVIERES SUR MARNE",
       "date": "Du 16 au 17 janvier 2027",
@@ -38872,7 +38872,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26422",
+      "url": "https://www.ffta.fr/index.php/epreuve/26422",
       "id": "26422",
       "nom": "CHAMPIONNAT DEPARTEMENTAL 18M DU 94 à CHENNEVIERES SUR MARNE",
       "date": "Du 16 au 17 janvier 2027",
@@ -38928,7 +38928,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26424",
+      "url": "https://www.ffta.fr/index.php/epreuve/26424",
       "id": "26424",
       "nom": "CONCOURS SALLE STE GENEVIEVE DES BOIS à SAINTE GENEVIÈVE DES BOIS",
       "date": "Du 16 au 17 janvier 2027",
@@ -38956,7 +38956,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26425",
+      "url": "https://www.ffta.fr/index.php/epreuve/26425",
       "id": "26425",
       "nom": "CONCOURS SALLE STE GENEVIEVE DES BOIS à SAINTE GENEVIÈVE DES BOIS",
       "date": "Du 16 au 17 janvier 2027",
@@ -39068,7 +39068,7 @@
       "statut_evenement": "reportée"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26429",
+      "url": "https://www.ffta.fr/index.php/epreuve/26429",
       "id": "26429",
       "nom": "2X18 METRES CHPD 95 à VILLIERS LE BEL",
       "date": "Du 16 au 17 janvier 2027",
@@ -39096,7 +39096,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26430",
+      "url": "https://www.ffta.fr/index.php/epreuve/26430",
       "id": "26430",
       "nom": "CHAMPIONNAT DEPARTEMENTAL TIR 2X18M à AULNAY SOUS BOIS",
       "date": "Du 16 au 17 janvier 2027",
@@ -39124,7 +39124,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26431",
+      "url": "https://www.ffta.fr/index.php/epreuve/26431",
       "id": "26431",
       "nom": "CD77 SALLE JEUNES à TORCY",
       "date": "Du 16 au 17 janvier 2027",
@@ -39152,7 +39152,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26451",
+      "url": "https://www.ffta.fr/index.php/epreuve/26451",
       "id": "26451",
       "nom": "SPÉCIAL JEUNES ET DEBUTANT  à ORLÉANS",
       "date": "Le 16 janvier 2027",
@@ -39180,7 +39180,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26457",
+      "url": "https://www.ffta.fr/index.php/epreuve/26457",
       "id": "26457",
       "nom": "CONCOURS ORLÉANS 1ERE  à ORLÉANS",
       "date": "Du 16 au 17 janvier 2027",
@@ -39208,7 +39208,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26458",
+      "url": "https://www.ffta.fr/index.php/epreuve/26458",
       "id": "26458",
       "nom": "CONCOURS ORLÉANS 1ERE  à ORLÉANS",
       "date": "Du 16 au 17 janvier 2027",
@@ -39236,7 +39236,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26600",
+      "url": "https://www.ffta.fr/epreuve/26600",
       "id": "26600",
       "nom": "CHAMPIONNAT DÉPARTEMANTAL à MAYENNE",
       "date": "Du 16 au 17 janvier 2027",
@@ -39264,7 +39264,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26601",
+      "url": "https://www.ffta.fr/epreuve/26601",
       "id": "26601",
       "nom": "CHAMPIONNAT DÉPARTEMANTAL à MAYENNE",
       "date": "Du 16 au 17 janvier 2027",
@@ -39600,7 +39600,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26850",
+      "url": "https://www.ffta.fr/index.php/epreuve/26850",
       "id": "26850",
       "nom": "CHAMPIONNAT DU FINISTERE PAR EQUIPES à ST RENAN",
       "date": "Du 16 au 17 janvier 2027",
@@ -40384,7 +40384,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27570",
+      "url": "https://www.ffta.fr/epreuve/27570",
       "id": "27570",
       "nom": "SALLE 2X18M  CHAMPIONNAT DEPARTEMENTAL CD69 à LISSIEU",
       "date": "Du 16 au 17 janvier 2027",
@@ -41588,7 +41588,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25536",
+      "url": "https://www.ffta.fr/epreuve/25536",
       "id": "25536",
       "nom": "TIR DE LA ST SEBASTIEN à LYON",
       "date": "Le 23 janvier 2027",
@@ -43044,7 +43044,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26860",
+      "url": "https://www.ffta.fr/index.php/epreuve/26860",
       "id": "26860",
       "nom": "CHAMPIONNAT DU FINISTERE INDIVIDUEL JEUNES à PLOURIN LES MORLAIX",
       "date": "Le 23 janvier 2027",
@@ -43856,7 +43856,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27580",
+      "url": "https://www.ffta.fr/index.php/epreuve/27580",
       "id": "27580",
       "nom": "DEPARTEMENTAL SALLE à ANDREZIEUX BOUTHEON",
       "date": "Du 23 au 24 janvier 2027",
@@ -43940,7 +43940,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27583",
+      "url": "https://www.ffta.fr/epreuve/27583",
       "id": "27583",
       "nom": "BRISPORT 2027 - CRJ à BRIGNAIS",
       "date": "Du 23 au 24 janvier 2027",
@@ -43996,7 +43996,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27585",
+      "url": "https://www.ffta.fr/epreuve/27585",
       "id": "27585",
       "nom": "CONCOURS SALLE à CHASSIEU",
       "date": "Du 23 au 24 janvier 2027",
@@ -44388,7 +44388,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26861",
+      "url": "https://www.ffta.fr/index.php/epreuve/26861",
       "id": "26861",
       "nom": "CHAMPIONNAT DU FINISTERE INDIVIDUEL ADULTES à PLOURIN LES MORLAIX",
       "date": "Le 24 janvier 2027",
@@ -44696,7 +44696,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27587",
+      "url": "https://www.ffta.fr/index.php/epreuve/27587",
       "id": "27587",
       "nom": "SIMPLE ET EFFICACE HERACLES VILLEURBANNE à VILLEURBANNE",
       "date": "Le 27 janvier 2027",
@@ -44724,7 +44724,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26862",
+      "url": "https://www.ffta.fr/index.php/epreuve/26862",
       "id": "26862",
       "nom": "TIR A 18 M à RENNES",
       "date": "Le 29 janvier 2027",
@@ -44752,7 +44752,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26863",
+      "url": "https://www.ffta.fr/index.php/epreuve/26863",
       "id": "26863",
       "nom": "TIR A 18 M à RENNES",
       "date": "Le 29 janvier 2027",
@@ -44780,7 +44780,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25507",
+      "url": "https://www.ffta.fr/index.php/epreuve/25507",
       "id": "25507",
       "nom": "SALLE CHALLENGE JEUNES ISERE à MOIRANS",
       "date": "Le 30 janvier 2027",
@@ -44808,7 +44808,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25541",
+      "url": "https://www.ffta.fr/index.php/epreuve/25541",
       "id": "25541",
       "nom": "FINALE DU CHALLENGE DES DEBUTANTS à LURCY-LEVIS",
       "date": "Le 30 janvier 2027",
@@ -44836,7 +44836,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25572",
+      "url": "https://www.ffta.fr/index.php/epreuve/25572",
       "id": "25572",
       "nom": "TIR A 18 M 2027 à BRIVE LA GAILLARDE 19100",
       "date": "Du 30 au 31 janvier 2027",
@@ -44864,7 +44864,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25573",
+      "url": "https://www.ffta.fr/index.php/epreuve/25573",
       "id": "25573",
       "nom": "CD 18M ADULTES  à CAMBLANES ET MEYNAC",
       "date": "Du 30 au 31 janvier 2027",
@@ -44892,7 +44892,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25597",
+      "url": "https://www.ffta.fr/index.php/epreuve/25597",
       "id": "25597",
       "nom": "SPÉCIAL DÉBUTANTS à ALBERTVILLE",
       "date": "Le 30 janvier 2027",
@@ -44920,7 +44920,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25609",
+      "url": "https://www.ffta.fr/index.php/epreuve/25609",
       "id": "25609",
       "nom": "CHALLENGE ATG à SAINTE MAURE DE PEYRIAC",
       "date": "Le 30 janvier 2027",
@@ -44948,7 +44948,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25792",
+      "url": "https://www.ffta.fr/index.php/epreuve/25792",
       "id": "25792",
       "nom": "TOURNOI DES AINÉS 5ÈME ÉDITION à LES ULIS",
       "date": "Du 30 au 31 janvier 2027",
@@ -44976,7 +44976,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25943",
+      "url": "https://www.ffta.fr/index.php/epreuve/25943",
       "id": "25943",
       "nom": "CHAMPIONNAT DÉPARTEMENTAL TIR À 18M à CHATELLERAULT",
       "date": "Du 30 au 31 janvier 2027",
@@ -45004,7 +45004,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25953",
+      "url": "https://www.ffta.fr/index.php/epreuve/25953",
       "id": "25953",
       "nom": "CONCOURS DEBUTANTS COIGNIERES à COIGNIERES",
       "date": "Du 30 au 31 janvier 2027",
@@ -45032,7 +45032,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25978",
+      "url": "https://www.ffta.fr/index.php/epreuve/25978",
       "id": "25978",
       "nom": "18 M SALLE JEUNE CD à BIARRITZ",
       "date": "Le 30 janvier 2027",
@@ -45060,7 +45060,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25979",
+      "url": "https://www.ffta.fr/index.php/epreuve/25979",
       "id": "25979",
       "nom": "18 M SALLE JEUNE CD à BIARRITZ",
       "date": "Le 30 janvier 2027",
@@ -45088,7 +45088,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25980",
+      "url": "https://www.ffta.fr/index.php/epreuve/25980",
       "id": "25980",
       "nom": "18 M SALLE PARA CD à BIARRITZ",
       "date": "Le 30 janvier 2027",
@@ -45116,7 +45116,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26060",
+      "url": "https://www.ffta.fr/index.php/epreuve/26060",
       "id": "26060",
       "nom": "CHAMPIONNAT DEPARTEMENTAL à SALLE DE LA MADELEINE CHARTRES",
       "date": "Du 30 au 31 janvier 2027",
@@ -45144,7 +45144,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26123",
+      "url": "https://www.ffta.fr/index.php/epreuve/26123",
       "id": "26123",
       "nom": "CHAMPIONNAT DEPARTEMENTAL 37 à JOUE LES TOURS",
       "date": "Du 30 au 31 janvier 2027",
@@ -45172,7 +45172,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26124",
+      "url": "https://www.ffta.fr/index.php/epreuve/26124",
       "id": "26124",
       "nom": "CHAMPIONNAT DEPARTEMENTAL 37 à JOUE LES TOURS",
       "date": "Du 30 au 31 janvier 2027",
@@ -45228,7 +45228,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26126",
+      "url": "https://www.ffta.fr/index.php/epreuve/26126",
       "id": "26126",
       "nom": "CHAMPIONNAT DU CHER  à BOURGES",
       "date": "Du 30 au 31 janvier 2027",
@@ -45256,7 +45256,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26161",
+      "url": "https://www.ffta.fr/index.php/epreuve/26161",
       "id": "26161",
       "nom": "TIR SALLE JANVIER  à LEVROUX",
       "date": "Le 30 janvier 2027",
@@ -45284,7 +45284,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26303",
+      "url": "https://www.ffta.fr/index.php/epreuve/26303",
       "id": "26303",
       "nom": "CHAMPIONNAT DÉPARTEMENTAL ADULTES à ARGENCES",
       "date": "Du 30 au 31 janvier 2027",
@@ -45312,7 +45312,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26304",
+      "url": "https://www.ffta.fr/index.php/epreuve/26304",
       "id": "26304",
       "nom": "CHAMPIONNAT DEPARTEMENTAL INDIVIDUEL ADULTES à COUTANCES",
       "date": "Du 30 au 31 janvier 2027",
@@ -45368,7 +45368,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26306",
+      "url": "https://www.ffta.fr/index.php/epreuve/26306",
       "id": "26306",
       "nom": "CD27 ADULTES 2027 à VERNON",
       "date": "Du 30 au 31 janvier 2027",
@@ -45396,7 +45396,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26307",
+      "url": "https://www.ffta.fr/index.php/epreuve/26307",
       "id": "26307",
       "nom": "CD27 ADULTES 2027 à VERNON",
       "date": "Du 30 au 31 janvier 2027",
@@ -45424,7 +45424,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26308",
+      "url": "https://www.ffta.fr/index.php/epreuve/26308",
       "id": "26308",
       "nom": "CHAMPIONNAT D'EPARTEMENTAL ADULTES à BIHOREL",
       "date": "Du 30 au 31 janvier 2027",
@@ -45452,7 +45452,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26614",
+      "url": "https://www.ffta.fr/index.php/epreuve/26614",
       "id": "26614",
       "nom": "CHAMPIONNAT REGIONAL JEUNE - TIR A 18M à MONTAIGU VENDEE",
       "date": "Du 30 au 31 janvier 2027",
@@ -45480,7 +45480,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26711",
+      "url": "https://www.ffta.fr/index.php/epreuve/26711",
       "id": "26711",
       "nom": "CHAMPIONNAT DEPARTEMENTAL 13 à SAINT MARTIN DE CRAU",
       "date": "Du 30 au 31 janvier 2027",
@@ -45536,7 +45536,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26864",
+      "url": "https://www.ffta.fr/index.php/epreuve/26864",
       "id": "26864",
       "nom": "TOURNOI U11-U13 à PLOUGASNOU",
       "date": "Le 30 janvier 2027",
@@ -47748,7 +47748,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26871",
+      "url": "https://www.ffta.fr/index.php/epreuve/26871",
       "id": "26871",
       "nom": "CHAMPIONNAT DE BRETAGNE JEUNES à QUIMPER",
       "date": "Du 06 au 07 février 2027",
@@ -48000,7 +48000,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27604",
+      "url": "https://www.ffta.fr/index.php/epreuve/27604",
       "id": "27604",
       "nom": "CONCOURS QUALIFICATIF ET CRJ à VILLEREST",
       "date": "Du 06 au 07 février 2027",
@@ -48814,7 +48814,7 @@
     {
       "url": "https://www.ffta.fr/epreuve/26715",
       "id": "26715",
-      "nom": "CHAMPIONNAT REGIONAL SALLE JEUNES à INCONNU",
+      "nom": "CHAMPIONNAT REGIONAL SALLE JEUNES à MONTEUX",
       "date": "Le 13 février 2027",
       "localisation": {
         "lieu": "INCONNU",
@@ -48833,9 +48833,9 @@
       "championnat": "Individuel Tir à 18m 2027",
       "organisateur": "COMITE REGIONAL PROVENCE ALPES COTE D'AZUR",
       "dates": {
-        "texte": "Le 13 février 2027",
+        "texte": "Du 13 au 14 février 2027",
         "debut": "2027-02-13",
-        "fin": "2027-02-13"
+        "fin": "2027-02-14"
       },
       "statut_evenement": null
     },
@@ -49008,7 +49008,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27610",
+      "url": "https://www.ffta.fr/index.php/epreuve/27610",
       "id": "27610",
       "nom": "CHAMPIONNAT REGIONAL SALLE à SAINT-ETIENNE",
       "date": "Du 13 au 14 février 2027",
@@ -49178,7 +49178,7 @@
     {
       "url": "https://www.ffta.fr/epreuve/26716",
       "id": "26716",
-      "nom": "CHAMPIONNAT REGIONAL ADULTES  SALLE à INCONNU",
+      "nom": "CHAMPIONNAT REGIONAL ADULTES  SALLE à ROQUEBRUNE SUR ARGENT",
       "date": "Le 14 février 2027",
       "localisation": {
         "lieu": "INCONNU",
@@ -49197,9 +49197,9 @@
       "championnat": "Individuel Tir à 18m 2027",
       "organisateur": "COMITE REGIONAL PROVENCE ALPES COTE D'AZUR",
       "dates": {
-        "texte": "Le 14 février 2027",
-        "debut": "2027-02-14",
-        "fin": "2027-02-14"
+        "texte": "Du 20 au 21 février 2027",
+        "debut": "2027-02-20",
+        "fin": "2027-02-21"
       },
       "statut_evenement": null
     },
@@ -49288,7 +49288,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25503",
+      "url": "https://www.ffta.fr/index.php/epreuve/25503",
       "id": "25503",
       "nom": "CONCOURS DÉBUTANTS à PLOUEDERN",
       "date": "Le 19 février 2027",
@@ -49456,7 +49456,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26874",
+      "url": "https://www.ffta.fr/index.php/epreuve/26874",
       "id": "26874",
       "nom": "CHAMPIONNAT DE BRETAGNE ADULTES DE TIR À 18 M à ACIGNÉ",
       "date": "Du 20 au 21 février 2027",
@@ -49708,7 +49708,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25967",
+      "url": "https://www.ffta.fr/index.php/epreuve/25967",
       "id": "25967",
       "nom": "PASSAGE DE PLUMES ET FLECHES à AMBERIEU EN BUGEY",
       "date": "Le 24 février 2027",
@@ -49764,7 +49764,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25672",
+      "url": "https://www.ffta.fr/index.php/epreuve/25672",
       "id": "25672",
       "nom": "CHALLENGE INTERNE à SAINT ANDRÉ",
       "date": "Le 26 février 2027",
@@ -49792,7 +49792,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25936",
+      "url": "https://www.ffta.fr/index.php/epreuve/25936",
       "id": "25936",
       "nom": "PRIX GÉNÉRAL  à MARLY LA VILLE",
       "date": "Du 26 au 28 février 2027",
@@ -49820,7 +49820,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25858",
+      "url": "https://www.ffta.fr/index.php/epreuve/25858",
       "id": "25858",
       "nom": "TROPHE DES MIXTES à DAMPMART",
       "date": "Du 27 au 28 février 2027",
@@ -49848,7 +49848,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25859",
+      "url": "https://www.ffta.fr/index.php/epreuve/25859",
       "id": "25859",
       "nom": "CONCOURS JEUNES à DAMPMART",
       "date": "Du 27 au 28 février 2027",
@@ -49876,7 +49876,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25913",
+      "url": "https://www.ffta.fr/index.php/epreuve/25913",
       "id": "25913",
       "nom": "CHALLENGE JEUNES à CHARAVINES",
       "date": "Le 27 février 2027",
@@ -49904,7 +49904,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26977",
+      "url": "https://www.ffta.fr/index.php/epreuve/26977",
       "id": "26977",
       "nom": "CONCOURS SALLE ASNANS à CHAUSSIN",
       "date": "Du 27 au 28 février 2027",
@@ -49932,7 +49932,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27632",
+      "url": "https://www.ffta.fr/index.php/epreuve/27632",
       "id": "27632",
       "nom": "DEBUTANTS 15M - FORGES-LES-BAINS à FORGES LES BAINS",
       "date": "Le 27 février 2027",
@@ -49960,7 +49960,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25691",
+      "url": "https://www.ffta.fr/index.php/epreuve/25691",
       "id": "25691",
       "nom": "TIR EXTERIEUR 01 à REMIRE MONTJOLY",
       "date": "Le 28 février 2027",
@@ -49988,7 +49988,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25974",
+      "url": "https://www.ffta.fr/index.php/epreuve/25974",
       "id": "25974",
       "nom": "CONCOURS NATURE DU 28/02/2027 à DAMAZAN",
       "date": "Le 28 février 2027",
@@ -50072,7 +50072,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27263",
+      "url": "https://www.ffta.fr/index.php/epreuve/27263",
       "id": "27263",
       "nom": "TOURNOI POUSSINS à ESTREES SAINT DENIS",
       "date": "Le 03 mars 2027",
@@ -50128,7 +50128,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25504",
+      "url": "https://www.ffta.fr/index.php/epreuve/25504",
       "id": "25504",
       "nom": "PARTENARIAT JEUX à MARMANDE",
       "date": "Le 06 mars 2027",
@@ -50156,7 +50156,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25700",
+      "url": "https://www.ffta.fr/index.php/epreuve/25700",
       "id": "25700",
       "nom": "CONCOURS DÉBUTANT ARCHERS DU GAVOT à SAINT PAUL EN CHABLAIS",
       "date": "Le 06 mars 2027",
@@ -50261,9 +50261,9 @@
       "championnat": "Individuel Loisirs débutants 2027",
       "organisateur": "ARCHERS COMTAT VENAISSIN",
       "dates": {
-        "texte": "Le 06 mars 2027",
-        "debut": "2027-03-06",
-        "fin": "2027-03-06"
+        "texte": "Le 13 février 2027",
+        "debut": "2027-02-13",
+        "fin": "2027-02-13"
       },
       "statut_evenement": null
     },
@@ -52088,7 +52088,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26877",
+      "url": "https://www.ffta.fr/index.php/epreuve/26877",
       "id": "26877",
       "nom": "TOURNOI M11/M13 à SAINT POL DE LEON",
       "date": "Le 13 mars 2027",
@@ -52368,7 +52368,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25494",
+      "url": "https://www.ffta.fr/index.php/epreuve/25494",
       "id": "25494",
       "nom": "CONCOURS DEBUTANTS  à SAINT POL DE LEON",
       "date": "Le 14 mars 2027",
@@ -53793,7 +53793,7 @@
         "debut": "2027-03-20",
         "fin": "2027-03-21"
       },
-      "statut_evenement": null
+      "statut_evenement": "reportée"
     },
     {
       "url": "https://www.ffta.fr/epreuve/26447",
@@ -53880,7 +53880,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26879",
+      "url": "https://www.ffta.fr/index.php/epreuve/26879",
       "id": "26879",
       "nom": "CHAMPIONAT DU FINISTERE DE TIR NATURE à GUILERS",
       "date": "Du 20 au 21 mars 2027",
@@ -57346,7 +57346,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26788",
+      "url": "https://www.ffta.fr/epreuve/26788",
       "id": "26788",
       "nom": "CONCOURS 18 M RETIERS à RETIERS",
       "dates": {
@@ -57373,7 +57373,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25471",
+      "url": "https://www.ffta.fr/epreuve/25471",
       "id": "25471",
       "nom": "TÉLÉTHON à BALAN",
       "dates": {
@@ -57400,7 +57400,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25497",
+      "url": "https://www.ffta.fr/epreuve/25497",
       "id": "25497",
       "nom": "PARTENARIAT JEUX à MARMANDE",
       "dates": {
@@ -57427,7 +57427,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25533",
+      "url": "https://www.ffta.fr/epreuve/25533",
       "id": "25533",
       "nom": "TIR A 18 METRES PARA TIR A L'ARC à LAILLÉ",
       "dates": {
@@ -57454,7 +57454,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25556",
+      "url": "https://www.ffta.fr/epreuve/25556",
       "id": "25556",
       "nom": "TIR À 18 M à TULLE",
       "dates": {
@@ -57481,7 +57481,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25708",
+      "url": "https://www.ffta.fr/epreuve/25708",
       "id": "25708",
       "nom": "TOURNOI POUSSINS D'ESBLY 2026 à ESBLY",
       "dates": {
@@ -57535,7 +57535,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25719",
+      "url": "https://www.ffta.fr/epreuve/25719",
       "id": "25719",
       "nom": "CONCOURS INETRNE PROGRESSION à VILLENEUVE SUR LOT",
       "dates": {
@@ -57589,7 +57589,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25799",
+      "url": "https://www.ffta.fr/epreuve/25799",
       "id": "25799",
       "nom": "TIR À 18M à PONS",
       "dates": {
@@ -57616,7 +57616,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25801",
+      "url": "https://www.ffta.fr/epreuve/25801",
       "id": "25801",
       "nom": "COMBINE 2X25M + 2X18M à HAGETMAU",
       "dates": {
@@ -57643,7 +57643,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25802",
+      "url": "https://www.ffta.fr/epreuve/25802",
       "id": "25802",
       "nom": "CONCOURS 2X18M à HAGETMAU",
       "dates": {
@@ -57670,7 +57670,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25822",
+      "url": "https://www.ffta.fr/epreuve/25822",
       "id": "25822",
       "nom": "RENCONTRE JEUNE à ROYAN",
       "dates": {
@@ -57697,7 +57697,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25842",
+      "url": "https://www.ffta.fr/epreuve/25842",
       "id": "25842",
       "nom": "CONCOURS TROPHÉE DES MIXTES à BOURG-EN-BRESSE",
       "dates": {
@@ -57724,7 +57724,7 @@
       "statut_evenement": "annulée"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25843",
+      "url": "https://www.ffta.fr/epreuve/25843",
       "id": "25843",
       "nom": "CONCOURS TROPHÉE DES MIXTES à BOURG-EN-BRESSE",
       "dates": {
@@ -57751,7 +57751,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25846",
+      "url": "https://www.ffta.fr/epreuve/25846",
       "id": "25846",
       "nom": "CONCOURS SALLE  à BOÉ",
       "dates": {
@@ -57769,7 +57769,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111eba028fb42a.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Tir à 18m",
@@ -57778,7 +57778,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25851",
+      "url": "https://www.ffta.fr/epreuve/25851",
       "id": "25851",
       "nom": "CONCOURS DÉBUTANTS - 15M à MANTES LA JOLIE",
       "dates": {
@@ -57802,10 +57802,10 @@
       "discipline": "Loisirs Débutant",
       "championnat": "Individuel Loisirs débutants 2027",
       "organisateur": "A.S. MANTAISE",
-      "statut_evenement": null
+      "statut_evenement": "annulée"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25855",
+      "url": "https://www.ffta.fr/epreuve/25855",
       "id": "25855",
       "nom": "SPÉCIAL JEUNES ET DÉBUTANTS ADULTES à BOURGES",
       "dates": {
@@ -57859,7 +57859,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/25900",
+      "url": "https://www.ffta.fr/epreuve/25900",
       "id": "25900",
       "nom": "CONCOURS DEBUTANTS à NOGENT LE ROI",
       "dates": {
@@ -57967,7 +57967,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/26013",
+      "url": "https://www.ffta.fr/epreuve/26013",
       "id": "26013",
       "nom": "CONCOURS JEUNES à MESLAY DU MAINE",
       "dates": {
@@ -58012,7 +58012,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111e9681c35d01.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Loisirs Confirmé",
@@ -58507,7 +58507,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25565",
+      "url": "https://www.ffta.fr/index.php/epreuve/25565",
       "id": "25565",
       "nom": "TIR EN SALLE 2X18M à MARMANDE",
       "dates": {
@@ -58534,7 +58534,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25599",
+      "url": "https://www.ffta.fr/index.php/epreuve/25599",
       "id": "25599",
       "nom": "OPEN INDOOR ARC TRADITIONNEL - RESERVE QU'AUX ARCS TRADITIONNELS à BARBY",
       "dates": {
@@ -58561,7 +58561,7 @@
       "statut_evenement": "annulée"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25702",
+      "url": "https://www.ffta.fr/index.php/epreuve/25702",
       "id": "25702",
       "nom": "CONCOURS LOISIRS à ROANNE",
       "dates": {
@@ -58588,7 +58588,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25724",
+      "url": "https://www.ffta.fr/index.php/epreuve/25724",
       "id": "25724",
       "nom": "TIR SALLE 2X18M à LAA-MONDRANS",
       "dates": {
@@ -58615,7 +58615,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25772",
+      "url": "https://www.ffta.fr/index.php/epreuve/25772",
       "id": "25772",
       "nom": "CHAMPIONNAT DES LANDES - TIR À 18M à BISCARROSSE",
       "dates": {
@@ -58642,7 +58642,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25788",
+      "url": "https://www.ffta.fr/index.php/epreuve/25788",
       "id": "25788",
       "nom": "3D INDOOR à SAINT GERVAIS",
       "dates": {
@@ -58669,7 +58669,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25804",
+      "url": "https://www.ffta.fr/index.php/epreuve/25804",
       "id": "25804",
       "nom": "TIR À 18M à AYTRÉ",
       "dates": {
@@ -58696,7 +58696,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25806",
+      "url": "https://www.ffta.fr/index.php/epreuve/25806",
       "id": "25806",
       "nom": "CONCOURS SALLE à SAINT BENOIT",
       "dates": {
@@ -58723,7 +58723,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25807",
+      "url": "https://www.ffta.fr/index.php/epreuve/25807",
       "id": "25807",
       "nom": "CONCOURS SALLE à SAINT BENOIT",
       "dates": {
@@ -58750,7 +58750,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25864",
+      "url": "https://www.ffta.fr/index.php/epreuve/25864",
       "id": "25864",
       "nom": "SPECIAL DÉBUTANTS  à VIVIERS",
       "dates": {
@@ -58777,7 +58777,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25894",
+      "url": "https://www.ffta.fr/index.php/epreuve/25894",
       "id": "25894",
       "nom": "SPECIAL JEUNE ARGENT SUR SAULDRE à ARGENT SUR SAULDRE",
       "dates": {
@@ -58804,7 +58804,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25947",
+      "url": "https://www.ffta.fr/index.php/epreuve/25947",
       "id": "25947",
       "nom": "RENCONTRE JEUNES CD31 TOULOUSE TAC à TOULOUSE",
       "dates": {
@@ -58831,7 +58831,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25972",
+      "url": "https://www.ffta.fr/index.php/epreuve/25972",
       "id": "25972",
       "nom": "TIR À 18M  à MAZIERES EN GATINE",
       "dates": {
@@ -58858,7 +58858,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25973",
+      "url": "https://www.ffta.fr/index.php/epreuve/25973",
       "id": "25973",
       "nom": "TIR À 18M  à MAZIERES EN GATINE",
       "dates": {
@@ -58885,7 +58885,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26051",
+      "url": "https://www.ffta.fr/index.php/epreuve/26051",
       "id": "26051",
       "nom": "CONCOURS 2 * 18M à COURVILLE SUR EURE",
       "dates": {
@@ -58912,7 +58912,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26052",
+      "url": "https://www.ffta.fr/index.php/epreuve/26052",
       "id": "26052",
       "nom": "CONCOURS 2 * 18M à COURVILLE SUR EURE",
       "dates": {
@@ -58939,7 +58939,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26053",
+      "url": "https://www.ffta.fr/index.php/epreuve/26053",
       "id": "26053",
       "nom": "TIR A 18M LA FERTE SAINT AUBIN à LA FERTE SAINT AUBIN",
       "dates": {
@@ -59425,7 +59425,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26880",
+      "url": "https://www.ffta.fr/index.php/epreuve/26880",
       "id": "26880",
       "nom": "CHAMP. REGIONAL U11-U13 à RENNES",
       "dates": {
@@ -59614,7 +59614,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25946",
+      "url": "https://www.ffta.fr/index.php/epreuve/25946",
       "id": "25946",
       "nom": "TOURNOI GASCON  à LAC DE MACACHAUD",
       "dates": {
@@ -59641,7 +59641,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25956",
+      "url": "https://www.ffta.fr/index.php/epreuve/25956",
       "id": "25956",
       "nom": "CHAMP. REGIONAL DES ECOLES D'ARC à RENNES",
       "dates": {
@@ -59668,7 +59668,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26329",
+      "url": "https://www.ffta.fr/index.php/epreuve/26329",
       "id": "26329",
       "nom": "CONCOURS NATURE 21 CIBLES - 2 DÉPARTS à PRÉAUX",
       "dates": {
@@ -59695,7 +59695,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26450",
+      "url": "https://www.ffta.fr/index.php/epreuve/26450",
       "id": "26450",
       "nom": "NATURE à OZOIR LA FERRIERE",
       "dates": {
@@ -59722,7 +59722,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26465",
+      "url": "https://www.ffta.fr/index.php/epreuve/26465",
       "id": "26465",
       "nom": "PARCOURS NATURE MAGNY à MAGNY LES HAMEAUX (PORT-ROYAL)",
       "dates": {
@@ -59749,7 +59749,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26620",
+      "url": "https://www.ffta.fr/index.php/epreuve/26620",
       "id": "26620",
       "nom": "CONCOURS NATURE PAQUES DIMANCHE à BOULOIRE",
       "dates": {
@@ -59776,7 +59776,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26621",
+      "url": "https://www.ffta.fr/index.php/epreuve/26621",
       "id": "26621",
       "nom": "LE CHALLENGE DU LÉZARD à EPOUVILLE",
       "dates": {
@@ -59803,7 +59803,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26881",
+      "url": "https://www.ffta.fr/index.php/epreuve/26881",
       "id": "26881",
       "nom": "TIR EN CAMPAGNE à PEILLAC",
       "dates": {
@@ -59830,7 +59830,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27279",
+      "url": "https://www.ffta.fr/index.php/epreuve/27279",
       "id": "27279",
       "nom": "TIR DU ROY à BURY",
       "dates": {
@@ -59857,7 +59857,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25595",
+      "url": "https://www.ffta.fr/index.php/epreuve/25595",
       "id": "25595",
       "nom": "TIR DU ROY à COGNAC",
       "dates": {
@@ -59884,7 +59884,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25905",
+      "url": "https://www.ffta.fr/index.php/epreuve/25905",
       "id": "25905",
       "nom": "TOURNOIS GASCON à AGNAC",
       "dates": {
@@ -59911,7 +59911,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25673",
+      "url": "https://www.ffta.fr/index.php/epreuve/25673",
       "id": "25673",
       "nom": "CHALLENGE INTERNE à SAINT ANDRÉ",
       "dates": {
@@ -59938,7 +59938,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/25538",
+      "url": "https://www.ffta.fr/index.php/epreuve/25538",
       "id": "25538",
       "nom": "CHALLENGE DEBUTANTS 2027 à LYON",
       "dates": {
@@ -60424,7 +60424,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27637",
+      "url": "https://www.ffta.fr/index.php/epreuve/27637",
       "id": "27637",
       "nom": "TIR 18 M LANNION à LANNION",
       "dates": {
@@ -60532,7 +60532,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27566",
+      "url": "https://www.ffta.fr/index.php/epreuve/27566",
       "id": "27566",
       "nom": "CONCOURS QUALIFICATIF à ROANNE",
       "dates": {
@@ -60829,7 +60829,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/26844",
+      "url": "https://www.ffta.fr/index.php/epreuve/26844",
       "id": "26844",
       "nom": "CHAMPIONNAT REGIONAL TIR À 18M PARA à TINTENIAC",
       "dates": {
@@ -61909,7 +61909,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27670",
+      "url": "https://www.ffta.fr/index.php/epreuve/27670",
       "id": "27670",
       "nom": "CAUSSADE à CAUSSADE",
       "dates": {
@@ -61936,7 +61936,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27671",
+      "url": "https://www.ffta.fr/index.php/epreuve/27671",
       "id": "27671",
       "nom": "TIR EN SALLE à MONTLOUIS SUR LOIRE",
       "dates": {
@@ -61963,7 +61963,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27672",
+      "url": "https://www.ffta.fr/index.php/epreuve/27672",
       "id": "27672",
       "nom": "TIR EN SALLE à MONTLOUIS SUR LOIRE",
       "dates": {
@@ -61990,7 +61990,7 @@
       "statut_evenement": null
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27673",
+      "url": "https://www.ffta.fr/index.php/epreuve/27673",
       "id": "27673",
       "nom": "TIR EN SALLE à MONTLOUIS SUR LOIRE",
       "dates": {
@@ -63016,7 +63016,7 @@
       "organisateur": "LES FRANCS ARCHERS DE NICE COTE D'AZUR"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27698",
+      "url": "https://www.ffta.fr/epreuve/27698",
       "id": "27698",
       "nom": "IWS - RIO INDOOR 250 à RIO DE JANEIRO - BRESIL",
       "dates": {
@@ -64204,7 +64204,7 @@
       "organisateur": "LES ARCHERS MONTOIRIENS"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27736",
+      "url": "https://www.ffta.fr/index.php/epreuve/27736",
       "id": "27736",
       "nom": "CHAMPIONNAT DU FINISTERE EQUIPES à ST RENAN",
       "dates": {
@@ -64339,7 +64339,7 @@
       "organisateur": "YO ARCHERS CLUB"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27748",
+      "url": "https://www.ffta.fr/index.php/epreuve/27748",
       "id": "27748",
       "nom": "TIR A L'ARC EN EXTERIEUR à GOSIER",
       "dates": {
@@ -64447,7 +64447,7 @@
       "organisateur": "LES FLECHES DE SAINT BARTHELEMY"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27735",
+      "url": "https://www.ffta.fr/index.php/epreuve/27735",
       "id": "27735",
       "nom": "TIR NATURE - CHATEAUNEUF DU FAOU à PLONEVEZ DU FAOU",
       "dates": {
@@ -65068,7 +65068,7 @@
       "organisateur": "CIE D'ARC DE LISSES"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27781",
+      "url": "https://www.ffta.fr/index.php/epreuve/27781",
       "id": "27781",
       "nom": "CHAMPIONNAT RÉGIONAL 18 MÈTRES à SAINT ANDRÉ",
       "dates": {
@@ -65851,7 +65851,7 @@
       "organisateur": "ARCHERS DE SAINT DENIS"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27809",
+      "url": "https://www.ffta.fr/epreuve/27809",
       "id": "27809",
       "nom": "CONCOURS JEUNES à MESLAY DU MAINE",
       "dates": {
@@ -65878,7 +65878,7 @@
       "organisateur": "CIE ST GEORGES DE MESLAY DU MAINE"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27785",
+      "url": "https://www.ffta.fr/index.php/epreuve/27785",
       "id": "27785",
       "nom": "TAE N°2 à LE LAMENTIN",
       "dates": {
@@ -66229,7 +66229,7 @@
       "organisateur": "ARC CLUB ST CHRISTOL LEZ ALES"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27818",
+      "url": "https://www.ffta.fr/index.php/epreuve/27818",
       "id": "27818",
       "nom": "MARMOT CHALLENGE (AMICAL) à FOURMIES",
       "dates": {
@@ -66769,7 +66769,7 @@
       "organisateur": "LES ARCHERS PORTOIS"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27864",
+      "url": "https://www.ffta.fr/epreuve/27864",
       "id": "27864",
       "nom": "TELETHON 2026 A ODENAS à ODENAS",
       "dates": {
@@ -67606,7 +67606,7 @@
       "organisateur": "MASSILIA ARC CLUB"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27885",
+      "url": "https://www.ffta.fr/index.php/epreuve/27885",
       "id": "27885",
       "nom": "RENCONTRE SPECIAL JEUNES à VINEUIL",
       "dates": {
@@ -67633,7 +67633,7 @@
       "organisateur": "VINEUIL SPORTS TIR A L'ARC"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27886",
+      "url": "https://www.ffta.fr/index.php/epreuve/27886",
       "id": "27886",
       "nom": "2X18M  DECEMBRE 26 à ROMORANTIN LANTHENAY",
       "dates": {
@@ -67660,7 +67660,7 @@
       "organisateur": "SAINT MARTIN SPORTS"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27887",
+      "url": "https://www.ffta.fr/index.php/epreuve/27887",
       "id": "27887",
       "nom": "2X18M  DECEMBRE 26 à ROMORANTIN LANTHENAY",
       "dates": {
@@ -68254,7 +68254,7 @@
       "organisateur": "CHATEAUROUX 1ERE CIE"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27900",
+      "url": "https://www.ffta.fr/index.php/epreuve/27900",
       "id": "27900",
       "nom": "SAUCISSONADE DE NOEL  à LA FLECHE",
       "dates": {
@@ -68281,7 +68281,7 @@
       "organisateur": "COMPAGNIE D'ARC DE LA FLECHE"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27901",
+      "url": "https://www.ffta.fr/index.php/epreuve/27901",
       "id": "27901",
       "nom": "CONCOURS ENTRE NOUS à LA FLECHE",
       "dates": {
@@ -68308,7 +68308,7 @@
       "organisateur": "COMPAGNIE D'ARC DE LA FLECHE"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27902",
+      "url": "https://www.ffta.fr/index.php/epreuve/27902",
       "id": "27902",
       "nom": "TIR DE LA GALETTE à THOUARÉ-SUR-LOIRE",
       "dates": {
@@ -68335,7 +68335,7 @@
       "organisateur": "ARCHERS THOUAREENS"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27903",
+      "url": "https://www.ffta.fr/index.php/epreuve/27903",
       "id": "27903",
       "nom": "TIR D HALLOWEEN à THOUARE-SUR-LOIRE",
       "dates": {
@@ -68362,7 +68362,7 @@
       "organisateur": "ARCHERS THOUAREENS"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27906",
+      "url": "https://www.ffta.fr/index.php/epreuve/27906",
       "id": "27906",
       "nom": "TIR DU ROY à LA GARNACHE",
       "dates": {
@@ -68389,7 +68389,7 @@
       "organisateur": "LES GARNA'ARCHERS"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27916",
+      "url": "https://www.ffta.fr/index.php/epreuve/27916",
       "id": "27916",
       "nom": "FINALE  DEPARTEMENTALE DEBUTANTS 2027 à ST GÉRÉON",
       "dates": {
@@ -68416,7 +68416,7 @@
       "organisateur": "ARCHERS DU GOTHA"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27908",
+      "url": "https://www.ffta.fr/index.php/epreuve/27908",
       "id": "27908",
       "nom": "EVENEMENT INTERNE PASSAGE DE FLÈCHES JEUNES à BALAN",
       "dates": {
@@ -69037,7 +69037,7 @@
       "organisateur": "COMPAGNIE D'ARC DE VILLIERS SUR MARNE"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27926",
+      "url": "https://www.ffta.fr/epreuve/27926",
       "id": "27926",
       "nom": "CONCOURS 2 X 18 M à BRUNSTATT",
       "dates": {
@@ -69064,7 +69064,7 @@
       "organisateur": "ARCHERS ST GEORGES BRUNSTATT"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27941",
+      "url": "https://www.ffta.fr/index.php/epreuve/27941",
       "id": "27941",
       "nom": "RENCONTRE TREMPLIN U11-U13 à NIMES",
       "dates": {
@@ -69145,7 +69145,7 @@
       "organisateur": "ASSOCIATION DES ARCHERS DE CAURO (AAC TIR À L'ARC)"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27938",
+      "url": "https://www.ffta.fr/epreuve/27938",
       "id": "27938",
       "nom": "RENCONTRE TREMPLIN à RUELLE SUR TOUVRE",
       "dates": {
@@ -69334,7 +69334,7 @@
       "organisateur": "CLUB DE CALVI BALAGNE"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27936",
+      "url": "https://www.ffta.fr/index.php/epreuve/27936",
       "id": "27936",
       "nom": "TIR SALLE À AJACCIO à AJACCIO",
       "dates": {
@@ -69793,7 +69793,7 @@
       "organisateur": "DUMBEA ARCHERIE CLUB"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27956",
+      "url": "https://www.ffta.fr/index.php/epreuve/27956",
       "id": "27956",
       "nom": "CONCOURS DEBUTANTS TIR A 18 M  à LANNION",
       "dates": {
@@ -69820,7 +69820,7 @@
       "organisateur": "LES ARCHERS DU TREGOR"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27971",
+      "url": "https://www.ffta.fr/epreuve/27971",
       "id": "27971",
       "nom": "CONCOURS LOISIR ARCS CLASSIQUES à NEUVILLE SUR SAONE",
       "dates": {
@@ -70414,7 +70414,7 @@
       "organisateur": "COMPAGNIE DES ARCHERS DU CHATEAU"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/27983",
+      "url": "https://www.ffta.fr/epreuve/27983",
       "id": "27983",
       "nom": "SALLE à DUMBEA",
       "dates": {
@@ -70495,7 +70495,7 @@
       "organisateur": "COMPAGNIE DES ARCHERS DU CHATEAU"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27984",
+      "url": "https://www.ffta.fr/index.php/epreuve/27984",
       "id": "27984",
       "nom": "CONCOURS DU ROC NOIR à CHALLES LES EAUX",
       "dates": {
@@ -70549,7 +70549,7 @@
       "organisateur": "DUMBEA ARCHERIE CLUB"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/28009",
+      "url": "https://www.ffta.fr/epreuve/28009",
       "id": "28009",
       "nom": "CONCOURS SALLE DECEMBRE 2026 à LESCAR",
       "dates": {
@@ -70684,7 +70684,7 @@
       "organisateur": "COMPAGNIE DES ARCHERS DU CHATEAU"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28012",
+      "url": "https://www.ffta.fr/index.php/epreuve/28012",
       "id": "28012",
       "nom": "PRIX GÉNÉRAL MÉRY/MÉRIEL 3/5 à MERY SUR OISE",
       "dates": {
@@ -70711,7 +70711,7 @@
       "organisateur": "COMPAGNIE DES ARCHERS DU CHATEAU"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28016",
+      "url": "https://www.ffta.fr/index.php/epreuve/28016",
       "id": "28016",
       "nom": "PRIX GÉNÉRAL MÉRY/MÉRIEL 3/5 à MERY SUR OISE",
       "dates": {
@@ -70738,7 +70738,7 @@
       "organisateur": "COMPAGNIE DES ARCHERS DU CHATEAU"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28013",
+      "url": "https://www.ffta.fr/index.php/epreuve/28013",
       "id": "28013",
       "nom": "PRIX GÉNÉRAL MÉRY/MÉRIEL 4/5 à MÉRY SUR OISE",
       "dates": {
@@ -70765,7 +70765,7 @@
       "organisateur": "COMPAGNIE DES ARCHERS DU CHATEAU"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/27987",
+      "url": "https://www.ffta.fr/index.php/epreuve/27987",
       "id": "27987",
       "nom": "RONDE DES JEUNES À LISSIEU à LISSIEU",
       "dates": {
@@ -71386,7 +71386,7 @@
       "organisateur": "TIR A L ARC CONTROIS"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/28022",
+      "url": "https://www.ffta.fr/epreuve/28022",
       "id": "28022",
       "nom": "CHAMPIONNAT DU VAR DE SPORT ADAPTE à TOULON",
       "dates": {
@@ -71413,7 +71413,7 @@
       "organisateur": "ARC CLUB TOULONNAIS"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/28055",
+      "url": "https://www.ffta.fr/epreuve/28055",
       "id": "28055",
       "nom": "PASSAGE DE PLUMES ET FLECHES à CROTTET",
       "dates": {
@@ -71467,7 +71467,7 @@
       "organisateur": "COMPAGNIE D'ARC D'ANNONAY"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28023",
+      "url": "https://www.ffta.fr/index.php/epreuve/28023",
       "id": "28023",
       "nom": "CHAMPIONNAT DE LIGUE DE SPORT ADAPTE à TOULON",
       "dates": {
@@ -71494,7 +71494,7 @@
       "organisateur": "ARC CLUB TOULONNAIS"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28039",
+      "url": "https://www.ffta.fr/index.php/epreuve/28039",
       "id": "28039",
       "nom": "CONCOURS EN SALLE DE CARPIQUET à ROTS",
       "dates": {
@@ -71521,7 +71521,7 @@
       "organisateur": "LES ARCHERS DE L'ELAN SPORTIF DE CARPIQUET"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28056",
+      "url": "https://www.ffta.fr/index.php/epreuve/28056",
       "id": "28056",
       "nom": "SPECIAL DÉBUTANTS à LOCHES",
       "dates": {
@@ -71540,7 +71540,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111e3002c7f97d.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Loisirs Débutant et confirmé",
@@ -71602,7 +71602,7 @@
       "organisateur": "LES ARCHERS D'ARMOR, COMPAGNIE DE PAIMPOL"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/28048",
+      "url": "https://www.ffta.fr/epreuve/28048",
       "id": "28048",
       "nom": "COUPE 45 à LE MALESHERBOIS",
       "dates": {
@@ -71791,7 +71791,7 @@
       "organisateur": "POITIERS LA TOUR A L'OISEAU"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28035",
+      "url": "https://www.ffta.fr/index.php/epreuve/28035",
       "id": "28035",
       "nom": "CONCOURS AMICAL DEBUTANTS  à GYMNASE CAILLEBOTTE GENNEVILLIERS",
       "dates": {
@@ -72034,7 +72034,7 @@
       "organisateur": "LES ARCHERS DU BOIS CHATELARD"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28031",
+      "url": "https://www.ffta.fr/index.php/epreuve/28031",
       "id": "28031",
       "nom": "CHALLENGE DES LACS ASQY à VOISINS LE BRETONNEUX",
       "dates": {
@@ -72566,7 +72566,7 @@
         "gps_source": "ffta"
       },
       "documents": {
-        "mandat": null
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111ecc0599a5f9.pdf"
       },
       "site": "https://twitter.com/FFTiralArc",
       "discipline": "Loisirs Débutant",
@@ -72601,7 +72601,7 @@
       "organisateur": "COMPAGNIE D'ARC D'ANTIBES JUAN LES PINS"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28075",
+      "url": "https://www.ffta.fr/index.php/epreuve/28075",
       "id": "28075",
       "nom": "TOURNOI POUSSIN U11 à ANTIBES",
       "dates": {
@@ -72952,7 +72952,7 @@
       "organisateur": "LES ARCHERS CATALANS - PERPIGNAN"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28081",
+      "url": "https://www.ffta.fr/index.php/epreuve/28081",
       "id": "28081",
       "nom": "TDM à VIROFLAY",
       "dates": {
@@ -73141,7 +73141,7 @@
       "organisateur": "ARC EN CIEL"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28111",
+      "url": "https://www.ffta.fr/index.php/epreuve/28111",
       "id": "28111",
       "nom": "TIR EN CAMPAGNE VOVES à ROUVRAY SAINT FLORENTIN",
       "dates": {
@@ -73168,7 +73168,7 @@
       "organisateur": "ARC EN CIEL"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28097",
+      "url": "https://www.ffta.fr/index.php/epreuve/28097",
       "id": "28097",
       "nom": "RENCONTRE TREMPLIN U11-U13 à SARAN",
       "dates": {
@@ -73195,7 +73195,7 @@
       "organisateur": "FLEURY-SARAN TIR  À L'ARC"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28098",
+      "url": "https://www.ffta.fr/index.php/epreuve/28098",
       "id": "28098",
       "nom": "CONCOURS CAMPAGNE DE LA TOUR D'AIGUES à LA TOUR D'AIGUES",
       "dates": {
@@ -73222,7 +73222,7 @@
       "organisateur": "ASL - ARCHERS DE LA TOUR"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28112",
+      "url": "https://www.ffta.fr/index.php/epreuve/28112",
       "id": "28112",
       "nom": "TIR 3D - BELLEGARDE - MATIN à BELLEGARDE",
       "dates": {
@@ -73249,7 +73249,7 @@
       "organisateur": "MJC BELLEGARDE - ARCHERS DE LA ROSE"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28113",
+      "url": "https://www.ffta.fr/index.php/epreuve/28113",
       "id": "28113",
       "nom": "TIR 3D - BELLEGARDE - APRES-MIDI à BELLEGARDE",
       "dates": {
@@ -73276,7 +73276,7 @@
       "organisateur": "MJC BELLEGARDE - ARCHERS DE LA ROSE"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28191",
+      "url": "https://www.ffta.fr/index.php/epreuve/28191",
       "id": "28191",
       "nom": "CHALLENGE DES LACS ASQY à VOISINS LE BRETONNEUX",
       "dates": {
@@ -73303,7 +73303,7 @@
       "organisateur": "LES ARCHERS DE VOISINS"
     },
     {
-      "url": "https://www.ffta.fr/epreuve/28199",
+      "url": "https://www.ffta.fr/index.php/epreuve/28199",
       "id": "28199",
       "nom": "COMPÉTITION TIR CAMPAGNE à FRESNES",
       "dates": {
@@ -73924,7 +73924,7 @@
       "organisateur": "CIE D'ARC D'ESBLY"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/28108",
+      "url": "https://www.ffta.fr/epreuve/28108",
       "id": "28108",
       "nom": "CONCOURS LOISIRS DEBUTANTS ET CONFIRMES à MESLAY DU MAINE",
       "dates": {
@@ -74288,10 +74288,10 @@
         "lieu": "ARGENTON SUR CREUSE",
         "comite_regional": "COMITE REGIONAL DU CENTRE VAL DE LOIRE",
         "comite_departemental": "COMITE DEPARTEMENTAL INDRE",
-        "latitude": null,
-        "longitude": null,
-        "gps_statut": "echec",
-        "gps_source": null
+        "latitude": "46.5885956",
+        "longitude": "1.5190466",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
       },
       "documents": {
         "mandat": null
@@ -74707,7 +74707,7 @@
       "organisateur": "VINEUIL SPORTS TIR A L'ARC"
     },
     {
-      "url": "https://www.ffta.fr/index.php/epreuve/28082",
+      "url": "https://www.ffta.fr/epreuve/28082",
       "id": "28082",
       "nom": "CONCOURS DEBUTANTS à CHATEAU GONTIER",
       "dates": {
@@ -76676,6 +76676,627 @@
       "discipline": "Tir en Campagne",
       "championnat": "Individuel Tir en Campagne 2028",
       "organisateur": "CIE LE BLANC ARCHER"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28242",
+      "id": "28242",
+      "nom": "CHAMPIONNAT ACADÉMIE FFSU à TOULOUSE",
+      "dates": {
+        "texte": "Le 03 décembre 2026",
+        "debut": "2026-12-03",
+        "fin": "2026-12-03"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "TOULOUSE",
+        "comite_regional": "COMITE REGIONAL OCCITANIE",
+        "comite_departemental": "COMITE DEPARTEMENTAL HAUTE GARONNE",
+        "latitude": "43.5781",
+        "longitude": "1.40294",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "COMITE DEPARTEMENTAL HAUTE GARONNE"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28234",
+      "id": "28234",
+      "nom": "COMPETITION FFTA / FFSU à CREPS DE TALENCE",
+      "dates": {
+        "texte": "Le 10 décembre 2026",
+        "debut": "2026-12-10",
+        "fin": "2026-12-10"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "CREPS DE TALENCE",
+        "comite_regional": null,
+        "comite_departemental": null,
+        "latitude": "44.80403",
+        "longitude": "-0.59435",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": "https://extranet.ffta.fr/medias/documents_epreuves/111eb8d2b23bf5.pdf"
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "Fédération Française de Tir à l'Arc"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28235",
+      "id": "28235",
+      "nom": "FAIS TIRER TES PARENTS à VESOUL",
+      "dates": {
+        "texte": "Le 13 décembre 2026",
+        "debut": "2026-12-13",
+        "fin": "2026-12-13"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "VESOUL",
+        "comite_regional": "COMITE REGIONAL DE BOURGOGNE FRANCHE COMTE",
+        "comite_departemental": "COMITE DEPARTEMENTAL HAUTE SAONE",
+        "latitude": "47.62107",
+        "longitude": "6.15083",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Débutant",
+      "championnat": "Individuel Loisirs débutants 2027",
+      "organisateur": "1ERE COMPAGNIE D'ARC DE VESOUL"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28243",
+      "id": "28243",
+      "nom": "TAEI à NIMES",
+      "dates": {
+        "texte": "Le 19 décembre 2026",
+        "debut": "2026-12-19",
+        "fin": "2026-12-19"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "NIMES",
+        "comite_regional": "COMITE REGIONAL OCCITANIE",
+        "comite_departemental": "COMITE DEPARTEMENTAL GARD",
+        "latitude": "43.8374249",
+        "longitude": "4.3600687",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à l'Arc Extérieur",
+      "championnat": "Individuel Tir TAE 2027",
+      "organisateur": "ARC CLUB DE NIMES"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28241",
+      "id": "28241",
+      "nom": "COMPETITION - SPECIALE DEBUTANT à ESPALY-SAINT-MARCEL (43)",
+      "dates": {
+        "texte": "Le 09 janvier 2027",
+        "debut": "2027-01-09",
+        "fin": "2027-01-09"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "ESPALY-SAINT-MARCEL (43)",
+        "comite_regional": "COMITE REGIONAL AUVERGNE-RHONE ALPES",
+        "comite_departemental": "COMITE DEPARTEMENTAL DE LA HAUTE LOIRE",
+        "latitude": "45.04947",
+        "longitude": "3.84893",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Débutant",
+      "championnat": "Individuel Loisirs débutants 2027",
+      "organisateur": "1ERE CIE D'ARCHERS DU VELAY"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28247",
+      "id": "28247",
+      "nom": "TROPHÉE DES MIXTES 79 à COMPLEXE SPORTIF ROBERT BOBIN",
+      "dates": {
+        "texte": "Le 17 janvier 2027",
+        "debut": "2027-01-17",
+        "fin": "2027-01-17"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "COMPLEXE SPORTIF ROBERT BOBIN",
+        "comite_regional": "COMITE REGIONAL DE NOUVELLE AQUITAINE",
+        "comite_departemental": "COMITE DEPARTEMENTAL DES DEUX SEVRES",
+        "latitude": "46.77805",
+        "longitude": "-0.56808",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Débutant et confirmé",
+      "championnat": "Uniquement Equipe Loisirs débutants et confirmés",
+      "organisateur": "COMITE DEPARTEMENTAL DES DEUX SEVRES"
+    },
+    {
+      "url": "https://www.ffta.fr/index.php/epreuve/28236",
+      "id": "28236",
+      "nom": "TIR DE LA SAINT SEBASTIEN à VESOUL",
+      "dates": {
+        "texte": "Le 24 janvier 2027",
+        "debut": "2027-01-24",
+        "fin": "2027-01-24"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "VESOUL",
+        "comite_regional": "COMITE REGIONAL DE BOURGOGNE FRANCHE COMTE",
+        "comite_departemental": "COMITE DEPARTEMENTAL HAUTE SAONE",
+        "latitude": "47.62106",
+        "longitude": "6.1506",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Débutant et confirmé",
+      "championnat": "Individuel Loisirs débutants et confirmés 2027",
+      "organisateur": "1ERE COMPAGNIE D'ARC DE VESOUL"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28245",
+      "id": "28245",
+      "nom": "CHAMPIONNAT DEPARTEMENTAL 18M3 à BRETENOUX",
+      "dates": {
+        "texte": "Le 31 janvier 2027",
+        "debut": "2027-01-31",
+        "fin": "2027-01-31"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "BRETENOUX",
+        "comite_regional": "COMITE REGIONAL OCCITANIE",
+        "comite_departemental": "COMITE DEPARTEMENTAL LOT",
+        "latitude": "44.92089",
+        "longitude": "1.83883",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Individuel Tir à 18m 2027",
+      "organisateur": "COMITE DEPARTEMENTAL LOT"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28237",
+      "id": "28237",
+      "nom": "CHANLENGE JEUNE SALLE VOREPPE à VOREPPE",
+      "dates": {
+        "texte": "Le 07 février 2027",
+        "debut": "2027-02-07",
+        "fin": "2027-02-07"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "VOREPPE",
+        "comite_regional": "COMITE REGIONAL AUVERGNE-RHONE ALPES",
+        "comite_departemental": "COMITE DEPARTEMENTAL ISERE",
+        "latitude": "45.286",
+        "longitude": "5.64566",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Débutant",
+      "championnat": "Individuel Loisirs débutants 2027",
+      "organisateur": "ARC VOREPPIN"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28252",
+      "id": "28252",
+      "nom": "PASSAGE DE FLÈCHES COMMUN à VILLEJUIF/CHEVILLY LARUE",
+      "dates": {
+        "texte": "Le 10 mars 2027",
+        "debut": "2027-03-10",
+        "fin": "2027-03-10"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "VILLEJUIF/CHEVILLY LARUE",
+        "comite_regional": "COMITE REGIONAL ILE DE FRANCE",
+        "comite_departemental": "COMITE DEPARTEMENTAL VAL DE MARNE",
+        "latitude": "48.79178",
+        "longitude": "2.37032",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Confirmé",
+      "championnat": "Individuel Loisirs confirmé 2027",
+      "organisateur": "US-VILLEJUIF TIR ARC"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28246",
+      "id": "28246",
+      "nom": "MIXTE DE CAHORS à CAHORS",
+      "dates": {
+        "texte": "Le 14 mars 2027",
+        "debut": "2027-03-14",
+        "fin": "2027-03-14"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "CAHORS",
+        "comite_regional": "COMITE REGIONAL OCCITANIE",
+        "comite_departemental": "COMITE DEPARTEMENTAL LOT",
+        "latitude": "44.4495000",
+        "longitude": "1.4364999",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Tir à 18m",
+      "championnat": "Uniquement Equipe Tir à 18m",
+      "organisateur": "1ERE COMPAGNIE D'ARC"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28253",
+      "id": "28253",
+      "nom": "ST PATRICK à VILLEJUIF",
+      "dates": {
+        "texte": "Le 17 mars 2027",
+        "debut": "2027-03-17",
+        "fin": "2027-03-17"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "VILLEJUIF",
+        "comite_regional": "COMITE REGIONAL ILE DE FRANCE",
+        "comite_departemental": "COMITE DEPARTEMENTAL VAL DE MARNE",
+        "latitude": "48.79181",
+        "longitude": "2.37033",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Confirmé",
+      "championnat": "Individuel Loisirs confirmé 2027",
+      "organisateur": "US-VILLEJUIF TIR ARC"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28254",
+      "id": "28254",
+      "nom": "DÉBUTANTS SALLE 2027 à BAGNEUX",
+      "dates": {
+        "texte": "Le 20 mars 2027",
+        "debut": "2027-03-20",
+        "fin": "2027-03-20"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "BAGNEUX",
+        "comite_regional": "COMITE REGIONAL ILE DE FRANCE",
+        "comite_departemental": "COMITE DEPARTEMENTAL HAUTS DE SEINE",
+        "latitude": "48.80419",
+        "longitude": "2.31764",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Débutant",
+      "championnat": "Individuel Loisirs débutants 2027",
+      "organisateur": "C.O.M. BAGNEUX"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28238",
+      "id": "28238",
+      "nom": "TOURNOI JEUNES 77 (ZONE 2) - EPREUVE 2 à BUSSY ST-GEORGES",
+      "dates": {
+        "texte": "Le 27 mars 2027",
+        "debut": "2027-03-27",
+        "fin": "2027-03-27"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "BUSSY ST-GEORGES",
+        "comite_regional": "COMITE REGIONAL ILE DE FRANCE",
+        "comite_departemental": "COMITE DEPARTEMENTAL SEINE ET MARNE",
+        "latitude": "48.8389953",
+        "longitude": "2.7171086",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Débutant et confirmé",
+      "championnat": "Individuel Loisirs débutants et confirmés 2027",
+      "organisateur": "LA DOUBLE DETENTE DE BUSSY"
+    },
+    {
+      "url": "https://www.ffta.fr/index.php/epreuve/28250",
+      "id": "28250",
+      "nom": "COMPETITTION DEBUTANT à CAHORS",
+      "dates": {
+        "texte": "Le 04 avril 2027",
+        "debut": "2027-04-04",
+        "fin": "2027-04-04"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "CAHORS",
+        "comite_regional": "COMITE REGIONAL OCCITANIE",
+        "comite_departemental": "COMITE DEPARTEMENTAL LOT",
+        "latitude": "44.45371",
+        "longitude": "1.44369",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Débutant",
+      "championnat": "Individuel Loisirs débutants 2027",
+      "organisateur": "1ERE COMPAGNIE D'ARC"
+    },
+    {
+      "url": "https://www.ffta.fr/index.php/epreuve/28251",
+      "id": "28251",
+      "nom": "COMPETITTION DEBUTANT à CAHORS",
+      "dates": {
+        "texte": "Le 04 avril 2027",
+        "debut": "2027-04-04",
+        "fin": "2027-04-04"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "CAHORS",
+        "comite_regional": "COMITE REGIONAL OCCITANIE",
+        "comite_departemental": "COMITE DEPARTEMENTAL LOT",
+        "latitude": "44.45371",
+        "longitude": "1.44369",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Débutant",
+      "championnat": "Individuel Loisirs débutants 2027",
+      "organisateur": "1ERE COMPAGNIE D'ARC"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28255",
+      "id": "28255",
+      "nom": "TIR À L'OEUF à VILLEJUIF",
+      "dates": {
+        "texte": "Le 23 avril 2027",
+        "debut": "2027-04-23",
+        "fin": "2027-04-23"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "VILLEJUIF",
+        "comite_regional": "COMITE REGIONAL ILE DE FRANCE",
+        "comite_departemental": "COMITE DEPARTEMENTAL VAL DE MARNE",
+        "latitude": "48.78855",
+        "longitude": "2.37453",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Débutant et confirmé",
+      "championnat": "Individuel Loisirs débutants et confirmés 2027",
+      "organisateur": "US-VILLEJUIF TIR ARC"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28248",
+      "id": "28248",
+      "nom": "CHASSE AUX POKEMONS à MILLAU",
+      "dates": {
+        "texte": "Le 06 mai 2027",
+        "debut": "2027-05-06",
+        "fin": "2027-05-06"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "MILLAU",
+        "comite_regional": "COMITE REGIONAL OCCITANIE",
+        "comite_departemental": "COMITE DEPARTEMENTAL AVEYRON",
+        "latitude": "44.1006693",
+        "longitude": "3.0777594",
+        "gps_statut": "valide",
+        "gps_source": "geocodage"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Débutant et confirmé",
+      "championnat": "Individuel Loisirs débutants et confirmés 2027",
+      "organisateur": "MILLAU ARC CLUB"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28256",
+      "id": "28256",
+      "nom": "FLÈCHE D'OR à VILLEJUIF",
+      "dates": {
+        "texte": "Le 04 juin 2027",
+        "debut": "2027-06-04",
+        "fin": "2027-06-04"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "VILLEJUIF",
+        "comite_regional": "COMITE REGIONAL ILE DE FRANCE",
+        "comite_departemental": "COMITE DEPARTEMENTAL VAL DE MARNE",
+        "latitude": "48.78856",
+        "longitude": "2.37454",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Confirmé",
+      "championnat": "Uniquement Equipe Loisirs confirmé",
+      "organisateur": "US-VILLEJUIF TIR ARC"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28259",
+      "id": "28259",
+      "nom": "FINALE DES P'TITS BOUTS  à SEVRAN",
+      "dates": {
+        "texte": "Le 19 juin 2027",
+        "debut": "2027-06-19",
+        "fin": "2027-06-19"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "SEVRAN",
+        "comite_regional": "COMITE REGIONAL ILE DE FRANCE",
+        "comite_departemental": "COMITE DEPARTEMENTAL SEINE ST DENIS",
+        "latitude": "48.94323",
+        "longitude": "2.54136",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Débutant et confirmé",
+      "championnat": "Individuel Loisirs débutants et confirmés 2027",
+      "organisateur": "CIE D'ARC DE SEVRAN"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28240",
+      "id": "28240",
+      "nom": "CONCOURS MULTI-DISCIPLINE à CHANGE",
+      "dates": {
+        "texte": "Le 25 juillet 2027",
+        "debut": "2027-07-25",
+        "fin": "2027-07-25"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "CHANGE",
+        "comite_regional": "COMITE REGIONAL DES PAYS DE LA LOIRE",
+        "comite_departemental": "COMITE DEPARTEMENTAL MAYENNE",
+        "latitude": "48.09554",
+        "longitude": "-0.76887",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Débutant et confirmé",
+      "championnat": "Individuel Loisirs débutants et confirmés 2027",
+      "organisateur": "LES ARCHERS DE L'US CHANGE"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28249",
+      "id": "28249",
+      "nom": "TREMPLIN U11/U13 à LES SABLES D'OLONNE",
+      "dates": {
+        "texte": "Le 29 juillet 2027",
+        "debut": "2027-07-29",
+        "fin": "2027-07-29"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "LES SABLES D'OLONNE",
+        "comite_regional": "COMITE REGIONAL DES PAYS DE LA LOIRE",
+        "comite_departemental": "COMITE DEPARTEMENTAL DE VENDEE",
+        "latitude": "46.51212",
+        "longitude": "-1.77512",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Débutant",
+      "championnat": "Individuel Loisirs débutants 2027",
+      "organisateur": "LES ARCHERS SABLAIS"
+    },
+    {
+      "url": "https://www.ffta.fr/epreuve/28257",
+      "id": "28257",
+      "nom": "TROPHÉE HERACLÈS à VILLEJUIF",
+      "dates": {
+        "texte": "Le 25 septembre 2027",
+        "debut": "2027-09-25",
+        "fin": "2027-09-25"
+      },
+      "statut_evenement": null,
+      "localisation": {
+        "lieu": "VILLEJUIF",
+        "comite_regional": "COMITE REGIONAL ILE DE FRANCE",
+        "comite_departemental": "COMITE DEPARTEMENTAL VAL DE MARNE",
+        "latitude": "48.7885",
+        "longitude": "2.37461",
+        "gps_statut": "valide",
+        "gps_source": "ffta"
+      },
+      "documents": {
+        "mandat": null
+      },
+      "site": "https://twitter.com/FFTiralArc",
+      "discipline": "Loisirs Débutant et confirmé",
+      "championnat": "Individuel Loisirs débutants et confirmés 2028",
+      "organisateur": "US-VILLEJUIF TIR ARC"
     }
   ]
 }
